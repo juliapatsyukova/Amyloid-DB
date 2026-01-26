@@ -1,4 +1,4 @@
-# Unified Amyloid Staging Framework
+# Mapping the Sequence-Structure-Function Space of Amyloids: A Data-Centric Study of Aggregation Criteria
 
 This repository contains the complete data processing pipeline for creating a unified, evidence-weighted dataset for amyloidogenicity research. The project addresses the critical challenge of data heterogeneity and lack of standardization in the field of amyloid studies by integrating multiple public databases into a single, coherent resource with a quantitative confidence score for each entry.
 
