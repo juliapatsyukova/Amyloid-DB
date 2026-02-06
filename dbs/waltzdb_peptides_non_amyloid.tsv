@@ -1,0 +1,902 @@
+classification	Backbone Hbond	CF Helix	CF Strand	Class	Classification	Electrostatic kon	Electrostatics	Entropy Mainchain	Entropy Sidechain	FTIR Image	FTIR peaks	Hydrophobicity	Model	Mutant	PASTA antiparallel	PASTA parallel	Position	Proteostat binding	Reference	Sequence	Sidechain Hbond	Solvation Hydrophobic	Solvation Polar	Stability	Structures	TANGO	TEM Staining	TEM image	THT image	Th-T Binding	UniProt AC	UniProt ID	VdW	VdW Clashes	WALTZ
+non-amyloid	-42	136.8	87.5	7	non-amyloid	-1.8	-4	75.5	8.4			83.3	AAAQAA.pdb		2.6	3.08	324			AAAQAA	-3	-38.8	53.3	18.1	N.A.	0	no				TADBP_HUMAN	Q13148	-31.9	2.2	0
+non-amyloid	-51	120.2	85.8	1	non-amyloid	1.9	1.1	81	23.2			50	AAELRN.pdb		2.29	2.36	0		20154676	AAELRN	-8.8	-75.8	83	-0.4	N.A.	0	N.A.				N.A.	N.A.	-56	0	0
+non-amyloid	-51.4	119	109.2	1	non-amyloid	6	8.4	81.7	27			83.3	AAIDWF.pdb		-1.02	-2.09	349			AAIDWF	0	-103.9	95.3	-2.5	N.A.	0	no				FUS_HUMAN	P35637	-73.7	0.7	0
+non-amyloid	-36.4	102.3	102.2	5	non-amyloid	-1.1	-1.5	71.3	15.9			66.7	AAIGWG.pdb		0.48	0.66	381			AAIGWG	0	-58.3	46.8	0.9	N.A.	0	no				TADBP_HUMAN	Q13148	-40	2.4	0
+non-amyloid	-59.4	111.7	92.7	1	non-amyloid	2	3.7	77.4	21.2			50	AALQSS.pdb		0.13	1.03	328			AALQSS	-11.7	-57.4	69	2.5	N.A.	0	no				TADBP_HUMAN	Q13148	-44.9	0.4	0
+non-amyloid	-30.6	104.3	70.7	1	non-amyloid	3.4	5.4	103.4	16.1			66.7	AAPKPK.pdb		6.54	8.48	136			AAPKPK	-1.5	-75.5	61.5	44	N.A.	0	no				ERF3_YEAST	P05453	-50.5	11.9	0
+non-amyloid	-48.3	133.3	95.3	1	non-amyloid	2.9	5.8	86	15.6			83.3	AAQAAL.pdb		1.57	1.67	325			AAQAAL	-2	-69.8	68.9	10.9	N.A.	0	no				TADBP_HUMAN	Q13148	-48.5	0.1	0
+non-amyloid	-50.8	117.7	104.7	6	non-amyloid	-0.8	2.2	77	34.3			66.7	AARRFF.pdb		-0.92	0.54	0		20154676	AARRFF	-10.5	-79.1	87.6	0.4	N.A.	0	N.A.				N.A.	N.A.	-64.2	2.2	0
+non-amyloid	-38.8	114.2	103.2	6	non-amyloid	-1.5	-1	67.1	11.3			50	AAVDQT.pdb		-0.16	1.21	124			AAVDQT	-4.8	-32.2	44.6	18.6	N.A.	0	no				CSGA_ECOLI	P28307	-26.6	0.1	0
+non-amyloid	-49.3	90	113.7	1	non-amyloid	1.1	3.4	73.7	14.8			66.7	ACGVIG.pdb		-3.39	-1.3	146			ACGVIG	0	-66	68.7	-0.6	N.A.	0	no				SODC_HUMAN	P00441	-48.3	0.6	0.1
+non-amyloid	-49.6	95.7	94.5	1	non-amyloid	3	2.3	75.6	20.7			33.3	ADVGQG.pdb		1.69	3.46	79			ADVGQG	-7.9	-59.1	71	13.7	N.A.	0	no				CSGA_ECOLI	P28307	-46.6	3.8	0
+non-amyloid	-50.8	114.2	96.5	1	non-amyloid	7.6	9.9	67.7	18	ADVSIE.png	1678.93/1642.19	50	ADVSIE.pdb		-0.65	-0.83	96	0		ADVSIE	-0.2	-71.7	68.5	2	N.A.	0	yes	ADVSIE.png			SODC_HUMAN	P00441	-49.7	0.7	34.8
+non-amyloid	-45.1	123.7	86	7	non-amyloid	-2.3	-13.1	73.4	34.4			50	AEKLFD.pdb		0.44	2.03	0		20154676	AEKLFD	-2.2	-86.2	79.9	-11.6	N.A.	0	N.A.				N.A.	N.A.	-60.8	7.2	0.2
+non-amyloid	-43.2	129.8	89.8	7	non-amyloid	1.6	-2.9	77.1	36			66.7	AEMEYL.pdb		-0.5	1.81	0		20154676	AEMEYL	-11.1	-83.7	73.7	-10.5	N.A.	0	N.A.				N.A.	N.A.	-59.5	0.6	0.7
+non-amyloid	-47.5	101.3	72.2	7	non-amyloid	-2.5	-6.9	80.7	22.1			16.7	AENGKS.pdb		2.51	4.12	35		16537487	AENGKS	-15.6	-30.5	46.6	20	N.A.	0	N.A.				B2MG_HUMAN	P61769	-27	0.2	0
+non-amyloid	-41.8	116.5	66.2	7	non-amyloid	-2.9	-9	72.3	29.9			16.7	AESDKK.pdb		2.17	5.62	166			AESDKK	-23.1	-38.9	65.3	18.1	N.A.	0	no				ERF3_YEAST	P05453	-34.2	0.2	0
+non-amyloid	-38.9	116.3	67.5	6	non-amyloid	-0.5	-3.6	63.3	23.2			33.3	AETKEP.pdb		3.44	7.38	177			AETKEP	-11.7	-42.9	58	13.1	N.A.	0	no				ERF3_YEAST	P05453	-34.6	0.1	0
+non-amyloid	-49.3	130.5	105.5	1	non-amyloid	2.9	3.2	71.6	17.6			83.3	AEVLAL.pdb		-0.94	-1.82	0		20154676	AEVLAL	0	-79.1	71.4	-11.6	N.A.	0	N.A.				N.A.	N.A.	-52.6	2.2	0
+non-amyloid	-42.2	94	100	1	non-amyloid	3.4	7.3	63.1	30.7			66.7	AFSINP.pdb		1.32	-0.68	315			AFSINP	-13.8	-88.8	77.4	-5.1	N.A.	0	no				TADBP_HUMAN	Q13148	-63.4	21	0
+non-amyloid	-43	98.5	95.2	7	non-amyloid	-2.1	-4.2	88.9	27.6			50	AGFQPQ.pdb		2.9	5	115			AGFQPQ	-8.2	-59.5	56.8	10.5	N.A.	0	no				ERF3_YEAST	P05453	-46.1	0.1	0
+non-amyloid	-50.4	84.2	106.2	1	non-amyloid	2.5	4.8	83.7	23			50	AGGYYQ.pdb		0.02	3.4	42			AGGYYQ	-15.3	-59	61.5	5.7	N.A.	0	no				ERF3_YEAST	P05453	-46.3	0.8	13.9
+non-amyloid	-48.3	77.8	76.3	8	non-amyloid	-2	-4.2	72.9	6.3			16.7	AGSGSG.pdb		1.95	4.85	391			AGSGSG	-5.5	-12.1	31.9	25.5	N.A.	0	no				TADBP_HUMAN	Q13148	-14.8	1.1	0
+non-amyloid	-44.2	100.2	105.8	7	non-amyloid	-2	-4.3	78.6	28.6	AGYQQQ.png	1680.49	33.3	AGYQQQ.pdb		0.75	4.24	67	5.26		AGYQQQ	-15.4	-54.5	68.5	10.5	N.A.	0	yes	AGYQQQ.png			ERF3_YEAST	P05453	-45.7	0.7	0
+non-amyloid	-44.6	112.2	104.3	7	non-amyloid	0.3	-4.7	69.7	28.7			66.7	AIDWFD.pdb		-0.39	-0.99	350			AIDWFD	-7.7	-87.6	100.2	-4.9	N.A.	0	no				FUS_HUMAN	P35637	-66.7	4.2	18.2
+non-amyloid	-52.5	91.5	100.8	1	non-amyloid	2.9	6.6	85.2	21.8			50	AIGWGS.pdb		-0.24	0.34	382			AIGWGS	-8.6	-70.7	66.6	15.2	N.A.	0	no				TADBP_HUMAN	Q13148	-51.7	11.9	0
+non-amyloid	-44.2	108.3	112.7	7	non-amyloid	-2.1	-4.7	65.9	35.1			50	AINKIQ.pdb		-0.7	-2.33	0		20154676	AINKIQ	-9.1	-80.2	78.4	-16.1	N.A.	0	N.A.				N.A.	N.A.	-57.3	0.6	17.6
+non-amyloid	-49.1	88	97.5	1	non-amyloid	3.5	5.2	68.7	31.6			33.3	AISNNN.pdb		1.77	-2.69	135			AISNNN	-31	-58.3	82	6.3	N.A.	0	no				NRP1_YEAST	P32770	-50	0.7	0
+non-amyloid	-48.8	120	109.2	1	non-amyloid	2.3	5.9	76.1	27.8			66.7	ALALQT.pdb		-0.97	-0.05	56			ALALQT	-3.4	-89.4	72.4	-13.3	N.A.	0	no				CSGA_ECOLI	P28307	-59.1	2.4	0
+non-amyloid	-62.1	106	101.7	1	non-amyloid	2	3.8	75.6	37			50	ALQSSW.pdb		-0.93	-0.22	329			ALQSSW	-27	-66	91.9	-1.6	N.A.	0	no				TADBP_HUMAN	Q13148	-58.7	0.2	0
+non-amyloid	-43.6	116.7	96.5	7	non-amyloid	-2.4	-0.9	66.8	25.5			50	ALQTDA.pdb		0.69	2.46	58			ALQTDA	-11.5	-59.2	76.5	5	N.A.	0	no				CSGA_ECOLI	P28307	-47.6	0.3	0
+non-amyloid	-39.3	143	90.3	6	non-amyloid	-0.9	-1.1	75.8	20.3			100	AMMAAA.pdb		0.62	1.16	321			AMMAAA	0	-70.9	50	-13.6	N.A.	0	no				TADBP_HUMAN	Q13148	-49.2	1.5	0
+non-amyloid	-65.6	102	107.5	1	non-amyloid	3.2	5.6	73.4	38.6			50	AMNITN.pdb		-0.58	-2.61	227			AMNITN	-22.9	-87.6	88.9	-23.1	N.A.	0	no				GLN3_YEAST	P18494	-64.6	3.7	0.6
+non-amyloid	-48.5	110.3	87	1	non-amyloid	3.3	2.6	72.2	20.1	ANATKK.png	1679/1654	33.3	ANATKK.pdb		1.06	2.67	155	5.1		ANATKK	-8.1	-58.5	75.6	14	N.A.	0	yes	ANATKK.png			ERF3_YEAST	P05453	-44.9	0	0
+non-amyloid	-53.6	81.2	85.7	1	non-amyloid	2.6	4.6	78.6	32.5			16.7	ANNNSN.pdb		3.88	-0.86	18			ANNNSN	-53.6	-46.5	101.4	18.2	N.A.	0	no				NSP1_YEAST	P14907	-52.7	2.4	0
+non-amyloid	-52.1	83.2	93	1	non-amyloid	2.6	6.1	74.6	28.5			33.3	ANNYSS.pdb		0.84	-0.43	71			ANNYSS	-35.3	-46.8	79.8	11.5	N.A.	0	no				NUP59_YEAST	Q05166	-47.2	0.6	0
+non-amyloid	-38	99.7	69.2	2	non-amyloid	3.2	4.4	103.1	32.4			50	APKPKK.pdb		6.17	9.07	137			APKPKK	-7.4	-72	81.4	55.5	N.A.	0	no				ERF3_YEAST	P05453	-52.2	0.4	0
+non-amyloid	-50	128.2	99.8	1	non-amyloid	2.6	4.6	80.3	21.3			66.7	AQAALQ.pdb		1.29	2.17	326			AQAALQ	-6.9	-70.4	65.2	-2	N.A.	0	no				TADBP_HUMAN	Q13148	-49.2	0.3	0
+non-amyloid	-40.2	117.5	87.3	1	non-amyloid	2.9	4.4	89	15.7			66.7	AQAQPA.pdb		4.52	5.94	37			AQAQPA	-5.2	-58.4	60.3	28.9	N.A.	0	no				ERF3_YEAST	P05453	-43.1	3.3	0
+non-amyloid	-45	108.3	124	7	non-amyloid	-2	-4.5	66.8	36.9			66.7	AQIVYK.pdb	V623A	-2.48	-3.07	623			AQIVYK	-5.8	-94	82.6	-20.3	N.A.	0	yes	47_wt2_V1A_1mM_01_5000x.jpg	VQIVYK_ 47.jpg	yes	TAU_HUMAN	P10636	-67.8	5.8	11.1
+non-amyloid	-39.6	94.3	80.2	7	non-amyloid	-1.8	-4	94.4	13.2			50	AQPAGG.pdb		5.14	7.38	39			AQPAGG	-3.8	-39.3	47.5	38.3	N.A.	0	no				ERF3_YEAST	P05453	-32	3.7	0
+non-amyloid	-42.8	93.7	80	8	non-amyloid	-1.9	-4	76.1	11.4			33.3	ASNAGS.pdb		2.04	2.13	388			ASNAGS	-8.9	-20.5	42.2	31.6	N.A.	0	no				TADBP_HUMAN	Q13148	-21.4	1.3	0
+non-amyloid	-65.8	103.2	96.2	1	non-amyloid	3	5.9	78.4	43.6			16.7	ASQQNQ.pdb		1.75	2.98	341			ASQQNQ	-39.9	-58	100.9	12.4	N.A.	0	no				TADBP_HUMAN	Q13148	-55.9	0.1	0
+non-amyloid	-46.1	101	93.3	7	non-amyloid	-1.1	-2.8	70.9	43.9			16.7	ASRQNQ.pdb	Q343R	1.92	3.37	0			ASRQNQ	-40.3	-45.9	81.2	14.8	N.A.	0	no				TADBP_HUMAN	Q13148	-46.7	0.4	0
+non-amyloid	-49.8	107.8	104.8	1	non-amyloid	3.2	-5.3	75.5	29.1			50	ATAHQY.pdb		-1.58	0.79	146			ATAHQY	-19.2	-68.3	92.6	6.7	N.A.	0	no				CSGA_ECOLI	P28307	-56.5	2.2	0
+non-amyloid	-43.4	110	95.7	7	non-amyloid	-2.8	-8.1	64.9	26.3			33.3	ATKKVD.pdb		-0.62	1.89	0			ATKKVD	-4.9	-60.4	73.2	0.4	N.A.	0	no				ERF3_YEAST	P05453	-46.5	0.1	0
+non-amyloid	-35.8	111	105.5	6	non-amyloid	-1	-0.5	62.9	26.6		1677.71/1645.55	50	ATLDQW.pdb		-0.37	1.21	101	6.74		ATLDQW	-17.8	-57.4	67.8	1.3	N.A.	0	yes	ATLDQW.png			CSGA_ECOLI	P28307	-44.5	0.3	0
+non-amyloid	-44.1	99.2	117.2	7	non-amyloid	-1.1	-3.9	61.1	28.3			33.3	ATTRTV.pdb		-3.64	-0.12	329			ATTRTV	-22.6	-47.6	74.5	5.7	N.A.	0	no				ALS1_CANAL	Q5A8T4	-42.5	0.2	0
+non-amyloid	-40.2	103.7	106.5	5	non-amyloid	-1.9	-3.6	66.6	20.7			50	ATVSFD.pdb		-2.39	-1.52	337			ATVSFD	-11.3	-50.8	57.5	1.4	N.A.	0	no				FUS_HUMAN	P35637	-40	2.6	3.8
+non-amyloid	-43.3	114.2	103.2	7	non-amyloid	-0.4	-2.8	65.2	21.3			50	AVDQTA.pdb		-0.16	1.21	125			AVDQTA	-15.6	-41.4	65.8	13.4	N.A.	0	no				CSGA_ECOLI	P28307	-36.4	0.1	0
+non-amyloid	-47	96.2	122.7	1	non-amyloid	2.5	6.4	64	14.3	AVTTGV.png	1678.33/1647.92	50	AVTTGV.pdb		-3.73	-2.39	119	6.11		AVTTGV	-1.2	-64.5	77.6	13.3	N.A.	0	yes	AVTTGV.png			G1UBC2_CANAL	G1UBC2	-48.1	4	0
+non-amyloid	-43.8	112.2	99.2	7	non-amyloid	-2.1	-4.1	76	21.6			66.7	AYNAQA.pdb		1.57	1.49	34			AYNAQA	-13	-56.3	66.4	0.5	N.A.	0	no				ERF3_YEAST	P05453	-46.8	1.5	0
+non-amyloid	-33.9	65.8	83.7	6	non-amyloid	-0.9	-1.4	87	20.1			33.3	CPSGNN.pdb	G348C	2.34	3.48	0			CPSGNN	-13.6	-27.9	45.3	52.5	N.A.	0	no				TADBP_HUMAN	Q13148	-26.2	3.8	0
+non-amyloid	-49.7	109.2	99.7	1	non-amyloid	6.1	10.4	75.6	27.6			66.7	DADLYL.pdb		0.62	1.15	0		20154676	DADLYL	-5.4	-92.1	76.1	-9.1	N.A.	0	N.A.				N.A.	N.A.	-60.6	1.9	0.2
+non-amyloid	-47.6	98.5	96.5	1	non-amyloid	3.2	4.6	79.9	23.3	DAGYQQ.png	1678.78/1647.62	33.3	DAGYQQ.pdb		1.66	4.84	66	0		DAGYQQ	-15.8	-48.9	58.7	19.5	N.A.	0	yes	DAGYQQ.png			ERF3_YEAST	P05453	-39.4	1.3	0
+non-amyloid	-50.8	101.2	123.8	1	non-amyloid	3.4	7.2	74.2	22.9			66.7	DATVYV.pdb	L38D	-2.47	-4.52	38			DATVYV	-8.3	-74.3	77.5	-0.5	N.A.	0	yes	17_ApoAI_L1D_1mM_04_5000x.jpg		no	APOA1_HUMAN	P02647	-53.7	0.2	0.1
+non-amyloid	-49.6	104.3	98.2	1	non-amyloid	7.8	3.9	73.5	28.9			50	DDSLFF.pdb		-1.19	-0.77	0		20154676	DDSLFF	-1.7	-93.8	88.4	0	N.A.	0	N.A.				N.A.	N.A.	-66.4	7.2	43
+non-amyloid	-49.9	110.2	104	1	non-amyloid	6.6	3.8	76.2	33.7			66.7	DECFFF.pdb		-4.79	-1.52	0		20154676	DECFFF	-5.1	-95.5	87.1	-4.8	N.A.	0	N.A.				N.A.	N.A.	-69.5	6	6.8
+non-amyloid	-57.8	97	87.7	2	non-amyloid	6.7	5.7	78.5	32.8			16.7	DENNTF.pdb		1.19	0.98	716			DENNTF	-30.2	-66.8	97.8	12.4	N.A.	0	no				YP022_YEAST	Q12139	-59.5	0.8	0
+non-amyloid	-51.2	109.2	118.3	1	non-amyloid	8.3	13.1	64.8	22.8	DETVIV.png	1680.28/1659/1648.06	50	DETVIV.pdb		-3.32	-3.48	306	6.73		DETVIV	-3.2	-77.9	82.8	5.8	N.A.	0	yes	DETVIV.png			FLO1_YEAST	P32768	-55	0	0
+non-amyloid	-41.8	110.2	99.3	6	non-amyloid	0.2	-2.1	63.5	48.5			16.7	DFQKQQ.pdb		0.51	3.86	128			DFQKQQ	-32.8	-68.9	81.5	-6.1	N.A.	0	no				ERF3_YEAST	P05453	-55.8	0.6	0
+non-amyloid		110.2	99.3	class7	non-amyloid							16.7	DFQKQQ.pdb		0.51	3.86	128			DFQKQQ				-1.79	N.A.	0	no				ERF3_YEAST	P05453			0
+non-amyloid	-52.2	114.7	100.8	1	non-amyloid	12.8	23.6	70.2	28.4			50	DIEVDL.pdb		-0.33	-0.82	54		16537487	DIEVDL	-2.9	-97.7	82.8	3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.1	1.4	0
+non-amyloid	-52.9	94.2	121.5	1	non-amyloid	3.2	4.5	67.6	31.2			50	DILTYT.pdb		-3.68	-1.77	0		20154676	DILTYT	-8	-79.7	75.5	-14.2	N.A.	0	N.A.				N.A.	N.A.	-57	0.6	33.6
+non-amyloid	-38.3	130.3	52.2	5	non-amyloid	1.5	-7.3	67	37.6			0	DKKEEE.pdb		3.13	8.1	169			DKKEEE	-11.2	-57.9	94.4	39.6	N.A.	0	no				ERF3_YEAST	P05453	-47.9	1	0
+non-amyloid	-47.5	96.8	92	7	non-amyloid	-0.8	-3.3	68.7	35.1			33.3	DLLKNG.pdb		1.68	1.64	58		16537487	DLLKNG	-9.9	-81	72.7	-21.1	N.A.	0	N.A.				B2MG_HUMAN	P61769	-56.6	0.4	0
+non-amyloid	-48.2	101.2	115.3	1	non-amyloid	3.2	4.4	63.3	32.5			33.3	DLTITQ.pdb		-2.5	-0.46	67			DLTITQ	-8.1	-80.8	70.5	-17.1	N.A.	0	no				CSGA_ECOLI	P28307	-54.9	0.3	0
+non-amyloid	-56	95.2	96.8	1	non-amyloid	2.9	2.4	70.3	39	DLTQRG.png	1679.18/1655.63/1639.37	16.7	DLTQRG.pdb		0.75	4.32	91	7.86		DLTQRG	-18.2	-79.8	89.7	-11.7	N.A.	0	yes	DLTQRG.png			CSGA_ECOLI	P28307	-63.3	0.1	0
+non-amyloid	-52	89.8	108.2	1	non-amyloid	6.1	1.6	70.4	34.1			33.3	DNNTIF.pdb		-0.61	-2.71	283			DNNTIF	-29.6	-77.2	101.5	-5.3	N.A.	0	no				FUS_HUMAN	P35637	-61.5	0.4	0.6
+non-amyloid	-42.8	96.8	88.3	6	non-amyloid	0.9	0.7	66.6	23			16.7	DQTASN.pdb		1.43	2.77	127			DQTASN	-24.8	-26.4	49.7	21.2	N.A.	0	no				CSGA_ECOLI	P28307	-26.3	0.1	0
+non-amyloid	-54	93	89.8	1	non-amyloid	3	4.7	83.6	38			16.7	DQWNGK.pdb		2.4	3.71	104			DQWNGK	-32.1	-68.8	94.6	11.7	N.A.	0	no				CSGA_ECOLI	P28307	-60.2	2.8	0
+non-amyloid	-55.9	80	82	1	non-amyloid	3.1	5.8	80.6	35.2			0	DSNQGN.pdb		3.54	3.27	3			DSNQGN	-40.8	-44.6	94.9	31.6	N.A.	0	no				ERF3_YEAST	P05453	-48.5	0.3	0
+non-amyloid	-27.7	108	70.3	6	non-amyloid	0.6	-4.9	78	22.5			33.3	DTKPAE.pdb		3.95	7.4	0			DTKPAE	-14.8	-49.1	67.5	38	N.A.	0	no				ERF3_YEAST	P05453	-38.9	4.2	0
+non-amyloid	-50.4	84.8	93.2	1	non-amyloid	3.2	4.4	79.3	23.5			16.7	DVGQGS.pdb		0.97	3.14	80			DVGQGS	-17.3	-35.2	53	30.3	N.A.	0	no				CSGA_ECOLI	P28307	-30.7	0.1	0
+non-amyloid	-44.1	82.7	95	7	non-amyloid	-1.3	-5.4	66.9	35.4			16.7	DVNRNG.pdb		2.55	1.32	152			DVNRNG	-37.6	-48.9	80	0.3	N.A.	0	no				PDR1_YEAST	P12383	-46.5	0.4	0
+non-amyloid	-51.6	107.3	91.7	1	non-amyloid	13.2	19.9	65.5	23.1	DVSIED.png	1682/1642.57	33.3	DVSIED.pdb		-0.02	0.27	97	0		DVSIED	-5.3	-70.6	77	21.5	N.A.	0	yes	DVSIED.png			SODC_HUMAN	P00441	-51.9	1.5	0
+non-amyloid	-52	118.3	116.2	2	non-amyloid	4	5	76.3	32.4			83.3	EALYLV.pdb		-2.4	-2.63	37		16537487	EALYLV	0	-99.2	95.7	-15.5	N.A.	0	N.A.				INS_HUMAN	P01308	-66.3	4.8	0.1
+non-amyloid	-58.4	112	103.7	1	non-amyloid	3	1.9	72.2	19.9			50	EATVSF.pdb		-2.9	-1.54	336			EATVSF	-8.4	-76.2	75.8	-22.2	N.A.	0	no				FUS_HUMAN	P35637	-56.6	1.8	0
+non-amyloid	-52.5	109.5	121	1	non-amyloid	2.6	4.9	74.7	21.8			66.7	EATVYV.pdb	L38E	-2.47	-4.52	38			EATVYV	-2.4	-86.7	86.1	-2.7	N.A.	0	yes	22_ApoAI_L1E_1mM_03_3000x.jpg		no	APOA1_HUMAN	P02647	-61.3	8.3	0
+non-amyloid	-44.8	118.5	101.2	7	non-amyloid	4	-2.4	73.7	35.9			66.7	ECFFFE.pdb		-5.3	-1.54	0		20154676	ECFFFE	-3.8	-99.7	88.8	-18.7	N.A.	0	N.A.				N.A.	N.A.	-73.8	1.5	25.5
+non-amyloid	-51.9	103.3	95.2	1	non-amyloid	7.1	8	66.3	23.1			33.3	EDSVIS.pdb		-1.37	-1.15	101			EDSVIS	-6.9	-62.6	80.3	15.8	N.A.	0	no				SODC_HUMAN	P00441	-50.2	0.7	0.3
+non-amyloid	-50.8	121.2	98.5	1	non-amyloid	6.5	7	78.8	40.9			66.7	EECLFL.pdb		-3.78	-0.54	0		20154676	EECLFL	-0.8	-110.6	90	-17.8	N.A.	0	N.A.				N.A.	N.A.	-74.7	2.3	4
+non-amyloid	-49.1	131	57.2	6	non-amyloid	4.7	-2.4	71	31.4			16.7	EEEKSA.pdb		2.15	6.09	172			EEEKSA	-22.2	-40	74.3	32.5	N.A.	0	no				ERF3_YEAST	P05453	-36.2	0.4	0
+non-amyloid	-45.1	138.7	49.3	7	non-amyloid	4.5	-5.6	73.6	42.7			0	EEKKEE.pdb		2.62	8.08	0			EEKKEE	-8.7	-69.1	99.7	38.2	N.A.	0	no				ERF3_YEAST	P05453	-55.3	0.3	0
+non-amyloid	-46.2	115	80.5	1	non-amyloid	2.8	-3.5	86.2	37.8			33.3	EEKPVQ.pdb		2.79	5.53	196			EEKPVQ	-10.4	-83.5	94.9	31.4	N.A.	0	no				ERF3_YEAST	P05453	-60.3	12.9	0
+non-amyloid	-35.8	131	57.2	6	non-amyloid	2.5	-3	66.5	29			16.7	EEKSAE.pdb		2.15	6.09	173			EEKSAE	-20.3	-36.2	61	32.3	N.A.	0	no				ERF3_YEAST	P05453	-32.2	0.3	0
+non-amyloid	-49.4	127.5	65	2	non-amyloid	8	3.1	78.5	33.6			16.7	EEKSEL.pdb		1.12	4.68	207			EEKSEL	-10.2	-69.9	91.7	33	N.A.	0	no				ERF3_YEAST	P05453	-53.9	0.1	0
+non-amyloid	-40.2	115.5	74.5	1	non-amyloid	2.2	3.2	84.4	30.1			33.3	EEPVKK.pdb		2.7	5.62	190			EEPVKK	-1.5	-80.1	79.7	23.5	N.A.	0	no				ERF3_YEAST	P05453	-55.7	0.9	0
+non-amyloid	-44.9	104.5	76.3	6	non-amyloid	0.2	-7.4	69.2	30			16.7	EHSDLS.pdb		-0.05	1.54	70		16537487	EHSDLS	-26	-43.9	80.5	20.5	N.A.	0	N.A.				B2MG_HUMAN	P61769	-40.6	0.2	0
+non-amyloid	-44.4	121.3	72	7	non-amyloid	6.6	-1.4	72.7	35.2			33.3	EKDEYA.pdb		1.92	5.62	94		16537487	EKDEYA	-19.1	-67.9	96	27.7	N.A.	0	N.A.				B2MG_HUMAN	P61769	-55.1	2.7	0
+non-amyloid	-45.6	132.5	55.5	7	non-amyloid	-1.8	-16.1	74.1	48.4			0	EKKEEK.pdb		2.13	7.59	0			EKKEEK	-10.6	-72.8	106.2	25.9	N.A.	0	no				ERF3_YEAST	P05453	-57.8	0.7	0
+non-amyloid	-49.8	107.2	101.2	1	non-amyloid	1.4	5.6	74.5	44.4			50	EKNLYL.pdb		-0.46	-0.16	0		20154676	EKNLYL	-16.4	-111.2	94.5	-29.1	N.A.	0	N.A.				N.A.	N.A.	-75.6	2.4	0.2
+non-amyloid	-41.7	103.7	94.2	1	non-amyloid	0.2	-1.4	84.2	37.8			33.3	EKPVQT.pdb		1.16	4.14	197			EKPVQT	-18.9	-85.6	92.7	20.4	N.A.	0	no				ERF3_YEAST	P05453	-60.4	12.2	0
+non-amyloid	-39.5	119.7	70.8	6	non-amyloid	1.1	2.7	69.8	20.4			16.7	EKSAET.pdb		0.52	4.7	174			EKSAET	-16.9	-32.5	50.6	28	N.A.	0	no				ERF3_YEAST	P05453	-28.5	0.2	0
+non-amyloid	-37.9	111.8	68	7	non-amyloid	1.1	-3	71.5	37.7	EKSELP.png	1677.63/1642.93	33.3	EKSELP.pdb		3.2	5.96	208	4.69		EKSELP	-17.5	-70.1	77.7	7.8	N.A.	0	yes	EKSELP.png			ERF3_YEAST	P05453	-52.9	0.8	0
+non-amyloid	-50.6	104.5	112.2	1	non-amyloid	3.1	4.1	75.6	46.1			50	ELNIYQ.pdb		-1.02	-1.45	44			ELNIYQ	-19.8	-99	80	-27.8	N.A.	0	no				CSGA_ECOLI	P28307	-68.4	0.8	116.5
+non-amyloid	-41	116.7	83.8	1	non-amyloid	7.6	6.5	81.5	35.4			50	ELPKVE.pdb		2.04	3.62	211			ELPKVE	-7.1	-89.8	78.4	12.9	N.A.	0	no				ERF3_YEAST	P05453	-60.1	0.6	0
+non-amyloid	-54.9	118.3	102.5	1	non-amyloid	2.7	3.4	70.3	40.4			33.3	EMTVKQ.pdb		-2.17	1.07	112			EMTVKQ	-16.9	-90.6	86.5	-18.6	N.A.	0	no				CSGA_ECOLI	P28307	-65.7	2.9	0
+non-amyloid	-33.8	110.3	82	7	non-amyloid	1.8	-2.5	67.5	25			33.3	EPTKVE.pdb		1.56	4.72	185			EPTKVE	-7.6	-59	73.1	28.4	N.A.	0	no				ERF3_YEAST	P05453	-45.6	7.2	0
+non-amyloid	-31.8	99.5	66	7	non-amyloid	-3.5	-11.4	70.9	39.7	EPTREP.png	1679/1645.64	33.3	EPTREP.pdb		5.9	10.04	0	4.77		EPTREP	-24.2	-63.3	81.8	21.3	N.A.	0	yes	EPTREP.png			ERF3_YEAST	P05453	-52	8.9	0
+non-amyloid	-33.2	115.5	74.5	7	non-amyloid	1.3	-4.8	70.9	28.8			33.3	EPVKKE.pdb		2.7	5.62	191			EPVKKE	-1.5	-70	76	23.5	N.A.	0	no				ERF3_YEAST	P05453	-51	6.4	0
+non-amyloid	-50	100.2	104.7	1	non-amyloid	7.3	3.5	79.1	32.3			50	ERGFFY.pdb		-1.98	0.89	45		16537487	ERGFFY	-3.8	-90.2	83	-0.8	N.A.	0	N.A.				INS_HUMAN	P01308	-67.4	4.4	0
+non-amyloid	-49.4	121.3	95.2	6	non-amyloid	-1.9	-19.3	71.7	41.3			33.3	ERIEKV.pdb		-0.92	0.95	64		16537487	ERIEKV	-9.1	-77.2	103.8	1.8	N.A.	0	N.A.				B2MG_HUMAN	P61769	-60.7	0.8	0
+non-amyloid	-42.3	118	58.5	7	non-amyloid	0.9	-8.9	70.4	34			0	ESDKKE.pdb		2.29	6.7	167			ESDKKE	-19.3	-48.6	84.9	28.8	N.A.	0	no				ERF3_YEAST	P05453	-43.3	0.2	0
+non-amyloid	-51.8	85.3	83	1	non-amyloid	3.3	6.7	72.2	30.4			0	ESNTNN.pdb		2.06	0.69	773			ESNTNN	-40.8	-46.2	89.4	19.1	N.A.	0	no				CYC8_YEAST	P14922	-46.8	0.3	0
+non-amyloid	-36.4	106.5	73.5	7	non-amyloid	1.3	-3.2	84.6	27.6			16.7	ETKEPT.pdb		1.93	7.07	178			ETKEPT	-7.6	-64.3	73.4	34.5	N.A.	0	no				ERF3_YEAST	P05453	-48.5	6.4	0
+non-amyloid	-54.3	110.3	136	1	non-amyloid	3.2	8.1	64.2	32.3	ETVIVI.png	1679.88/1645.72	66.7	ETVIVI.pdb		-5.63	-7.19	307	0		ETVIVI	-1.5	-102.5	88.7	-25.1	N.A.	1.1	yes	ETVIVI.png			FLO1_YEAST	P32768	-67.4	1.2	0
+non-amyloid	-50.7	104.2	107.3	1	non-amyloid	3.5	5.8	69.9	31.1			50	ETWFFG.pdb		-2.98	-0.75	0		20154676	ETWFFG	-7.8	-97.6	78.4	-22.2	N.A.	0	N.A.				N.A.	N.A.	-71.4	14.5	12.8
+non-amyloid	-54.1	119	99.2	2	non-amyloid	4.8	6.2	70.8	38.5			50	EVDLLK.pdb		-0.68	-0.13	56		16537487	EVDLLK	-2.5	-96.2	101	-11.1	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.2	1.3	0
+non-amyloid	-47.7	97.7	115	1	non-amyloid	2.8	5	72.5	23.4			33.3	EVTTGV.pdb		-3.61	-1.31	315			EVTTGV	-14	-64.8	83.1	14.4	N.A.	0	no				B2L5Z5_9ASCO	B2L5Z5	-49.8	0.6	0
+non-amyloid	-51.8	117.5	105.2	1	non-amyloid	4.3	7.2	70.3	37.8			66.7	EYLKIA.pdb		-1.54	-0.58	0		20154676	EYLKIA	-3.5	-100.2	74.7	-25.6	N.A.	0	N.A.				N.A.	N.A.	-66.2	1	1.6
+non-amyloid	-44.9	119.7	95	7	non-amyloid	-3.7	-5.6	73.6	58.6			33.3	FERQHM.pdb		-1.52	1.26	0		20133726	FERQHM	-26.2	-93.9	95.1	-11.6	N.A.	0	N.A.				N.A.	N.A.	-73.3	4.8	0
+non-amyloid	-54.4	91.3	112.2	1	non-amyloid	3.5	9	75.2	39.9			50	FFNLNN.pdb		-0.44	-4.99	3			FFNLNN	-19.9	-98.1	92.7	-23.3	N.A.	0	no				SWI1_YEAST	P09547	-73.9	1	0
+non-amyloid	-45.4	115	124.8	7	non-amyloid	-1.9	-2.2	77.3	49.5			83.3	FFWRFM.pdb		-4.79	-4.22	0		20154676	FFWRFM	-6.3	-124.6	99.1	-23.9	N.A.	0	N.A.				N.A.	N.A.	-90.3	18.9	55.1
+non-amyloid	-44.9	91.5	111.8	1	non-amyloid	2.8	8.2	84.4	40			66.7	FFYTPK.pdb		-1.84	0.59	48		16537487	FFYTPK	-8.4	-104.1	81	-0.4	N.A.	0	N.A.				INS_HUMAN	P01308	-72.7	11.2	0
+non-amyloid	-47.6	101.7	111.5	1	non-amyloid	3.5	8.9	81.7	18.7			66.7	FGAFSI.pdb		-2.93	-3.2	313			FGAFSI	0	-72.3	66.2	9.3	N.A.	0	no				TADBP_HUMAN	Q13148	-52.6	2	0
+non-amyloid	-50.1	117.7	92.5	1	non-amyloid	6.4	-5.3	86.9	39.8			50	FGELFE.pdb		-1.32	0.48	0		20154676	FGELFE	0	-92.9	164	-5.4	N.A.	0	N.A.				N.A.	N.A.	-67.9	11.5	0.6
+non-amyloid	-46	68	87.8	8	non-amyloid	-2	-1.8	79	8.8			16.7	FGGGNG.pdb		2.2	3.77	118			FGGGNG	-2.3	-24.6	40.4	29	N.A.	0	no				CSGA_ECOLI	P28307	-22.7	0.1	0
+non-amyloid	-44.7	88.2	98.8	7	non-amyloid	-2.1	-2.1	83.9	22			33.3	FGNNAT.pdb		0.61	-0.23	142			FGNNAT	-17.8	-45.2	66.3	22	N.A.	0	no				CSGA_ECOLI	P28307	-40.9	0.8	0
+non-amyloid	-43.5	80.3	93.7	7	non-amyloid	-2.1	-2.1	74.7	27			16.7	FGNQSG.pdb	G287S	0.86	2.01	0			FGNQSG	-17.1	-41.7	59.9	17.2	N.A.	0	no				TADBP_HUMAN	Q13148	-38.4	0.1	0
+non-amyloid	-40.7	89.8	96.5	5	non-amyloid	-1.1	1.4	73.4	17.3			33.3	FGNSAT.pdb		-0.54	0.23	97			FGNSAT	-9.1	-42.2	55.1	25.3	N.A.	0	no				CSGA_ECOLI	P28307	-36.8	7.7	0
+non-amyloid	-44.1	78.2	90.8	7	non-amyloid	-0.4	-1.9	72.9	23.8			16.7	FGNSRG.pdb		1.03	2.4	289			FGNSRG	-20.7	-39.6	67.1	18.1	N.A.	0	no				TADBP_HUMAN	Q13148	-40.3	0.3	0
+non-amyloid	-48.2	91.8	117.5	1	non-amyloid	3.5	8.8	76.8	23.2			50	FGTFSI.pdb	A315T	-4.44	-3.51	0			FGTFSI	0	-78.1	73.7	4.8	N.A.	0	no				TADBP_HUMAN	Q13148	-57.7	1.1	0
+non-amyloid	-45.1	92.7	94.8	1	non-amyloid	5.4	15.6	84.9	29.7			50	FHPSDI.pdb		0.31	0.03	50		16537487	FHPSDI	-9	-90.2	96.8	31.4	N.A.	0	N.A.				B2MG_HUMAN	P61769	-69.1	8.6	0
+non-amyloid	-66.3	84.5	123.7	1	non-amyloid	3.2	9.1	69.6	42.2			50	FINYTN.pdb		-2.7	-4.62	570			FINYTN	-33.5	-99	112.4	-13.6	N.A.	0	no				MRN1_YEAST	Q08925	-78.4	17.7	5.3
+non-amyloid	-48.4	101.8	119.5	1	non-amyloid	1.6	6.1	76.9	44.9			50	FKQIGI.pdb		-2.75	-2.49	305			FKQIGI	-7.8	-106.9	81	-11.7	N.A.	0	no				FUS_HUMAN	P35637	-69.2	0.9	0
+non-amyloid	-54.3	102.2	124.3	1	non-amyloid	3.5	14.7	75.6	42.5			66.7	FLKYFT.pdb		-5.07	-3.18	0		20154676	FLKYFT	-3.7	-123.2	95	-25.1	N.A.	0	N.A.				N.A.	N.A.	-85.1	7.5	0.9
+non-amyloid	-53.7	116.7	139.8	1	non-amyloid	3.2	9.3	75.6	46.9			100	FMFFII.pdb		-6.98	-9.08	0		20154676	FMFFII	0	-142.4	87.1	-46.7	N.A.	311.9	N.A.				N.A.	N.A.	-92.6	15.9	109.5
+non-amyloid	-45.5	110	109	7	non-amyloid	-2.5	-1.2	76.6	39.5			66.7	FMFNDL.pdb	S297F	-1.8	-3.04	0			FMFNDL	-6	-105.9	100.3	-12	N.A.	0	no				AGAL_HUMAN	P06280	-78.8	7.1	0
+non-amyloid	-41.6	104	98.5	6	non-amyloid	-1.9	0.3	77.2	31.6	FMSNDL.png	1715/1680/1646	50	FMSNDL.pdb		-0.73	-1.45	295	0		FMSNDL	-14.6	-66.9	76.4	6.5	N.A.	0	yes	FMSNDL.png			AGAL_HUMAN	P06280	-55.3	0.4	0
+non-amyloid	-48.8	86.8	98.2	1	non-amyloid	4	9.2	78.3	26.6			33.3	FNKFGG.pdb		-0.3	0.51	262			FNKFGG	-4.7	-74.1	64	1	N.A.	0	no				FUS_HUMAN	P35637	-55.8	1.2	0
+non-amyloid	-44.9	77	90.3	1	non-amyloid	3.3	10.6	95.8	24			33.3	FNPQGG.pdb		3.78	4.69	92			FNPQGG	-14.6	-56.3	55.8	36.7	N.A.	0	no				ERF3_YEAST	P05453	-44.3	6.7	0
+non-amyloid	-50.7	75	106.8	1	non-amyloid	3.5	9	72.4	39.6			33.3	FNYNNN.pdb		1.35	-3.26	104			FNYNNN	-43.2	-75.6	102.1	-5.5	N.A.	0	no				ERF3_YEAST	P05453	-67.8	3.1	0
+non-amyloid	-56.8	112.3	102.7	1	non-amyloid	4.6	11.1	76.9	66.4			16.7	FQKQQK.pdb		-0.49	3.35	129			FQKQQK	-40.9	-98.5	107.8	-4.1	N.A.	0	no				ERF3_YEAST	P05453	-77.9	3	0
+non-amyloid	-39.6	96.7	99.7	7	non-amyloid	-2.1	-2.3	88.1	44.2			33.3	FQPQSQ.pdb		1.73	4.21	117			FQPQSQ	-23.3	-73	76.8	31.1	N.A.	0	no				ERF3_YEAST	P05453	-58.8	19.4	0
+non-amyloid	-38.1	98.3	92.2	6	non-amyloid	-2.3	-3.8	70.1	38.7			33.3	FSKDWS.pdb		-1.15	0.47	76		16537487	FSKDWS	-25.1	-72.3	92.3	7.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-59.5	6.5	0
+non-amyloid	-46.3	91.5	98.8	7	non-amyloid	-2	-2.3	74.6	21.2			33.3	FSNATN.pdb		-0.28	-1.52	564			FSNATN	-9.8	-47.3	68.2	17.3	N.A.	0	no				NGR1_YEAST	P32831	-41.8	2.2	0
+non-amyloid	-25.9	100.2	90.3	6	non-amyloid	-2.4	-3	73.9	27.4			33.3	FTPTEK.pdb		0.02	4.08	90		16537487	FTPTEK	-10.4	-69.3	71.9	23.1	N.A.	0	N.A.				B2MG_HUMAN	P61769	-52.2	11.9	0
+non-amyloid	-54.4	103	120.7	1	non-amyloid	1.6	9.8	69.9	46.1			50	FVNQHL.pdb		-2.88	-4.85	25		16537487	FVNQHL	-19.5	-101.4	105.4	-8.1	N.A.	0	N.A.				INS_HUMAN	P01308	-75.4	7.1	0
+non-amyloid	-32.9	86.5	108.7	6	non-amyloid	-0.4	2.1	76.7	33			50	FYTPKT.pdb		-1.56	2.19	49		16537487	FYTPKT	-13	-83.7	64.2	4.8	N.A.	0	N.A.				INS_HUMAN	P01308	-60	12.9	0
+non-amyloid	-46.4	102.3	102.2	1	non-amyloid	3.5	6.5	83.4	15.7			66.7	GAAIGW.pdb		0.48	0.66	380			GAAIGW	0	-66.3	53.2	5.9	N.A.	0	no				TADBP_HUMAN	Q13148	-45.8	1.1	0
+non-amyloid	-43.1	109.8	95.8	7	non-amyloid	-2.3	-1.9	72.7	6.8	GAAVDQ.png	1678.99/1647.79	50	GAAVDQ.pdb		1.52	2.49	123	4.55		GAAVDQ	-0.6	-35.3	50.6	17.6	N.A.	0	yes	GAAVDQ.png			CSGA_ECOLI	P28307	-29.5	0	0
+non-amyloid	-49.8	95.7	94.5	1	non-amyloid	3.8	5.9	81.7	20.2			33.3	GADVGQ.pdb		1.69	3.46	78			GADVGQ	-12.8	-52.6	67.9	22.6	N.A.	0	no				CSGA_ECOLI	P28307	-42.2	0.1	0
+non-amyloid	-52.5	94	103.3	1	non-amyloid	3.4	8	71.2	25.4			50	GAFSIN.pdb		-0.71	-2.07	314			GAFSIN	-9.9	-70.7	70.7	-2.8	N.A.	0	no				TADBP_HUMAN	Q13148	-52.1	1.9	269.7
+non-amyloid	-49.8	102.7	93.2	1	non-amyloid	3.6	3.1	69.7	10.4			33.3	GEATVS.pdb		-0.94	1.34	335			GEATVS	-1.8	-47.2	57.3	9.2	N.A.	0	no				FUS_HUMAN	P35637	-36.8	0.1	0
+non-amyloid	-49	98.2	92.7	6	non-amyloid	-2.1	-11.7	78.8	33			33.3	GERGFF.pdb		-0.35	2.67	44		16537487	GERGFF	-3.6	-70.7	77.5	2.8	N.A.	0	N.A.				INS_HUMAN	P01308	-55.8	4.4	0
+non-amyloid	-45.4	97	113.3	7	non-amyloid	-2.1	-3.5	72.8	35			50	GFFNLQ.pdb		-1.41	-1.96	503			GFFNLQ	-10.8	-90	75.6	-29.5	N.A.	0	no				LAMA2_HUMAN	P24043	-66.7	3.1	20
+non-amyloid	-37.1	82	112	6	non-amyloid	-1.1	0.2	61.1	25.3			66.7	GFFYTP.pdb		-1.3	0.97	47		16537487	GFFYTP	-1.8	-79.8	59.5	-23.6	N.A.	0	N.A.				INS_HUMAN	P01308	-57.9	6.3	2.7
+non-amyloid	-53.6	83.8	91.5	1	non-amyloid	1.6	5.3	75.3	18.1			33.3	GFGNNA.pdb		2.29	1.05	141			GFGNNA	-13.4	-48.3	69.6	13.3	N.A.	0	no				CSGA_ECOLI	P28307	-43.6	0.3	0
+non-amyloid	-41.2	80.3	93.7	6	non-amyloid	-1.1	-0.9	71.8	18.9			16.7	GFGNQS.pdb	G287S	0.86	2.01	0			GFGNQS	-9.5	-37.5	43	13.9	N.A.	0	no				TADBP_HUMAN	Q13148	-31.4	1.1	0
+non-amyloid	-56.8	85.5	89.2	1	non-amyloid	3.2	5.4	83.8	19.5	GFGNSA.png	1679.23/1642.21	33.3	GFGNSA.pdb		1.14	1.51	96	0		GFGNSA	-18.8	-48.7	66.7	13.9	N.A.	0	yes	GFGNSA.png			CSGA_ECOLI	P28307	-42.4	0.6	0
+non-amyloid	-52	78.2	90.8	1	non-amyloid	1.2	0.8	78.2	31.6			16.7	GFGNSR.pdb		1.03	2.4	288			GFGNSR	-25.9	-48.5	73.2	17.2	N.A.	0	no				TADBP_HUMAN	Q13148	-44.9	0.3	0
+non-amyloid	-45	86.8	98.2	7	non-amyloid	-2	-3.8	68.9	29.4			33.3	GFNKFG.pdb		-0.3	0.51	261			GFNKFG	-9.6	-75.1	68.6	-22.7	N.A.	0	no				FUS_HUMAN	P35637	-56.4	1.6	2.6
+non-amyloid	-57	87.2	91.5	1	non-amyloid	3.2	5.2	76.3	25.6			33.3	GFNNSA.pdb		1.4	-0.24	44			GFNNSA	-27.7	-54.8	78.4	2.1	N.A.	0	no				NSP1_YEAST	P14907	-49.2	0.7	0.6
+non-amyloid	-42.7	74	94.2	7	non-amyloid	-2.1	-4.1	65.6	24.3			33.3	GFNNTP.pdb		2.81	2.13	414			GFNNTP	-12.1	-60.4	73.9	-5.4	N.A.	0	no				PUF2_YEAST	Q12221	-51.1	1.9	0
+non-amyloid	-31.4	79	92.7	7	non-amyloid	-1.9	-6	94.5	17.9			50	GFPGSF.pdb		1.12	2.74	144			GFPGSF	0	-65.2	56.3	20.9	N.A.	0	no				AGAL_HUMAN	P06280	-48.2	4.6	0
+non-amyloid	-34.8	87.7	93.8	6	non-amyloid	-1.1	-0.8	77.2	33.2			33.3	GFQPQS.pdb		2.18	4.68	116			GFQPQS	-17.5	-58.9	49.6	15.3	N.A.	0	no				ERF3_YEAST	P05453	-44.3	12.1	0
+non-amyloid	-56.8	82.3	96	1	non-amyloid	3.2	-0.6	78.5	22.4	GFSGSF.png	1676.69/1643.3	33.3	GFSGSF.pdb	P146S	-1.8	0.06	0	6.11		GFSGSF	-10.5	-58	64.3	5.7	N.A.	0	yes	GFSGSF.png			AGAL_HUMAN	P06280	-45	5.7	0
+non-amyloid	-52.3	74.7	92.5	1	non-amyloid	3.3	6.9	77.2	31.9			16.7	GFSNNN.pdb		1.83	-1.02	537			GFSNNN	-37.2	-58	88.3	7.5	N.A.	0	no				KSP1_YEAST	P38691	-55.4	2.8	0
+non-amyloid	-45.7	77	93.7	7	non-amyloid	-2.1	-4.1	78.8	14			16.7	GGFGNQ.pdb		1.75	3.3	281			GGFGNQ	-5.8	-33.2	43.7	18.3	N.A.	0	no				TADBP_HUMAN	Q13148	-28.7	1	0
+non-amyloid	-48.4	86.8	98.2	2	non-amyloid	2.8	-0.3	77.4	27.4			33.3	GGFNKF.pdb		-0.3	0.51	260			GGFNKF	-10.1	-77.5	66.8	-6.3	N.A.	0	no				FUS_HUMAN	P35637	-56.7	9.9	0
+non-amyloid	-46.1	65.8	79.3	8	non-amyloid	-2	-4.2	78.1	7.6			0	GGGGNH.pdb		2.78	4.51	27			GGGGNH	-4.8	-18.1	37.4	30.1	N.A.	0	no				CSGA_ECOLI	P28307	-18.9	0.2	0
+non-amyloid	-47.7	60.3	79.7	8	non-amyloid	-2	-4.2	77.3	8.3			0	GGGGNN.pdb		4.42	4.9	33			GGGGNN	-6.6	-15	32.8	27.9	N.A.	0	no				CSGA_ECOLI	P28307	-16	0.1	0
+non-amyloid	-39.6	82.7	92.8	1	non-amyloid	3.3	2.7	76.9	26.9			33.3	GGGMNF.pdb		0.9	2.09	308			GGGMNF	-10	-69.6	67	6	N.A.	0	no				TADBP_HUMAN	Q13148	-52	0.3	0
+non-amyloid	-44.7	72.8	78.7	8	non-amyloid	-1.8	-4.1	81.9	2.1			16.7	GGGNGA.pdb		3.99	5.68	74			GGGNGA	-0.6	-14.2	26.2	31.6	N.A.	0	no				CSGA_ECOLI	P28307	-13.9	0.8	0
+non-amyloid	-45.8	65.8	79.3	8	non-amyloid	-2.1	-4.3	76.8	7			0	GGGNHG.pdb		2.78	4.51	28			GGGNHG	-3.6	-21	38.4	27.6	N.A.	0	no				CSGA_ECOLI	P28307	-21.2	1.9	0
+non-amyloid	-41.9	76.2	78.7	8	non-amyloid	-1.9	-4	71.4	7			16.7	GGGNSA.pdb		3.1	4.39	51			GGGNSA	-5.8	-14.3	31.5	28.2	N.A.	0	no				CSGA_ECOLI	P28307	-15.4	1.6	0
+non-amyloid	-48.8	82.7	92.8	1	non-amyloid	3.2	2.8	78.1	26.8			33.3	GGMNFG.pdb		0.9	2.09	309			GGMNFG	-10.1	-72.3	59.7	-10.5	N.A.	0	no				TADBP_HUMAN	Q13148	-52.6	2.4	0
+non-amyloid	-44.7	87	80	8	non-amyloid	-2	-4.2	79.8	2.8	GGNGAA.png	1679.52/1644.27	33.3	GGNGAA.pdb		3.82	4.71	120	0		GGNGAA	-0.9	-17.1	30.5	29.3	N.A.	0	yes	GGNGAA.png			CSGA_ECOLI	P28307	-16.2	1.2	0
+non-amyloid	-46.1	80.2	75.2	9	non-amyloid	-2.7	-6	76.9	5.2	GGNGAD.png	1679.68/1646	16.7	GGNGAD.pdb		4.45	5.81	75	10.82		GGNGAD	-2.8	-16.6	36	30.2	N.A.	0	yes	GGNGAD.png			CSGA_ECOLI	P28307	-16.3	2.4	0
+non-amyloid	-48.3	65.8	79.3	6	non-amyloid	-2.4	-5.3	73.5	12.1			0	GGNHGG.pdb		2.78	4.51	29			GGNHGG	-10.6	-28.2	57	21.9	N.A.	0	no				CSGA_ECOLI	P28307	-29	0.9	0
+non-amyloid	-50.4	63.7	79.7	8	non-amyloid	-1.6	-4	75.1	13.8			0	GGNNSG.pdb		3.53	3.61	35			GGNNSG	-16.5	-24.1	51.4	19.7	N.A.	0	no				CSGA_ECOLI	P28307	-26.4	1.7	0
+non-amyloid	-48	86.8	87.8	8	non-amyloid	-1.8	-4.3	77.1	14.6			33.3	GGNSAL.pdb		1.9	2.01	52			GGNSAL	-9.9	-32.8	51.6	21.6	N.A.	0	no				CSGA_ECOLI	P28307	-29.6	4.6	0
+non-amyloid	-53.7	87.3	92.5	8	non-amyloid	-1.6	-4.1	74	30.1			0	GGQQQS.pdb		1.66	5.7	137			GGQQQS	-16.9	-42.3	69.6	16	N.A.	0	no				FUS_HUMAN	P35637	-40	0.5	0
+non-amyloid	-48.7	67.5	92.3	2	non-amyloid	2.4	-1.6	83.4	25.2			16.7	GGRGNY.pdb		2.25	4.79	96			GGRGNY	-16.8	-50.4	67.8	19.4	N.A.	0	no				ERF3_YEAST	P05453	-44	1.1	0
+non-amyloid	-39.3	86	104.5	5	non-amyloid	-1.1	-1	69	22.7	GGYQQQ.png	1677.17/1658.12/1642.39	16.7	GGYQQQ.pdb		0.92	5.21	86	6.27		GGYQQQ	-16	-46.1	52.6	3.9	N.A.	0	yes	GGYQQQ.png			ERF3_YEAST	P05453	-38.3	1	0
+non-amyloid	-49	79	110.7	6	non-amyloid	-1.9	-4.9	78	38.7	GGYQQY.png	1678.31	33.3	GGYQQY.pdb		-0.26	3.9	58	5.3		GGYQQY	-26.3	-65.1	75.3	-5.2	N.A.	0	yes	GGYQQY.png			ERF3_YEAST	P05453	-54.6	3.2	0
+non-amyloid	-44.5	71.7	107.2	7	non-amyloid	-2.1	-3.6	74.5	30.5			33.3	GGYYQN.pdb		0.45	2.62	43			GGYYQN	-18.2	-60.5	64.4	-5.1	N.A.	0	no				ERF3_YEAST	P05453	-49.3	2.9	0
+non-amyloid	-65.4	89.5	112.8	1	non-amyloid	2.1	3.6	66.5	33.3			33.3	GIIKTN.pdb		-1.76	-2.17	309			GIIKTN	-17.4	-80.4	81.1	-29	N.A.	0	no				FUS_HUMAN	P35637	-57.1	1.8	0
+non-amyloid	-57.7	101.5	101.8	1	non-amyloid	3.5	5.2	74	29.9	GIKLAN.png	1680.17/1643.73	50	GIKLAN.pdb		0.4	-0.66	151	6.13		GIKLAN	-9.1	-84.6	74.5	-15.7	N.A.	0	yes	GIKLAN.png			ERF3_YEAST	P05453	-57.2	2.4	0
+non-amyloid	-53.9	100.7	99.8	1	non-amyloid	4.1	6.6	76.1	35.6	GKQAYQ.png	1678.34/1648.54	33.3	GKQAYQ.pdb	G328A	0.66	4.33	0	6.03		GKQAYQ	-17.3	-75.9	86	2.9	N.A.	0	yes	GKQAYQ.png			AGAL_HUMAN	P06280	-61	2	0.3
+non-amyloid	-46.1	86.5	98.5	7	non-amyloid	-2.1	-2.1	77	33.3	GKQGYQ.png	1678.21/1638.55	16.7	GKQGYQ.pdb		0.83	5.3	325	0		GKQGYQ	-17.2	-57.6	65.5	8.7	N.A.	0	yes	GKQGYQ.png			AGAL_HUMAN	P06280	-46	3	0
+non-amyloid	-45.4	106.5	118.7	7	non-amyloid	-2.1	-4.3	71.5	36.5			66.7	GLLLWQ.pdb		-1.38	-1.43	4241			GLLLWQ	-0.6	-105.7	70.1	-42.9	N.A.	0	no				PGBM_HUMAN	P98160	-67.8	3.2	16.9
+non-amyloid	-46.6	100.2	112.8	7	non-amyloid	-2.1	-4.1	72	41.7			50	GMFNIQ.pdb		-1.4	-1.96	0		20154676	GMFNIQ	-16.6	-92.6	74.3	-30.1	N.A.	0	N.A.				N.A.	N.A.	-67.6	1.2	367.6
+non-amyloid	-44.3	108.8	96.3	6	non-amyloid	-0.9	-1.2	70.5	24.7			50	GMLASQ.pdb		-0.11	1.61	338			GMLASQ	-5.6	-64.2	54.6	-11.5	N.A.	0	no				TADBP_HUMAN	Q13148	-46	0.5	0
+non-amyloid	-58.6	106.7	93.5	1	non-amyloid	1.6	1.3	79.6	25.1	GMLASR.png	1679.9	50	GMLASR.pdb	Q343R	0.06	2	0	0		GMLASR	-8.6	-71.2	68	-11.4	N.A.	0	yes	GMLASR.png			TADBP_HUMAN	Q13148	-52	1.1	0
+non-amyloid	-51.3	96.8	94.2	1	non-amyloid	3.1	7.3	84.2	25.9			50	GMNFGA.pdb		0.73	1.12	310			GMNFGA	-8.7	-77.6	59.7	-9.7	N.A.	0	no				TADBP_HUMAN	Q13148	-55.7	3.1	0
+non-amyloid	-52.5	87	100.2	1	non-amyloid	2.9	7.6	86.4	30.7			33.3	GMNFGT.pdb	A315T	-0.78	0.81	0			GMNFGT	-11	-85	69.1	-9.3	N.A.	0	no				TADBP_HUMAN	Q13148	-61.5	3.3	0
+non-amyloid	-42.7	94.7	88	6	non-amyloid	-0.3	-0.9	68.6	29.7			33.3	GMSLND.pdb		1.23	1.43	123			GMSLND	-9.3	-65.7	58.8	-9	N.A.	0	no				ERF3_YEAST	P05453	-48.9	0.8	0
+non-amyloid	-44.3	95.2	95.8	8	non-amyloid	-2	-4.2	78.8	5.1	GNGAAV.png	1679.8/1651/1637.3	50	GNGAAV.pdb		1.77	1.08	121	0		GNGAAV	-0.5	-26.1	41.3	30.4	N.A.	0	yes	GNGAAV.png			CSGA_ECOLI	P28307	-22.8	4.8	0
+non-amyloid	-37.6	88.3	91	6	non-amyloid	-1.5	-1.2	73.4	6			33.3	GNGADV.pdb		2.4	2.18	76			GNGADV	-5.4	-21.7	42	34	N.A.	0	no				CSGA_ECOLI	P28307	-20.7	0.3	0
+non-amyloid	-43.6	65.8	79.3	6	non-amyloid	-0.9	-0.9	72.9	12			0	GNHGGG.pdb		2.78	4.51	30			GNHGGG	-11.1	-26.9	49	26	N.A.	0	no				CSGA_ECOLI	P28307	-27.4	1	0
+non-amyloid	-50.6	93	89.7	2	non-amyloid	3.1	5.7	76	17.4			33.3	GNNATA.pdb		2.4	1.68	143			GNNATA	-26	-50.8	84.4	14.8	N.A.	0	no				CSGA_ECOLI	P28307	-45.2	0.5	0
+non-amyloid	-45.4	80	93.7	1	non-amyloid	3.3	5.5	69.2	46.9			0	GNNQQN.pdb		3.78	2.21	7			GNNQQN	-61.8	-59.7	105.9	4.1	N.A.	0	no				ERF3_YEAST	P05453	-61	0.3	0
+non-amyloid	-47.2	78.2	100.5	7	non-amyloid	-1.1	-3.2	71.1	42.2			16.7	GNNRYQ.pdb		2.06	2.57	25			GNNRYQ	-27.8	-59.1	81.5	6.2	N.A.	0	no				ERF3_YEAST	P05453	-53.9	1.4	0
+non-amyloid	-41.3	63.7	76.3	6	non-amyloid	-1.5	-2.7	68.2	15			16.7	GNNSGP.pdb		5.56	5	36			GNNSGP	-17.2	-21.2	45.5	22.1	N.A.	0	no				CSGA_ECOLI	P28307	-23.6	0.4	0
+non-amyloid	-43.7	69	91.7	7	non-amyloid	-2.1	-4.1	71.5	27.2			16.7	GNNSYS.pdb		1.01	0.54	370			GNNSYS	-22.5	-45.3	67.2	6.7	N.A.	0	no				TADBP_HUMAN	Q13148	-43.5	1.1	0.3
+non-amyloid	-58.3	85.7	94.8	1	non-amyloid	2	3.3	76	46.2			0	GNQQQG.pdb		2.81	5.24	20			GNQQQG	-39.9	-57	90.3	8.9	N.A.	0	no				ERF3_YEAST	P05453	-55.3	0.4	0
+non-amyloid		85.7	94.8	class7	non-amyloid							0	GNQQQG.pdb		2.81	5.24	20			GNQQQG				8.96	N.A.	0	no				ERF3_YEAST	P05453			0
+non-amyloid	-49.2	80.3	93.7	1	non-amyloid	3.2	2	79.7	23.5			16.7	GNQSGF.pdb	G287S	0.86	2.01	0			GNQSGF	-17	-55.7	68.1	7.6	N.A.	0	no				TADBP_HUMAN	Q13148	-47.3	0.3	0
+non-amyloid	-49.4	101	89.2	2	non-amyloid	3.1	5.1	76.3	14.3			50	GNSALA.pdb		1.73	1.04	53			GNSALA	-11.4	-56.8	72.8	9.8	N.A.	0	no				CSGA_ECOLI	P28307	-45	0.4	0
+non-amyloid	-56.1	91.2	95.2	1	non-amyloid	3.2	5.1	76.8	21.3			33.3	GNSATL.pdb		0.22	0.73	98			GNSATL	-20.2	-47	69.8	14.8	N.A.	0	no				CSGA_ECOLI	P28307	-39.2	0.4	0
+non-amyloid	-49.6	81.2	102	1	non-amyloid	3.4	3.8	74.7	36.7			33.3	GNYKNF.pdb		0.29	-0.14	99			GNYKNF	-23	-88.1	91.5	-12.5	N.A.	0	no				ERF3_YEAST	P05453	-69.9	5.4	0
+non-amyloid	-47.3	84	73.8	8	non-amyloid	-1.5	0.7	70.7	18.6			0	GQGSDD.pdb		3.48	6.9	82			GQGSDD	-17.8	-26	56.2	29.6	N.A.	0	no				CSGA_ECOLI	P28307	-26.4	1.9	0
+non-amyloid	-44.9	94.2	122.7	7	non-amyloid	-2.1	-4.5	65.6	36.7			50	GQIVYK.pdb	V623G	-2.48	-3.07	623			GQIVYK	-7	-87.9	77.6	-23.7	N.A.	0	yes	43_wt2_V1G_1mM_03_6000x.jpg		no	TAU_HUMAN	P10636	-63.9	3.8	4.5
+non-amyloid	-48.2	82.7	98.7	7	non-amyloid	-2.1	-4.2	67.6	34.1			0	GQNNTQ.pdb		1.84	2.68	977			GQNNTQ	-31.8	-42.8	73.7	7.9	N.A.	0	no				PDR1_YEAST	P12383	-42.8	1.3	0.2
+non-amyloid	-54	87.7	106.8	2	non-amyloid	3.8	3.3	75.6	45.9			16.7	GQQNQY.pdb		1.18	3.46	156			GQQNQY	-39.4	-72.6	92.4	-5.2	N.A.	0	no				FUS_HUMAN	P35637	-63	2.4	0
+non-amyloid	-61.7	89.3	104.5	1	non-amyloid	2	1	73.3	45			16.7	GQQQSY.pdb		0.03	3.92	138			GQQQSY	-34.1	-61.2	85	-4.2	N.A.	0	no				FUS_HUMAN	P35637	-55.3	0.3	0
+non-amyloid	-53	83.7	98.7	6	non-amyloid	-1.9	-3.5	74.4	35.5			16.7	GQQSYS.pdb		-0.41	3.1	34			GQQSYS	-30.8	-42.3	62.8	4.9	N.A.	0	no				FUS_HUMAN	P35637	-39.2	2.3	47
+non-amyloid	-49.5	78	92.8	1	non-amyloid	2.5	4.6	71	23.5			16.7	GQSSYS.pdb		-0.85	2.28	51			GQSSYS	-25.3	-42.3	67.4	13.3	N.A.	0	no				FUS_HUMAN	P35637	-42.1	3	15.1
+non-amyloid	-49.2	77	92.2	1	non-amyloid	4.1	7.3	77.4	22.5	GRGNYK.png	1679.08/1646	16.7	GRGNYK.pdb		1.71	4.41	97	6.48		GRGNYK	-19.4	-48.1	60.6	16.4	N.A.	0	yes	GNGAAV.png			ERF3_YEAST	P05453	-40.4	0.7	0
+non-amyloid		77	92.2	class7	non-amyloid					GRGNYK.png	1679.08/1646	16.7	GRGNYK.pdb		1.71	4.41	97	6.48		GRGNYK				18.8	N.A.	0	yes	GRGNYK.png			ERF3_YEAST	P05453			0
+non-amyloid	-51	95	107.7	1	non-amyloid	4.4	6.8	75.2	21.6			50	GRIGIA.pdb	V149R	-0.25	0.19	0			GRIGIA	0	-76.4	58.1	-7	N.A.	0	no				SODC_HUMAN	P00441	-49.7	1.5	0
+non-amyloid	-48.5	93.7	80	8	non-amyloid	-2	-4.2	69.4	13.7			33.3	GSASNA.pdb		2.04	2.13	386			GSASNA	-16.2	-24	49.2	16.2	N.A.	0	no				TADBP_HUMAN	Q13148	-26.2	4.1	0
+non-amyloid	-44.1	71.3	87.8	7	non-amyloid	-1.8	-4.2	72.2	15.8			16.7	GSGFNG.pdb		1.31	2.48	394			GSGFNG	-9.3	-41.1	58.9	11.3	N.A.	0	no				TADBP_HUMAN	Q13148	-37.4	1.2	0
+non-amyloid	-50.2	73	85.5	8	non-amyloid	-1.8	-6.7	77.4	14.8			16.7	GSGSGF.pdb		0.16	2.94	392			GSGSGF	-6.5	-28.7	44.2	20.1	N.A.	0	no				TADBP_HUMAN	Q13148	-26.6	3.8	0
+non-amyloid	-56	102	95.7	6	non-amyloid	-3.5	-6	69.4	27.9			33.3	GSHLVE.pdb		-1.67	-0.93	32		16537487	GSHLVE	-12.1	-56.4	71.1	-5.9	N.A.	0	N.A.				INS_HUMAN	P01308	-44.7	1.5	0
+non-amyloid	-59.4	77.3	97.5	1	non-amyloid	3.2	2.5	74.8	29.2			16.7	GSNNTF.pdb		-0.11	-0.55	49			GSNNTF	-27.1	-62	94.1	-0.7	N.A.	0	no				RLM1_YEAST	Q12224	-58.3	0.6	0
+non-amyloid	-50.5	79.5	78.7	8	non-amyloid	-1.8	-4.1	76	11.6			16.7	GSNSGA.pdb		2.21	3.1	376			GSNSGA	-13	-18	40.5	20.9	N.A.	0	no				TADBP_HUMAN	Q13148	-20.9	1.1	0
+non-amyloid	-44.5	104.7	102.8	7	non-amyloid	-1.8	-7	69.3	33.4			33.3	GTFFQE.pdb		-2.2	1	191			GTFFQE	-10.9	-78.4	75.1	-20.9	N.A.	0	no				G6PE_HUMAN	O95479	-60.4	2.3	0
+non-amyloid	-53.4	84.2	109.3	1	non-amyloid	3.4	8	64.1	27.2			33.3	GTFSIN.pdb	A315T	-2.22	-2.38	0			GTFSIN	-10.4	-72.9	75.5	-9.7	N.A.	0	no				TADBP_HUMAN	Q13148	-54.7	1.9	51.1
+non-amyloid	-47.8	86.8	111.8	7	non-amyloid	-2.1	-4	70.8	27.6			33.3	GVFNNQ.pdb		-0.04	-2.08	612			GVFNNQ	-14.8	-64.9	70.1	-11.6	N.A.	0	no				HCN1_HUMAN	O60741	-51.9	2.4	0
+non-amyloid	-52.3	71.8	100.2	1	non-amyloid	3.1	4.7	67.5	30.3			16.7	GVNNNN.pdb		2.89	-2.23	42			GVNNNN	-55.9	-47.2	90.6	-7.4	N.A.	0	no				URE2_YEAST	P23202	-49.8	1	0
+non-amyloid	-38.5	87.8	103	1	non-amyloid	3.3	6.6	83.5	13.8	GVPGIA.png	1678.55/1647.13	66.7	GVPGIA.pdb	I150P	1.86	1.61	0	0		GVPGIA	0	-58.6	48.8	20.4	N.A.	0	yes	GVPGIA.png			SODC_HUMAN	P00441	-39	0.3	0
+non-amyloid	-53	90.8	133.8	1	non-amyloid	2.9	6.1	62	26.1			50	GVTIIT.pdb		-5.21	-4.95	123			GVTIIT	-3.7	-85.5	66.4	-31.2	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-56.2	1.7	5.7
+non-amyloid	-41.2	84.3	121.2	1	non-amyloid	2.3	3.5	80.6	23.1			66.7	GVVPQY.pdb		-0.25	0.28	21			GVVPQY	-8.3	-88.8	66.6	-10	N.A.	0	no				CSGA_ECOLI	P28307	-61.2	13	0
+non-amyloid	-44.8	94	145.7	7	non-amyloid	-2.1	-4.2	56.4	16.7	GVVVVT.png	1679.8/1644.79	66.7	GVVVVT.pdb		-5.98	-7.4	384	45.6		GVVVVT	-0.2	-61.4	60.9	-21.6	N.A.	5.8	yes	GVVVVT.png			B2L5Z5_9ASCO	B2L5Z5	-44.6	0.2	0
+non-amyloid	-49.7	86.3	86.7	8	non-amyloid	-1.8	-4.1	77.8	15.6			33.3	GWGSAS.pdb		0.72	2.63	384			GWGSAS	-5.7	-45.2	54	19.2	N.A.	0	no				TADBP_HUMAN	Q13148	-39	16.6	0
+non-amyloid	-39.2	74.7	92.8	6	non-amyloid	-1.1	-0.9	70.7	22.7			16.7	GYGQSS.pdb		0.04	3.57	49			GYGQSS	-15.7	-32.6	39.3	16.3	N.A.	0	no				FUS_HUMAN	P35637	-27.9	0.5	0
+non-amyloid	-45.5	91.5	104.7	8	non-amyloid	-1.8	-6.7	77.4	26			50	GYQAGF.pdb		-0.31	2.3	112			GYQAGF	-7.2	-67.8	69.3	1	N.A.	0	no				ERF3_YEAST	P05453	-53.8	9.9	0
+non-amyloid	-55.3	85.8	108.5	1	non-amyloid	3.3	6.3	75.8	39.1			50	GYQAYN.pdb		0.28	1.65	31			GYQAYN	-25.5	-81.9	93.3	-9.7	N.A.	0	no				ERF3_YEAST	P05453	-67.2	2.2	539.3
+non-amyloid	-47	77	98.7	9	non-amyloid	-1.9	-4	72.3	27.9			16.7	GYQQGG.pdb		1.37	5.68	54			GYQQGG	-15.9	-52.9	62.4	-1.9	N.A.	0	no				ERF3_YEAST	P05453	-44.6	0.7	0
+non-amyloid	-55.4	95.3	115	1	non-amyloid	3.3	5.7	74.5	58.9	GYQQQF.png	1676.45/1641.35	33.3	GYQQQF.pdb		-1.04	2.33	87	9.48		GYQQQF	-34.7	-91.5	98.5	-13.3	N.A.	0	yes	GYQQQF.png			ERF3_YEAST	P05453	-75	1.8	0
+non-amyloid	-55.1	88	116.5	1	non-amyloid	3.3	5.8	74.2	57.2			33.3	GYQQQY.pdb		-0.71	3.43	68			GYQQQY	-35	-89.3	100.5	-10.3	N.A.	0	no				ERF3_YEAST	P05453	-74.8	2.3	0
+non-amyloid	-55.5	80.7	113	1	non-amyloid	3.3	6.9	74	52.6	GYQQYN.png	1676.45/1641.35	33.3	GYQQYN.pdb		0	2.15	59	5.23		GYQQYN	-38.3	-87.7	103.3	-13.2	N.A.	0	yes	GYQQYN.png			ERF3_YEAST	P05453	-73.6	1.4	21.1
+non-amyloid		80.7	113	class7	non-amyloid					GYQQYN.png	1676.45/1641.35	33.3	GYQQYN.pdb		0	2.15	59	5.23		GYQQYN				-8.33	N.A.	0	yes	GYQQYN.png			ERF3_YEAST	P05453			21.1
+non-amyloid	-44.1	73.3	104.8	7	non-amyloid	-2.1	-3.8	76.7	22.1			33.3	GYSGYQ.pdb		-0.7	3.08	51			GYSGYQ	-11.9	-52.5	61.9	4.4	N.A.	0	no				ERF3_YEAST	P05453	-44.3	2	0
+non-amyloid	-49.2	73.7	119.2	1	non-amyloid	3.5	0.9	71.1	45.4	GYYQNY.png	1678.38/1653.06/1636.9	50	GYYQNY.pdb		-1.18	0.84	44	5.32		GYYQNY	-35.3	-86.6	94.2	-15.8	N.A.	0	yes	GYYQNY.png			ERF3_YEAST	P05453	-71.5	7.6	0
+non-amyloid	-51.1	115.3	126.3	1	non-amyloid	3.2	5.7	75.2	33.5			83.3	HAFLII.pdb		-4.51	-7.13	0		20154676	HAFLII	0	-114.3	86.1	-31.3	N.A.	0	N.A.				N.A.	N.A.	-74.1	1.9	522.6
+non-amyloid	-49.5	65.8	79.3	8	non-amyloid	-2.8	-5.4	85.5	10.9			0	HGGGGN.pdb		2.78	4.51	32			HGGGGN	-5.8	-16.8	42.1	41.8	N.A.	0	no				CSGA_ECOLI	P28307	-17.7	0.1	0
+non-amyloid	-52.1	65.8	79.3	8	non-amyloid	-2.9	-5.2	78.3	10.9			0	HGGGNG.pdb		2.78	4.51	73			HGGGNG	-8.5	-15.4	39.4	28.7	N.A.	0	no				CSGA_ECOLI	P28307	-17.2	0.1	0
+non-amyloid	-54.6	113.7	135	1	non-amyloid	3.5	5.2	66.6	48.4			83.3	HIFIIM.pdb		-6.29	-9.04	0		20154676	HIFIIM	-4.5	-135.8	89.6	-64.4	N.A.	4.1	N.A.				N.A.	N.A.	-88.3	2.6	598.5
+non-amyloid	-45.7	116.3	108.2	6	non-amyloid	-3.6	-5.6	74	31.5			66.7	HKALFW.pdb		-2.58	-2.57	0		20154676	HKALFW	-0.5	-94.7	83.9	-18.7	N.A.	0	N.A.				N.A.	N.A.	-65.5	5.3	0
+non-amyloid	-45.7	123.5	106.2	7	non-amyloid	-4.6	-9.8	74.9	34.8			66.7	HLVEAL.pdb		-2.15	-2.99	34		16537487	HLVEAL	-5.7	-82.4	89	-3.9	N.A.	0	N.A.				INS_HUMAN	P01308	-59.6	0.6	0
+non-amyloid	-56.7	72.5	88.7	1	non-amyloid	3.5	4.7	76.9	38.5			0	HNNNNN.pdb		3.82	-2.49	1017			HNNNNN	-59.4	-47.9	105.4	15.1	N.A.	0	no				PUF2_YEAST	Q12221	-54.5	2.1	0
+non-amyloid	-56.2	81.5	89.8	1	non-amyloid	2.3	4.1	78.3	40.9			0	HNNNSQ.pdb		1.96	-0.75	120			HNNNSQ	-50.7	-55.5	108.8	18.3	N.A.	0	no				CBK1_YEAST	P53894	-59.6	2.9	0
+non-amyloid	-53.5	88.3	108	1	non-amyloid	3.2	2.1	77.8	27			33.3	HNSVNF.pdb		-1.86	-5.04	869			HNSVNF	-10.7	-82.4	92.6	-4.3	N.A.	0	no				KSP1_YEAST	P38691	-65.4	2.9	0
+non-amyloid	-52.2	87.7	92.7	1	non-amyloid	4	5.5	70	31.8			16.7	HNTNNA.pdb		1.45	-1.24	225			HNTNNA	-48.7	-46.7	89.7	16.3	N.A.	0	no				ERF3_YEAST	P05453	-47.7	7.9	0
+non-amyloid	-39.2	95.7	71	7	non-amyloid	-5.5	-10.8	81.1	19.1			33.3	HPAENG.pdb		4.59	5.04	33		16537487	HPAENG	-10.1	-40.8	65.8	32.8	N.A.	0	N.A.				B2MG_HUMAN	P61769	-36.4	6.8	0
+non-amyloid	-46.1	101.3	124.7	7	non-amyloid	-2.1	-5.1	67	46.2			50	HQIVYK.pdb	V623H	-2.48	-3.07	623			HQIVYK	-10.1	-101.8	98.6	-19.2	N.A.	0	yes	7_wt2_V1H_1mM_02_15000x.jpg		no	TAU_HUMAN	P10636	-76	5.6	1.9
+non-amyloid	-48.7	99.5	116.2	6	non-amyloid	-3.5	-5.2	62.5	16.2	HTAVTT.png	1679.05/1642.37	33.3	HTAVTT.pdb		-4.74	-2.18	117	0		HTAVTT	-9.1	-39.7	66.9	13.1	N.A.	0	yes	HTAVTT.png			G1UBC2_CANAL	G1UBC2	-33.8	3.7	0
+non-amyloid	-47.9	106.8	107.3	7	non-amyloid	-3.4	-7.1	78.4	41.1	HWQNFA.png	1679.34/1643.66	50	HWQNFA.pdb	R227Q	-1.03	-2.03	0	4.7		HWQNFA	-19.6	-90.1	109.3	-3.6	N.A.	0	yes	HWQNFA.png			AGAL_HUMAN	P06280	-75.3	8.6	10.4
+non-amyloid	-47.5	104.7	104.5	7	non-amyloid	-3.1	-4.4	76.5	39			50	HWRNFA.pdb		-0.86	-1.64	225			HWRNFA	-16.4	-90.5	107.8	-5.4	N.A.	0	no				AGAL_HUMAN	P06280	-76.5	7.5	0
+non-amyloid	-53.2	92.7	123.5	1	non-amyloid	2.5	5.3	74	36.6			66.7	ICSLYQ.pdb		-5.34	-2.62	0		20154676	ICSLYQ	-15.5	-91.7	91.8	-13.8	N.A.	0	N.A.				N.A.	N.A.	-68.7	2.3	53.9
+non-amyloid	-51.1	103.7	111	1	non-amyloid	3.1	-1.9	72.3	47.9			33.3	IDLTQR.pdb		-1.1	0.74	90			IDLTQR	-19.4	-99.6	91.6	-23	N.A.	0	no				CSGA_ECOLI	P28307	-69.3	2.1	0
+non-amyloid	-48.8	108.5	109.3	1	non-amyloid	6.1	8.5	71.7	24.3			50	IEDSVI.pdb		-2.33	-3.44	100			IEDSVI	-4.3	-71.5	87.4	22.8	N.A.	0	no				SODC_HUMAN	P00441	-52.9	0.2	0
+non-amyloid	-55.9	121.7	94.2	1	non-amyloid	5.6	2.6	72.2	35.4			33.3	IEKVEH.pdb		-2.02	-1.11	66		16537487	IEKVEH	-7.9	-87	90.6	-1.6	N.A.	0	N.A.				B2MG_HUMAN	P61769	-62.3	1.5	0
+non-amyloid	-54.5	81.8	118.7	1	non-amyloid	4	6.4	73.3	42.8			50	IFNYNN.pdb		-0.76	-5.09	411			IFNYNN	-28.2	-95.5	93.3	-25.7	N.A.	0	no				MOT3_YEAST	P54785	-72.7	1.4	0
+non-amyloid	-50.8	96.3	124.7	1	non-amyloid	4.6	5.6	76.2	32.2			50	IGIIKT.pdb		-3.87	-4	308			IGIIKT	-2.8	-95.1	71.9	-15.2	N.A.	0	no				FUS_HUMAN	P35637	-60.6	0.9	0
+non-amyloid	-51.7	80.7	108	1	non-amyloid	4	5.7	80.2	26.7	IGNNSI.png	1679.25/1649.51/1636.96	33.3	IGNNSI.pdb		-0.17	-3.55	78	0		IGNNSI	-18.2	-64.9	75.5	13.3	N.A.	0	yes	IGNNSI.png			NUP59_YEAST	Q05166	-49.2	0.9	0
+non-amyloid	-49.3	95.5	124.5	1	non-amyloid	7.4	6.8	76.2	26.4			50	IGRTLV.pdb	V119W	-3.16	-2.55	0			IGRTLV	0	-78.5	73.6	10.4	N.A.	0	no				SODC_HUMAN	P00441	-54.7	0.5	0
+non-amyloid	-52.5	95.8	119	1	non-amyloid	0.2	0.9	77.8	37.5			50	IGRTLW.pdb		-2.34	-1.14	0			IGRTLW	-3.4	-93.8	106.4	4.4	N.A.	0	no				SODC_HUMAN	P00441	-71.7	1.2	0
+non-amyloid	-38.5	91.5	100.8	5	non-amyloid	-1.1	-1.6	73.6	18.4			50	IGWGSA.pdb		-0.24	0.34	383			IGWGSA	-2.3	-55.8	56.3	12.4	N.A.	0	no				TADBP_HUMAN	Q13148	-43.4	6.6	0
+non-amyloid	-57.6	107	100.5	1	non-amyloid	5.6	7.1	77.8	34.2			33.3	IHKAQN.pdb		-0.23	-0.89	0		20133726	IHKAQN	-14.2	-73.5	79	6.8	N.A.	0	N.A.				N.A.	N.A.	-54.8	0.9	0
+non-amyloid	-54.8	109.7	115.7	1	non-amyloid	6.8	10.3	72.8	41.9	IINFEQ.png	1679.12/1643.48	50	IINFEQ.pdb		-2	-3.75	18	1.08		IINFEQ	-19.5	-95.6	86.7	-14.8	N.A.	0	yes	IINFEQ.png			SODC_HUMAN	P00441	-67.9	0.9	0
+non-amyloid	-40.6	108	110	1	non-amyloid	7	10.1	84.6	34.2			66.7	IIPFEQ.pdb	N20P	-0.23	-0.61	0			IIPFEQ	-4.7	-102.5	74.6	0.9	N.A.	0	no				SODC_HUMAN	P00441	-67.6	3.8	0
+non-amyloid	-55.2	92.5	136.2	1	non-amyloid	3.1	6.8	61.8	26.3			50	IITVTN.pdb		-4.95	-6.7	0			IITVTN	-8.1	-74.2	79.6	-10.7	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-53.4	0	0
+non-amyloid	-49.3	115.7	103.2	1	non-amyloid	4.7	6.5	77.5	28.6			66.7	IKLANA.pdb		0.23	-1.63	152			IKLANA	-10.1	-81.6	65.2	-10.2	N.A.	0	no				ERF3_YEAST	P05453	-53.7	1.5	0
+non-amyloid	-54.2	105.3	108.5	1	non-amyloid	3.5	5.3	73.4	37.9			50	ILENIS.pdb		-1.68	-4.07	0		20154676	ILENIS	-15.9	-89.3	89.7	-11.5	N.A.	0	N.A.				N.A.	N.A.	-63.8	0.4	74.1
+non-amyloid	-50.4	82.8	103	1	non-amyloid	3.1	6.1	80.6	30.7			33.3	ILGSNN.pdb		0.48	-2.35	47			ILGSNN	-30.6	-60.5	77	7.6	N.A.	0	no				RLM1_YEAST	Q12224	-49.1	0.3	0
+non-amyloid	-50.3	91.5	116.5	1	non-amyloid	7.6	10.2	66.9	37.9			50	INLYTD.pdb		-1.74	-2.24	322			INLYTD	-12.1	-98.3	89.5	-6.3	N.A.	0	no				FUS_HUMAN	P35637	-68.2	2.4	0
+non-amyloid	-65.7	89.5	108.5	1	non-amyloid	3.2	5.6	76.6	37.3			33.3	INNMTN.pdb		-0.15	-3.39	500			INNMTN	-28.9	-70.9	96.3	-2.4	N.A.	0	no				NRP1_YEAST	P32770	-59.3	1.4	0
+non-amyloid	-51	82	112	1	non-amyloid	2.4	5	70.8	28.9			33.3	INNVSN.pdb		-0.11	-5.35	769			INNVSN	-26.7	-71.5	104.4	3.5	N.A.	0	no				NSP1_YEAST	P14907	-62.3	1.7	0
+non-amyloid	-43.5	110.7	99.5	1	non-amyloid	2.5	4.6	93.5	35.5	INPAMM.png	1676.13/1646.87/1629.96	83.3	INPAMM.pdb		1.57	0.13	318	0		INPAMM	-5.8	-108.8	74.7	-5.3	N.A.	0	yes	INPAMM.png			TADBP_HUMAN	Q13148	-72.2	12.5	0
+non-amyloid	-51.8	82.8	102	1	non-amyloid	4	5.4	74.9	34.3			16.7	IQNNSN.pdb		1.49	-2.19	314			IQNNSN	-29.7	-60.8	81.4	11.7	N.A.	0	no				NGR1_YEAST	P32831	-50.3	0.6	0.3
+non-amyloid	-40.1	95.2	101.8	1	non-amyloid	6.9	7.4	74.6	36			33.3	IQRTPK.pdb		1.13	4	21		16537487	IQRTPK	-9.7	-86.2	75	15.8	N.A.	0	N.A.				B2MG_HUMAN	P61769	-60.5	10.5	0
+non-amyloid	-49.5	94.8	125.8	1	non-amyloid	3.5	5.7	71.1	38.8			50	IQVYSR.pdb		-3.25	-2.43	27		16537487	IQVYSR	-15.8	-89.6	79.6	-18.1	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.4	0.8	0.2
+non-amyloid	-39.9	90.2	94.8	5	non-amyloid	-1.8	-2.6	70.9	24.4			33.3	ISLSGD.pdb		-0.47	-0.01	105			ISLSGD	-13.1	-49.6	51.6	7.5	N.A.	0	no				SODC_HUMAN	P00441	-36.8	2.8	0
+non-amyloid	-48.4	95.5	108.8	1	non-amyloid	2.5	4.4	67.5	31.7			33.3	ISMTTS.pdb		-4.39	-2	0		20133726	ISMTTS	-6.4	-82.3	78.4	-5.2	N.A.	0	N.A.				N.A.	N.A.	-60.1	2.2	0
+non-amyloid	-51.8	86	104.3	1	non-amyloid	3.6	4.9	74.7	26.5			16.7	ITQHGG.pdb		-1.46	0.93	70			ITQHGG	-8.8	-58.7	60.9	10.8	N.A.	0	no				CSGA_ECOLI	P28307	-43.5	0.3	0
+non-amyloid	-49.2	91.3	118.5	1	non-amyloid	9.3	11.9	61.2	25.4			33.3	ITVTND.pdb		-2.64	-2.99	0			ITVTND	-10.9	-68.2	76.7	7.3	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-50.5	0.3	0
+non-amyloid	-40.4	93.3	126.2	7	non-amyloid	-1.6	-5	60.5	32.9			66.7	IVIRTP.pdb		-1.78	-2.36	310			IVIRTP	-5.1	-82.4	84.2	-13.5	N.A.	0	no				FLO1_YEAST	P32768	-60.7	0.7	0
+non-amyloid	-52.9	108.8	143.7	1	non-amyloid	2.4	5.1	69.4	26	IVIVAT.png	1681.41/1646.77	83.3	IVIVAT.pdb		-5.75	-8.27	325	4.72		IVIVAT	-4.5	-100.5	83.4	-23.5	N.A.	47.1	yes	IVIVAT.png			ALS1_CANAL	Q5A8T4	-65.9	10.6	0
+non-amyloid	-52.1	95.7	135.7	1	non-amyloid	4	6.3	72.7	43.4	IYFNVQ.png	1682	66.7	IYFNVQ.pdb		-3.78	-5.69	253	9.01		IYFNVQ	-19.9	-105.2	94.9	-18.6	N.A.	0	yes	IYFNVQ.png			IBP1_HUMAN	P08833	-76.5	7.9	0
+non-amyloid	-43.2	119.2	98.5	7	non-amyloid	-3.6	-4.5	74.7	25.5			66.7	KAAIDW.pdb		0.4	0.41	348			KAAIDW	0	-67.8	79.1	10.8	N.A.	0	no				FUS_HUMAN	P35637	-51.2	0.6	0
+non-amyloid	-46.4	116	120.8	7	non-amyloid	-3.4	-6.1	72.2	40.6			66.7	KAFIIQ.pdb		-2.92	-3.46	0		20154676	KAFIIQ	-5	-97.6	79	-26.1	N.A.	0	N.A.				N.A.	N.A.	-67	0.7	521.3
+non-amyloid	-51.1	119.8	119.2	1	non-amyloid	3.4	7.1	74.4	35.7			83.3	KAILFL.pdb		-3.02	-4.17	0		20154676	KAILFL	0	-115.5	75.3	-39.8	N.A.	0	N.A.				N.A.	N.A.	-72.1	1.8	56.1
+non-amyloid	-53.5	105.2	101.5	1	non-amyloid	1.7	1.5	76.3	41.5			50	KECLIN.pdb		-2.7	-1.1	0		20154676	KECLIN	-5.8	-100.6	96.7	-11.6	N.A.	0	N.A.				N.A.	N.A.	-71	0.5	108.7
+non-amyloid	-45.7	126.3	55.7	7	non-amyloid	-0.6	-12.1	76.2	45.4			0	KEEEKS.pdb		1.78	6.68	171			KEEEKS	-23.5	-53.8	79.5	21.6	N.A.	0	yes				ERF3_YEAST	P05453	-44.6	0.2	0
+non-amyloid	-38.8	115.5	74.5	1	non-amyloid	2	-5.2	78.2	38.5			33.3	KEEKPV.pdb		2.7	5.62	195			KEEKPV	-6.7	-74.7	87.5	36.8	N.A.	0	yes				ERF3_YEAST	P05453	-54.7	10.2	0
+non-amyloid	-39.2	126.3	55.7	5	non-amyloid	-1.5	-12.2	66.6	41.2			0	KEEKSE.pdb		1.78	6.68	0			KEEKSE	-23.2	-50.6	86.1	24.2	N.A.	0	no				ERF3_YEAST	P05453	-44.3	0.5	0
+non-amyloid	-61.2	110.2	109.7	1	non-amyloid	0.3	-7.9	73.9	49.4			50	KENIIF.pdb		-2.09	-3.66	0		20154676	KENIIF	-17.6	-108.7	117.7	-26.5	N.A.	0	N.A.				N.A.	N.A.	-78.6	4.5	135.6
+non-amyloid	-34.8	109	69.2	7	non-amyloid	-7.2	-22.6	81	51.5			16.7	KEPTRE.pdb		3.33	8.27	0			KEPTRE	-30	-67.2	91.2	25.7	N.A.	0	no				ERF3_YEAST	P05453	-56.2	18	0
+non-amyloid	-45.6	97.5	88.7	7	non-amyloid	-2.7	-10	78.2	38.7			16.7	KGENFT.pdb		-0.07	2.22	194		20154676	KGENFT	-23.6	-54.6	79.1	16.1	N.A.	0	N.A.				PRIO_HUMAN	P04156	-46.6	1.8	0.4
+non-amyloid	-43.5	132.5	55.5	7	non-amyloid	-4.7	-14.9	76	45.2			0	KKEEEK.pdb		2.13	7.59	170			KKEEEK	-8.1	-65.7	93.4	27.3	N.A.	0	no				ERF3_YEAST	P05453	-51.4	0.6	0
+non-amyloid	-39.4	116.8	58.5	7	non-amyloid	-3.6	-20	71.2	47.3			16.7	KKEEKP.pdb		4.21	8.87	194			KKEEKP	-10.5	-77.9	101.1	10.3	N.A.	0	no				ERF3_YEAST	P05453	-59.3	0.5	0
+non-amyloid	-45.4	120.2	61.8	7	non-amyloid	-2.4	-13.5	76	43.5			0	KKEEKS.pdb		1.29	6.19	0			KKEEKS	-21.1	-59.7	85	14.7	N.A.	0	no				ERF3_YEAST	P05453	-48.8	0.3	0
+non-amyloid	-52	111.2	100.2	1	non-amyloid	3.1	4.8	68.8	40.9			33.3	KKTLKL.pdb		-1.8	1.22	141			KKTLKL	-5.8	-106.6	90.7	-19.9	N.A.	0	no				ERF3_YEAST	P05453	-70.1	3	0
+non-amyloid	-57.1	105.3	94.2	1	non-amyloid	0.1	-3.5	71.3	29.9			16.7	KKVDTK.pdb		-0.99	2.48	0			KKVDTK	-9.5	-77.8	107	4.2	N.A.	0	no				ERF3_YEAST	P05453	-59.4	2.2	0
+non-amyloid	-51.1	111.5	96.3	1	non-amyloid	4.3	7.3	80.7	22.8			50	KLANAT.pdb		0.4	0.67	153			KLANAT	-13.3	-66.6	77.3	11.3	N.A.	0	no				ERF3_YEAST	P05453	-51.1	0.6	0
+non-amyloid	-45.5	126.2	102.3	7	non-amyloid	-4.3	-6.2	71.2	39.2			66.7	KLLEIA.pdb		-1.11	-1.18	0		20154676	KLLEIA	-0.5	-102.1	75.2	-30.7	N.A.	0	N.A.				N.A.	N.A.	-65.8	1.5	9.5
+non-amyloid	-41.4	95.3	99.8	6	non-amyloid	-0.9	-1.1	61.4	30.2			33.3	KLVSSS.pdb		-2.56	-1.86	145			KLVSSS	-15.6	-53.3	61.3	-0.4	N.A.	0	no				ERF3_YEAST	P05453	-42.1	0.2	0
+non-amyloid	-56.4	117.3	120.8	1	non-amyloid	4.2	10.9	73.9	49.8			66.7	KMFFIQ.pdb		-4.16	-3.47	0		20154676	KMFFIQ	-10.9	-126.9	92	-43.5	N.A.	0	N.A.				N.A.	N.A.	-87.1	4	117.6
+non-amyloid		82.8	104.3	class7	non-amyloid							33.3	KNFNYN.pdb		0.55	-1.89	102			KNFNYN				-2.07	N.A.	0	no				ERF3_YEAST	P05453			491
+non-amyloid	-34.2	107	63	7	non-amyloid	-5.5	-8.3	83	23.2	KPAESD.png	1679.95/1646.35	33.3	KPAESD.pdb		4.74	7.39	164	0		KPAESD	-4.7	-39.6	58.2	46	N.A.	0	yes	KPAESD.png			ERF3_YEAST	P05453	-33.4	6.7	0
+non-amyloid	-33.5	100.5	87.7	7	non-amyloid	-1.9	-3.2	71.1	36			33.3	KPKKTL.pdb		1.43	4.99	139			KPKKTL	-6.6	-74.9	80.4	24.3	N.A.	0	no				ERF3_YEAST	P05453	-54.2	7.6	0
+non-amyloid	-33.2	103.7	94.2	7	non-amyloid	-5.2	-8.3	69.1	30.1			33.3	KPVQTE.pdb		1.16	4.14	198			KPVQTE	-3.5	-58.6	67.3	19	N.A.	0	no				ERF3_YEAST	P05453	-45.3	5.9	0
+non-amyloid	-23.5	113.3	79.8	7	non-amyloid	-0.9	-1.4	63.1	18.4			50	KQAAPK.pdb		4.06	6.62	134			KQAAPK	-5.2	-44.5	61.2	33.3	N.A.	0	no				ERF3_YEAST	P05453	-35	0.9	0
+non-amyloid	-52.1	84.8	91.2	1	non-amyloid	0.2	-0.7	90.2	21.4	KQFGGG.png	1679.33/1643.7	16.7	KQFGGG.pdb		0.95	4.67	116	4.74		KQFGGG	-4	-65.4	68.5	12.2	N.A.	0	yes	KQFGGG.png			CSGA_ECOLI	P28307	-49.5	1.9	0
+non-amyloid	-57.8	117.2	93.5	1	non-amyloid	5.8	6.8	75.7	56.3			16.7	KQQKQA.pdb		1.3	5.26	131			KQQKQA	-37.4	-76.6	91.7	3.5	N.A.	0	no				ERF3_YEAST	P05453	-63.2	1.7	0
+non-amyloid	-49.5	113.5	77	1	non-amyloid	2.5	2.4	73.6	30.6			16.7	KSAETK.pdb		0.03	4.21	175			KSAETK	-22	-47.2	71.5	23.1	N.A.	0	no				ERF3_YEAST	P05453	-40.1	0.1	0
+non-amyloid	-25.1	105.7	74.2	7	non-amyloid	-2.1	-12.4	61.8	43.2			33.3	KSELPK.pdb		2.71	5.47	209			KSELPK	-23.4	-69	92.2	14.5	N.A.	0	no				ERF3_YEAST	P05453	-52.3	0.8	0
+non-amyloid	-50.3	93.2	99.2	1	non-amyloid	3.2	6.9	71.6	34.1			33.3	KSNFLN.pdb		-0.17	-2.03	39		16537487	KSNFLN	-32.8	-77.8	91.5	-11.6	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.8	6.5	0
+non-amyloid	-53.9	109.8	116.2	1	non-amyloid	1.2	1.6	71.9	36.8			50	KTLKLV.pdb		-3.31	-2.03	142			KTLKLV	-0.2	-111.1	94.2	-26.2	N.A.	0	no				ERF3_YEAST	P05453	-72.5	2.4	0
+non-amyloid	-59	100.3	133.7	1	non-amyloid	-0.2	-2.6	65.6	38.6			50	KTVIIT.pdb		-5.75	-5.33	0		16537487	KTVIIT	-7.2	-102.2	101.6	-31.2	N.A.	0	N.A.				N.A.	N.A.	-69.2	0.8	274.4
+non-amyloid	-61.1	111.3	121.7	1	non-amyloid	2.2	-0.3	64.9	37.1			50	KTVIVE.pdb		-4.32	-3.99	0		16537487	KTVIVE	-7.1	-96.6	103.4	-23.4	N.A.	0	N.A.				N.A.	N.A.	-67.1	0.1	0
+non-amyloid	-53.9	105.2	117.8	1	non-amyloid	4	-10.2	70.4	46.8			50	KTVIYE.pdb		-3.9	-2.14	0		16537487	KTVIYE	-4.1	-103.2	184	-24	N.A.	0	N.A.				N.A.	N.A.	-75.6	11	249
+non-amyloid	-46.4	113.8	115	6	non-amyloid	-3.1	-5.6	62.4	38.8			50	KTVLIE.pdb		-3.47	-2.74	0		16537487	KTVLIE	-14.6	-88.7	87.8	-27.3	N.A.	0	N.A.				N.A.	N.A.	-60.3	0.5	80.6
+non-amyloid	-38.6	95.8	91	7	non-amyloid	-2.6	-11.8	60.3	34.1			33.3	KVDTKP.pdb		1.58	4.25	0			KVDTKP	-20.5	-67.4	87.3	-10.4	N.A.	0	no				ERF3_YEAST	P05453	-52.8	0.8	0
+non-amyloid	-43.1	117.8	89.8	7	non-amyloid	-0.2	-7.7	73.6	39.2			33.3	KVEDLK.pdb		-0.02	1.87	214			KVEDLK	-6.8	-74.4	85.5	13.2	N.A.	0	no				ERF3_YEAST	P05453	-54.7	0.9	0
+non-amyloid	-24	114.2	90.5	7	non-amyloid	-1.9	-8	61	35.2			50	KVEEPV.pdb		1.19	2.37	188			KVEEPV	-3.7	-68.4	95	35.4	N.A.	0	no				ERF3_YEAST	P05453	-51.6	0.6	0
+non-amyloid	-51.3	108.2	82.8	7	non-amyloid	-5.5	-19.4	73.3	37.2			16.7	KVEHSD.pdb		-0.55	1.2	68		16537487	KVEHSD	-18.4	-54	89.3	9	N.A.	0	N.A.				B2MG_HUMAN	P61769	-48	0.6	0
+non-amyloid	-45.3	111.2	86.2	7	non-amyloid	-5.3	-19.1	70.2	50.2			33.3	KWDRDM.pdb		1.47	4.3	114		16537487	KWDRDM	-15.5	-89.8	121.7	16.1	N.A.	0	N.A.				B2MG_HUMAN	P61769	-75.1	19.1	0
+non-amyloid	-52.2	96.7	105.2	1	non-amyloid	7.5	13.7	78.5	40.1			50	KYLNWD.pdb		0.02	0.02	53			KYLNWD	-18.6	-114.1	108.2	-18.6	N.A.	0	no				ATM_HUMAN	Q13315	-84.2	2.4	2.2
+non-amyloid	-45.3	76.2	98.8	7	non-amyloid	-3.1	-5.1	67.4	32.4			16.7	KYNNTG.pdb		0.57	1.46	57			KYNNTG	-25.8	-59	86.3	-3.1	N.A.	0	no				YBI1_YEAST	P38180	-54.3	1.8	0
+non-amyloid	-52.4	107.5	125.7	1	non-amyloid	4	5.8	77.2	25.1			83.3	LADVYV.pdb	T40D	-0.18	-3.21	38			LADVYV	-4.2	-95.8	97.7	1.8	N.A.	0	yes	19_ApoAI_T3D_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-67.1	8.9	0.1
+non-amyloid	-50	120.2	94.7	1	non-amyloid	2	3.4	80.4	17			66.7	LAEAIG.pdb		0.46	0.61	0		20154676	LAEAIG	-0.7	-69.8	73.9	7.2	N.A.	0	N.A.				N.A.	N.A.	-50.6	0.1	2.4
+non-amyloid	-52.3	115.8	122.8	1	non-amyloid	3.8	3.9	78.6	33.1			83.3	LAEVYV.pdb	T40E	-1.73	-2.08	38			LAEVYV	-13.4	-100.2	94.7	-10.9	N.A.	0	yes	24_ApoAI_T3E_1mM_05_4000x.jpg		no	APOA1_HUMAN	P02647	-69.2	8.5	24.4
+non-amyloid	-53.5	109.7	129	1	non-amyloid	2.5	6.3	77.1	31.7			83.3	LAKVYV.pdb	T40K	-2.44	-3.36	38			LAKVYV	-6.8	-105.7	93.6	-16.6	N.A.	0	yes	29_ApoAI_T3K_1mM_03_2000x.jpg		no	APOA1_HUMAN	P02647	-71.6	8.4	0.1
+non-amyloid	-38.7	113.2	104.3	5	non-amyloid	-1.9	-4	68.7	25			50	LALQTD.pdb		-0.34	1.05	57			LALQTD	-2.2	-74.3	62.3	-11.5	N.A.	0	N.A.				CSGA_ECOLI	P28307	-49.8	1.6	0
+non-amyloid	-47	111.5	96.3	7	non-amyloid	-2	-4.6	74.5	19.6			50	LANATK.pdb		0.4	0.67	154			LANATK	-4.9	-47.7	63.4	14	N.A.	0	N.A.				ERF3_YEAST	P05453	-38.6	0.2	0
+non-amyloid	-39.8	100.2	125.8	1	non-amyloid	2.3	6.1	86.2	21.1			100	LAPVYV.pdb	T40P	-0.76	-0.44	38			LAPVYV	0	-85.5	73.4	9.7	N.A.	0	yes	5_ApoAI_T3P_1mM_02_5000x.jpg		no	APOA1_HUMAN	P02647	-57.6	3.2	0
+non-amyloid	-55.7	107	132.2	1	non-amyloid	3.9	4.7	80.1	36.4			83.3	LARVYV.pdb	T40R	-2.85	-3.45	38			LARVYV	-12.1	-105.4	97.9	-13.9	N.A.	0	N.A.				APOA1_HUMAN	P02647	-74.7	8.7	0.4
+non-amyloid	-39.4	104.8	99.5	5	non-amyloid	-1.1	-1.7	65.8	26.9			33.3	LASQQN.pdb		1	1.07	340			LASQQN	-14.8	-47	61.1	11.8	N.A.	0	no				TADBP_HUMAN	Q13148	-39	0.6	0
+non-amyloid	-38.2	102.7	96.7	5	non-amyloid	0.6	-0.4	64.5	33			33.3	LASRQN.pdb	Q343R	1.17	1.46	0			LASRQN	-23	-47.6	61.9	12.9	N.A.	0	no				TADBP_HUMAN	Q13148	-39.7	0.5	0
+non-amyloid	-48.7	110.5	122	1	non-amyloid	2.9	5.8	81.5	20.9			83.3	LATAYV.pdb	V41A	-0.87	-2.27	38			LATAYV	-5	-81.8	87.3	6.7	N.A.	0	yes	51_ApoAI_V4A_1mM_01_5000x.jpg		no	APOA1_HUMAN	P02647	-59	1.7	3.1
+non-amyloid	-32.3	103.7	117.2	6	non-amyloid	-1.1	-2.1	67.3	24.6			66.7	LATDYV.pdb	V41D	-0.59	-1.29	38			LATDYV	-14.3	-62.7	76.6	12.8	N.A.	0	yes	20_ApoAI_V4D_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-49.4	3.5	0
+non-amyloid	-37.8	112	114.3	5	non-amyloid	-1.2	-2.1	67.7	23.6			66.7	LATEYV.pdb	V41E	-1.3	-0.15	38			LATEYV	-2.1	-66.3	70.4	6.3	N.A.	0	yes	25_ApoAI_V4E_1mM_01_2500x.jpg		no	APOA1_HUMAN	P02647	-49.4	2.3	0.6
+non-amyloid	-51	96.3	120.7	1	non-amyloid	3.6	8.2	78.9	21			66.7	LATGYV.pdb	V41G	-0.51	-1.44	38			LATGYV	-2.9	-74.3	82.1	14.1	N.A.	0	yes	56_ApoAI_V4G_1mM_05_3000x.jpg		no	APOA1_HUMAN	P02647	-54.6	0.2	0
+non-amyloid	-54.4	103.5	122.7	1	non-amyloid	3.9	5.7	76	30.4			66.7	LATHYV.pdb	V41H	-1.9	-2.69	38			LATHYV	-7.1	-80.9	86	2.3	N.A.	0	yes	76_ApoAI_V4H_1mM_04_2000x.jpg		no	APOA1_HUMAN	P02647	-60.3	0.7	0.5
+non-amyloid	-42	105.8	120.5	7	non-amyloid	-1.9	-4.9	73.2	31.6			66.7	LATKYV.pdb	V41K	-1.8	-1.44	38			LATKYV	-6.5	-79.3	82.2	-0.7	N.A.	0	yes	30_ApoAI_V4K_1mM_03_2000x.jpg		no	APOA1_HUMAN	P02647	-57.3	1.7	0.2
+non-amyloid	-52.4	98	123	1	non-amyloid	3.5	7.3	78.5	28			66.7	LATNYV.pdb	V41N	-0.94	-2.75	38			LATNYV	-15.8	-77.5	93.7	6.5	N.A.	0	yes	81_ApoAI_V4N_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-61.3	0.5	20.8
+non-amyloid	-39.8	96.3	117.3	1	non-amyloid	2.9	5.9	90.2	23.4			83.3	LATPYV.pdb	V41P	0.26	1.49	38			LATPYV	-4.5	-94.3	84.2	19.8	N.A.	0	yes	6_ApoAI_V4P_1mM_04_4000x.jpg		no	APOA1_HUMAN	P02647	-64.1	13.8	0
+non-amyloid	-43	105.3	126.5	7	non-amyloid	-2	-5	74	32.2			66.7	LATQYV.pdb	V41Q	-1.99	-1.34	38			LATQYV	-9.3	-76.5	83	-0.9	N.A.	0	yes	86_ApoAI_V4Q_1mM_03_5000x.jpg		no	APOA1_HUMAN	P02647	-57.1	1.4	0
+non-amyloid	-42	103.2	123.7	7	non-amyloid	-1.4	-4.7	73.8	36.7			66.7	LATRYV.pdb	V41R	-1.86	-1.53	38			LATRYV	-17.2	-79.7	88	-1.2	N.A.	0	yes	61_ApoAI_V4R_1mM_01_2000x.jpg		no	APOA1_HUMAN	P02647	-60.6	1.6	0
+non-amyloid	-40.1	99.7	120.7	5	non-amyloid	-1.1	-1.9	65.1	24.9			66.7	LATSYV.pdb	V41S	-1.83	-2.11	38			LATSYV	-4.7	-60.6	68.5	8	N.A.	0	yes	66_ApoAI_V4S_1mM_01_3000x.jpg		no	APOA1_HUMAN	P02647	-46.7	3	0.1
+non-amyloid	-51.8	100.7	128	1	non-amyloid	1.8	4.4	74.1	25.5			66.7	LATTYV.pdb	V41T	-3	-2.86	38			LATTYV	-9.2	-84.6	94.8	1.7	N.A.	0	yes	91_ApoAI_V4T_1mM_01_5000x.jpg		no	APOA1_HUMAN	P02647	-63.2	8	2.3
+non-amyloid	-51.9	110.5	122	1	non-amyloid	1.8	4	73.3	20.8			83.3	LATVYA.pdb	V43A	-2.15	-2.78	38			LATVYA	-2.5	-83.1	75.9	-16.3	N.A.	0	yes	52_ApoAI_V6A_1mM_05_2500x.jpg		no	APOA1_HUMAN	P02647	-58.6	2.7	0.3
+non-amyloid	-33.2	103.7	117.2	6	non-amyloid	-1.8	-2.8	63.2	24.4			66.7	LATVYD.pdb	V43D	-2.15	-2.78	38			LATVYD	-6.8	-71.6	71.6	-2.9	N.A.	0	yes	21_ApoAI_V6D_1mM_04_2500x.jpg		no	APOA1_HUMAN	P02647	-53.4	3.8	0.1
+non-amyloid	-51.8	96.3	120.7	1	non-amyloid	1.8	4	72.9	20.7			66.7	LATVYG.pdb	V43G	-2.15	-2.78	38			LATVYG	-2.5	-76.9	69.1	-13.3	N.A.	0	yes	57_ApoAI_V6G_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-54.7	3	0
+non-amyloid	-50.6	103.5	122.7	1	non-amyloid	2.1	5.2	70.9	27.5			66.7	LATVYH.pdb	V43H	-2.15	-2.78	38			LATVYH	-6.7	-84.6	90.5	-6.3	N.A.	0	yes	77_ApoAI_V6H_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-63.7	0.8	0
+non-amyloid	-44.2	105.8	120.5	7	non-amyloid	-2	-4.5	67.2	28.2			66.7	LATVYK.pdb	V43K	-2.15	-2.78	38			LATVYK	-0.7	-79.1	77.2	-12.5	N.A.	0.9	yes	31_ApoAI_V6K_1mM_05_2000x.jpg		no	APOA1_HUMAN	P02647	-58.1	1.7	0
+non-amyloid	-50.4	107	129.8	1	non-amyloid	2.3	5.7	71.3	27.1			83.3	LATVYL.pdb	V43L	-2.15	-3.53	38			LATVYL	-3.4	-93.1	79.8	-20.5	N.A.	2	yes	11_ApoAI_V6L_1mM_01_2500x.jpg	LATVYV_ 11.jpg	yes	APOA1_HUMAN	P02647	-62.9	1.9	0.2
+non-amyloid	-39.7	96.3	117.3	7	non-amyloid	-2.1	-4.8	64.2	25.4			83.3	LATVYP.pdb	V43P	-2.15	-2.78	38			LATVYP	-1.3	-80.8	76.1	-18.8	N.A.	0	yes	7_ApoAI_V6P_1mM_05_4000x.jpg		no	APOA1_HUMAN	P02647	-58.4	0.7	0
+non-amyloid	-45	105.3	126.5	7	non-amyloid	-2.1	-4.5	67.3	27.8			66.7	LATVYQ.pdb	V43Q	-2.21	-2.78	38			LATVYQ	-1.5	-75.2	77.8	-8.7	N.A.	0	yes	87_ApoAI_V6Q_1mM_02_4000x.jpg		no	APOA1_HUMAN	P02647	-56.5	1.6	0.1
+non-amyloid	-44.2	103.2	123.7	7	non-amyloid	-1.4	-3.7	66.8	28.3			66.7	LATVYR.pdb	V43R	-2.15	-2.78	38			LATVYR	-0.6	-78.4	78.1	-9.9	N.A.	0.9	yes	62_ApoAI_V6R_1mM_03_3000x.jpg		no	APOA1_HUMAN	P02647	-58.5	1.5	0
+non-amyloid	-51.9	99.7	120.7	1	non-amyloid	1.8	4	73.4	24.4			66.7	LATVYS.pdb	V43S	-2.15	-2.78	38			LATVYS	-5.7	-81.2	81.2	-9.8	N.A.	0	yes	67_ApoAI_V6S_1mM_02_2500x.jpg		no	APOA1_HUMAN	P02647	-60	2.8	0.1
+non-amyloid	-52.2	100.7	128	1	non-amyloid	1.8	4.3	74.2	23.9			66.7	LATVYT.pdb	V43T	-3.22	-2.86	38			LATVYT	-2.5	-88.8	90.2	-6.8	N.A.	0	yes	92_ApoAI_V6T_1mM_05_5000x.jpg		no	APOA1_HUMAN	P02647	-63.9	4.8	0.1
+non-amyloid	-50.2	104.8	131	1	non-amyloid	4	6.2	77.4	29.1			83.3	LATWYV.pdb	V41W	-2.1	-3.68	38			LATWYV	-1.5	-91.9	85.4	-2.6	N.A.	3.2	yes	40_ApoAI_V4W_1mM_05_2000x.jpg	LATVYV_ 40.jpg	yes	APOA1_HUMAN	P02647	-65.8	1.8	185.4
+non-amyloid	-41.5	94.5	94.2	7	non-amyloid	-0.6	-3.6	80.8	31.3	LDGFSR.png	1679.59/1644.93	33.3	LDGFSR.pdb	S1285F	0.03	1.9	0	4.91		LDGFSR	-14.7	-62.1	65.5	10.6	N.A.	0	yes	LDGFSR.png			VWF_HUMAN	P04275	-46.3	0.5	0
+non-amyloid	-41.9	88.5	83.7	7	non-amyloid	-0.8	-5	79.3	29.8			16.7	LDGSSR.pdb		1.1	3.49	1282			LDGSSR	-23	-39.5	61.8	28.3	N.A.	0	no				VWF_HUMAN	P04275	-34.5	0.4	0
+non-amyloid	-51	94.2	99.2	1	non-amyloid	3.3	3.4	71	41.8			33.3	LDQWNG.pdb		1.74	1.71	103			LDQWNG	-17	-86.6	95.4	-4.8	N.A.	0	no				CSGA_ECOLI	P28307	-67.9	2.2	0
+non-amyloid	-49.7	97.7	131.7	1	non-amyloid	7.1	9.7	66	28			66.7	LDTVYV.pdb	A39D	-2.47	-4.52	38			LDTVYV	-2.9	-90.7	90.2	-3.7	N.A.	0	yes	18_ApoAI_A2D_1mM_04_2500x.jpg		no	APOA1_HUMAN	P02647	-64.4	0.8	0.6
+non-amyloid	-42.4	106	128.8	7	non-amyloid	-0.3	-7	68.2	31.1			66.7	LETVYV.pdb	A39E	-2.47	-4.52	38			LETVYV	-1.8	-81.3	82	-7	N.A.	0	yes	23_ApoAI_A2E_1mM_02_2000x.jpg		no	APOA1_HUMAN	P02647	-58.8	1.2	0.2
+non-amyloid	-48.4	110	109	7	non-amyloid	-2.3	-8.1	78.9	43.1			66.7	LFMFND.pdb	S297F	-1.8	-3.04	0			LFMFND	-4.4	-112.1	89.7	-39.6	N.A.	0	no				AGAL_HUMAN	P06280	-79.8	3.1	0
+non-amyloid	-38.2	104	98.5	6	non-amyloid	-1.3	-2.3	70.5	34.3	LFMSND.png	1679.52/1644.85	50	LFMSND.pdb		-0.73	-1.45	294	0		LFMSND	-7.6	-76	65.4	-9.7	N.A.	0	yes	LFMSND.png			AGAL_HUMAN	P06280	-56	0.3	0
+non-amyloid	-57.4	88	106.7	1	non-amyloid	4	5.9	74.1	32		1679.15/1640.1	33.3	LFNNST.pdb		-1.31	-2.93	128	5.18		LFNNST	-20.1	-72.7	86	6.2	N.A.	0	yes				NSP1_YEAST	P14907	-58.1	6.9	0.1
+non-amyloid	-50.1	76	91.2	1	non-amyloid	3.8	5.4	81.5	28.1			16.7	LGNNSN.pdb		2.59	-0.52	336			LGNNSN	-24.3	-52	75.5	24.6	N.A.	0	no				RNQ1_YEAST	P25367	-44.8	1.1	0
+non-amyloid	-56.3	101.3	112.5	1	non-amyloid	0.9	4.8	82.9	26.4			66.7	LIAGFN.pdb		-1.02	-3.16	0		16537487	LIAGFN	-5.6	-88.7	95.9	-2.7	N.A.	0	N.A.				IAPP_HUMAN	P10997	-64.4	0	0.1
+non-amyloid	-53.1	91	118.8	1	non-amyloid	3.4	7.4	71.3	29.5			50	LINNSV.pdb		-1.57	-5.98	114			LINNSV	-20.8	-75.7	91.5	0.1	N.A.	0	no				GPR1_YEAST	Q12361	-59.3	1.6	0.4
+non-amyloid	-62.5	102.7	109	1	non-amyloid	0.6	0.4	71.2	41.4			50	LKLVSS.pdb		-2.87	-2.95	144			LKLVSS	-31.9	-79.6	92.8	-19.8	N.A.	0	no				ERF3_YEAST	P05453	-58.7	2.2	0
+non-amyloid	-46.3	101.3	83	7	non-amyloid	-4.1	-7.8	77.7	36			16.7	LKNGER.pdb		2.09	3.92	60		16537487	LKNGER	-17.4	-59.2	80	13.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-47.7	0.6	0
+non-amyloid	-51.9	99.8	135	1	non-amyloid	1.3	5	68.9	33.5			66.7	LKTVYV.pdb	A39K	-2.79	-4.52	38			LKTVYV	-2.1	-104.2	94.1	-21.6	N.A.	0	yes	28_ApoAI_A2K_1mM_03_2500x.jpg		no	APOA1_HUMAN	P02647	-70.8	0.2	0
+non-amyloid	-52.7	105.5	127.3	1	non-amyloid	1.5	4.6	77.8	43.5			83.3	LLFCHI.pdb		-6.91	-6.48	326			LLFCHI	-1.5	-118.4	87.4	-31.8	N.A.	0.9	no				FA8_HUMAN	P00451	-78.5	3.5	0
+non-amyloid	-57.1	105.3	132	2	non-amyloid	2.1	3.6	75.2	44	LLFYHI.png	1679.23/1647.98/1626.8/1611	83.3	LLFYHI.pdb	C329F	-5.32	-6.74	0	5.04		LLFYHI	-6.9	-127.2	105.1	-36.3	N.A.	5.1	yes	LLFYHI.png			FA8_HUMAN	P00451	-86.3	6.2	0
+non-amyloid	-39.3	91.2	111.5	1	non-amyloid	3.4	6.6	84.9	23.6	LLGPTI.png	1677.56/1648.79/1638.26	66.7	LLGPTI.pdb		0	0.17	90	5.25		LLGPTI	-1.7	-87.9	72.1	11.1	N.A.	0	yes	LLGPTI.png			FA8_HUMAN	P00451	-56.8	2.3	0
+non-amyloid	-70.1	95.5	105.2	1	non-amyloid	2.3	4.3	71.9	45.4	LLNKTN.png	1679.1/1644	33.3	LLNKTN.pdb		-0.2	-1.52	586	0		LLNKTN	-32.7	-87.1	119.5	-11.8	N.A.	0	yes	LLNKTN.png			NEW1_YEAST	Q08972	-68.1	0.6	0
+non-amyloid	-44.4	99.3	127.3	2	non-amyloid	3.8	5.9	84	30.1			83.3	LLVPTI.pdb	G92V	-2.05	-3.46	0			LLVPTI	-4.4	-102.8	80.5	1.3	N.A.	0	no				FA8_HUMAN	P00451	-66.2	8	0
+non-amyloid	-66.5	94.3	108.5	1	non-amyloid	3.2	5.4	71.7	36.9			33.3	LMNTTN.pdb		-1.44	-1.72	523			LMNTTN	-23.1	-78.2	96.6	-10.5	N.A.	0	N.A.				GLN3_YEAST	P18494	-62.9	0.3	0
+non-amyloid	-34.8	105.7	108.8	6	non-amyloid	-1.5	-2	67	38.2			66.7	LMSLFG.pdb		-2.65	-2.21	0		20154676	LMSLFG	-5.5	-92.5	66.6	-26.6	N.A.	0	N.A.				N.A.	N.A.	-64	0.6	3.1
+non-amyloid	-45.5	104.5	99.2	7	non-amyloid	-1	-6.4	74.9	43.2			33.3	LNDFQK.pdb		0.47	0.67	126			LNDFQK	-17.6	-83	89.6	-4.4	N.A.	0	no				ERF3_YEAST	P05453	-60.8	0.9	0
+non-amyloid	-50.3	98	111.7	1	non-amyloid	2.4	4.8	68.4	30.8			50	LNNITA.pdb		-0.48	-3.31	815			LNNITA	-18.9	-84.1	93.5	-15.5	N.A.	0	no				GPR1_YEAST	Q12361	-63.3	0.2	0
+non-amyloid	-34.9	108.3	86.7	7	non-amyloid	-3.7	-10.6	75.5	33.1			50	LPKVED.pdb		2.55	3.64	212			LPKVED	-4.8	-74.8	83.1	17.5	N.A.	0	no				ERF3_YEAST	P05453	-54	8	0
+non-amyloid	-49.8	101.8	109.2	1	non-amyloid	2.5	4.4	78.4	37.1			50	LQGYQA.pdb		0	2.33	110			LQGYQA	-14.5	-75.3	76.8	5.2	N.A.	0	no				ERF3_YEAST	P05453	-57	2.5	0
+non-amyloid	-52.6	91.5	110.5	2	non-amyloid	4.7	7.7	70.9	37.4			33.3	LQNVSN.pdb		-0.17	-2.87	39			LQNVSN	-26.8	-79.2	101.3	2.6	N.A.	0	no				MOT3_YEAST	P54785	-63.4	1.2	0
+non-amyloid	-55.1	91.8	100.3	1	non-amyloid	3.5	5.2	76.7	38.2			33.3	LQSSWG.pdb		-0.76	0.75	330			LQSSWG	-21.4	-70.9	89.2	5	N.A.	0	no				TADBP_HUMAN	Q13148	-62.2	0.8	0
+non-amyloid	-52.1	109.3	98.2	1	non-amyloid	2.5	-3.2	75.9	40.5	LQTDAR.png	1678.62/1646	33.3	LQTDAR.pdb		0.58	3.35	59	4.88		LQTDAR	-28.3	-78.8	101.5	2	N.A.	0	yes	LQTDAR.png			CSGA_ECOLI	P28307	-62.4	2.2	0
+non-amyloid	-51.1	97.2	138.2	1	non-amyloid	1.2	4.5	69.5	34.6			66.7	LRTVYV.pdb	A39R	-3.2	-4.52	38			LRTVYV	-3.9	-102.4	97.1	-19.6	N.A.	0	yes	59_ApoAI_A2R_1mM_06_3000x.jpg	LATVYV_ 58.jpg	yes	APOA1_HUMAN	P02647	-72.9	1	0
+non-amyloid	-34.8	87.7	90	6	non-amyloid	-2	-4.3	70	23.2			33.3	LSGDHC.pdb		-2.33	1.2	107			LSGDHC	-17.8	-38.3	64.4	30.1	N.A.	0	no				SODC_HUMAN	P00441	-34.9	2.3	0
+non-amyloid	-41.2	98	100.7	1	non-amyloid	2.6	5.1	87.8	39.9			50	LSQPKI.pdb		1	1.69	107		16537487	LSQPKI	-12.7	-98.2	91.2	19.5	N.A.	0	N.A.				B2MG_HUMAN	P61769	-68	10.9	0
+non-amyloid	-51.4	107	137.8	1	non-amyloid	3.5	7.6	73.5	37.5	LTFIQV.png	1679.6	66.7	LTFIQV.pdb		-5.29	-5.82	404	19.75		LTFIQV	-3.6	-112.1	81.5	-31.1	N.A.	0.7	yes	LTFIQV.png			BGAL_HUMAN	P16278	-72.8	3.8	0
+non-amyloid	-56.1	101	120.8	1	non-amyloid	2.3	5.1	68.2	42.5			33.3	LTITQH.pdb		-4.34	-2.73	68			LTITQH	-10.8	-104.3	101.1	-12.4	N.A.	0	no				CSGA_ECOLI	P28307	-73.5	4	0
+non-amyloid	-53.9	97.2	110.8	1	non-amyloid	4.6	3.4	75.7	43.5			33.3	LTQRGF.pdb		-1.67	1.31	92			LTQRGF	-17.3	-91.6	94.6	-8.1	N.A.	0	no				CSGA_ECOLI	P28307	-70.4	0.8	0
+non-amyloid	-49.1	85.8	100	1	non-amyloid	3.1	4.8	66.1	21.7			33.3	LVSSSG.pdb		-2.02	-1.48	146			LVSSSG	-8.6	-53.3	72.3	12.8	N.A.	0	no				ERF3_YEAST	P05453	-45.9	0.2	0
+non-amyloid	-48.6	137.3	91.2	1	non-amyloid	1.6	5.2	83.5	13.6			83.3	MAAAQA.pdb		1.47	2.37	323			MAAAQA	-2.1	-63.5	66.2	10.2	N.A.	0	no				TADBP_HUMAN	Q13148	-46.8	0.8	0
+non-amyloid	-42.8	120.2	103	7	non-amyloid	-5.2	-11.6	73.4	50.8	MERLRI.png	1679.21/1643.24	50	MERLRI.pdb		-1.06	0.71	1304	0		MERLRI	-4	-101.4	82	-23.4	N.A.	0	yes	MERLRI.png			VWF_HUMAN	P04275	-69.6	1.5	0
+non-amyloid	-44.4	121.8	110.3	7	non-amyloid	-3.3	-12.5	76.2	57.1	MEWLRI.png	1679.53/1646.3/1632.53	66.7	MEWLRI.pdb	R1306W	-2.01	-1.43	0	6		MEWLRI	-13.6	-117.6	94.6	-39.4	N.A.	0	yes	MEWLRI.png			VWF_HUMAN	P04275	-81.1	2	0
+non-amyloid	-37.5	88	87.3	5	non-amyloid	-1.1	-1.7	74.6	20.9			33.3	MGGGMN.pdb		1.56	3.29	307			MGGGMN	-1.1	-48.9	37.9	11.3	N.A.	0	no				TADBP_HUMAN	Q13148	-34.4	1.6	0
+non-amyloid	-49.9	114.5	95.5	1	non-amyloid	2.5	4.2	86.3	34.3			66.7	MGMLAS.pdb		-0.96	0.4	337			MGMLAS	-5.3	-91.3	66.2	-13.4	N.A.	0	no				TADBP_HUMAN	Q13148	-63	1.9	0
+non-amyloid	-44.3	87.5	107.8	1	non-amyloid	2.2	4.6	67.9	23.9			33.3	MGNNTV.pdb		-0.61	-1.69	335			MGNNTV	-30.1	-62.3	107.4	16	N.A.	0	no				RBS1_YEAST	Q05672	-56.9	0.7	0
+non-amyloid	-52.2	98.8	125	1	non-amyloid	2.3	6	68.3	44.8			66.7	MINLYT.pdb		-3.5	-4.05	321			MINLYT	-16	-117	99.4	-40.2	N.A.	0	no				FUS_HUMAN	P35637	-80.8	1.4	428.8
+non-amyloid	-55.2	117.8	102.2	1	non-amyloid	3.1	5.3	76.3	39.5			50	MLASQQ.pdb		-0.56	1.14	339			MLASQQ	-13.6	-82.8	84.4	-4.7	N.A.	0	no				TADBP_HUMAN	Q13148	-62.2	0.3	0
+non-amyloid	-58.2	115.7	99.3	1	non-amyloid	1.6	2.4	81.1	41.2			50	MLASRQ.pdb	Q343R	-0.39	1.53	0			MLASRQ	-14.4	-94.3	106.2	-4.6	N.A.	0	no				TADBP_HUMAN	Q13148	-72.6	0.4	0
+non-amyloid	-49.9	137.8	94.8	1	non-amyloid	3.1	4.8	83.7	24.1			83.3	MMAAAQ.pdb		0.34	1.66	322			MMAAAQ	-2.7	-83.3	68.9	-8	N.A.	0	no				TADBP_HUMAN	Q13148	-58.8	1.8	0
+non-amyloid	-39.7	125.8	100.5	6	non-amyloid	-0.9	-1.8	77.2	38.4			83.3	MMGMLA.pdb		-1.37	0.01	336			MMGMLA	0	-102.4	67	-29.2	N.A.	0	no				TADBP_HUMAN	Q13148	-68.6	1	0
+non-amyloid	-50	106.2	104.7	1	non-amyloid	3.2	2.4	83.9	28.7			66.7	MNFGAF.pdb		-1.23	-1.76	311			MNFGAF	-8.6	-87	79.4	-12	N.A.	0	no				TADBP_HUMAN	Q13148	-64.9	0.7	0
+non-amyloid	-58	96.3	110.7	1	non-amyloid	3.2	2.8	81.6	34.6			50	MNFGTF.pdb	A315T	-2.74	-2.07	0			MNFGTF	-18.1	-90.2	88.5	-22.6	N.A.	0	no				TADBP_HUMAN	Q13148	-68.7	0.8	0
+non-amyloid	-44.8	96.3	84.7	7	non-amyloid	-0.3	-2.8	72.1	32.9			16.7	MSDSNQ.pdb		1.09	2.05	1			MSDSNQ	-34.3	-45.8	79	13.3	N.A.	0	no				ERF3_YEAST	P05453	-44.1	0.4	0
+non-amyloid	-43.9	104	98.5	7	non-amyloid	-2.2	-7.8	76.9	38.5	MSLNDF.png	1678.76/1646.92	50	MSLNDF.pdb		-0.73	-1.45	124	0		MSLNDF	-10.9	-85	83.8	-4.5	N.A.	0	yes	MSLNDF.png			ERF3_YEAST	P05453	-63.5	4.5	0
+non-amyloid	-46.8	112	119.3	7	non-amyloid	-2.2	-10.9	67.4	41.4	MTVKQF.png	1677.89/1652/1640.35	50	MTVKQF.pdb		-4.08	-1.92	113	5.29		MTVKQF	-8.6	-92.5	79	-32.5	N.A.	0	yes	MTVKQF.png			CSGA_ECOLI	P28307	-65.5	3.1	0
+non-amyloid	-51.9	110.2	137.7	1	non-amyloid	4	2	73.4	48.2			100	MYFFIF.pdb		-6.76	-7.28	0		20154676	MYFFIF	0	-137.1	93.8	-48.6	N.A.	251.4	N.A.				N.A.	N.A.	-93.1	5.8	585.6
+non-amyloid	-53.4	108.5	141.2	1	non-amyloid	3.2	-1.8	71.9	47.1			100	MYWIIF.pdb		-5.92	-7.32	0		20154676	MYWIIF	0	-137.5	101.6	-48.9	N.A.	189.2	N.A.				N.A.	N.A.	-93.4	8.4	598.5
+non-amyloid	-52.5	79.5	78.7	8	non-amyloid	-2	-4.2	80.8	14.7			16.7	NAGSGS.pdb		2.21	3.1	390			NAGSGS	-17.2	-17.4	44.3	28.5	N.A.	0	no				TADBP_HUMAN	Q13148	-19.9	1.9	0
+non-amyloid	-64.7	95.3	82.3	1	non-amyloid	2	4.4	81.8	21			33.3	NANASS.pdb		2.3	0.38	106			NANASS	-37.1	-33.7	86.5	23.1	N.A.	0	no				HRP1_YEAST	Q99383	-38.9	0.2	0
+non-amyloid	-68.8	83.8	90.7	1	non-amyloid	2	5.3	75.5	26.3			16.7	NANTSN.pdb		1.94	-0.39	160			NANTSN	-42.2	-37.7	97.5	16	N.A.	0	no				NSP1_YEAST	P14907	-42.7	0.4	0
+non-amyloid	-38.9	105	88.3	1	non-amyloid	1.6	5.2	75.9	19.4			50	NAQAQP.pdb		4.95	5.16	36			NAQAQP	-8.1	-64.3	69.1	16.6	N.A.	0	no				ERF3_YEAST	P05453	-47.6	3.8	0
+non-amyloid	-52.7	107.5	95.2	6	non-amyloid	-2.1	-3.5	73.6	23.4	NATAHQ.png	1676.86/1642.42	33.3	NATAHQ.pdb		0.31	0.82	145	8.22		NATAHQ	-18.3	-38	64.7	16.4	N.A.	0	yes	NATAHQ.png			CSGA_ECOLI	P28307	-34.2	1.4	0
+non-amyloid	-55.2	104.3	101.5	6	non-amyloid	-0.9	-4.4	70.5	30.4			33.3	NATKKV.pdb		-0.82	0.01	156			NATKKV	-18.1	-49.7	76.6	12	N.A.	0	no				ERF3_YEAST	P05453	-40	1.5	0
+non-amyloid	-55.3	102.8	95.8	6	non-amyloid	-0.2	-5.2	71.5	52.1	NDFQKQ.png	1675.61/1653/1635.65/1605	16.7	NDFQKQ.pdb		1.22	2.58	127	0		NDFQKQ	-39.7	-70.4	96.5	-6.2	N.A.	0	yes	NDFQKQ.png			ERF3_YEAST	P05453	-58.1	1.1	0
+non-amyloid	-53	72.7	83.2	1	non-amyloid	4	5.4	70.5	37.8	NDNNNN.png	1679.14/1644.4/1632.31	0	NDNNNN.pdb		5.66	-0.22	1031	0		NDNNNN	-67.4	-50.2	109.5	3.8	N.A.	0	yes	NDNNNN.png			PUF2_YEAST	Q12221	-55.6	1.9	0
+non-amyloid	-54	74.3	80.8	1	non-amyloid	4	5.3	74.8	35.3			0	NDNNSN.pdb		4.51	0.24	589			NDNNSN	-54.9	-40.7	94.3	19.5	N.A.	0	no				RLM1_YEAST	Q12224	-45.6	0.2	0.2
+non-amyloid	-50.7	91.8	77	1	non-amyloid	3.6	4	80	22.5			16.7	NENGNA.pdb		4.46	2.29	88			NENGNA	-34.1	-43.8	85.8	22.4	N.A.	0	no				KSP1_YEAST	P38691	-46.2	0.6	0
+non-amyloid	-57.8	98.2	118.3	6	non-amyloid	-1.9	-3.2	74.1	41	NFFIQS.png	1682	50	NFFIQS.pdb		-2.95	-4.45	135	0.02		NFFIQS	-12.9	-91.2	75.6	-32	N.A.	0	yes	NFFIQS.png			STAG3_HUMAN	Q9UJ98	-65.3	3.9	0.6
+non-amyloid	-51.8	107.2	127	1	non-amyloid	3.3	7.7	76.4	40.8			83.3	NFFWLL.pdb		-3.39	-6.09	229			NFFWLL	-4.4	-124.1	90.4	-39.8	N.A.	4.7	no				VIPR1_HUMAN	P32241	-84.9	5.3	297.9
+non-amyloid	-50.3	94.8	99.7	1	non-amyloid	3.3	6.4	81.4	17.8			50	NFGAFS.pdb		-0.82	-1.37	312			NFGAFS	-2	-68.2	68.4	5.8	N.A.	0	no				TADBP_HUMAN	Q13148	-52.6	1.2	20.3
+non-amyloid	-57.2	85	105.7	6	non-amyloid	-1.9	-3.2	83.3	26.3			33.3	NFGTFS.pdb	A315T	-2.33	-1.68	0			NFGTFS	-10.8	-56.1	65.7	5.3	N.A.	0	no				TADBP_HUMAN	Q13148	-45.4	2.5	15.1
+non-amyloid	-55	73	94.8	1	non-amyloid	3.1	5	77.4	32.8			16.7	NFNNGN.pdb		2.98	-1.48	569			NFNNGN	-41.5	-53.7	89.9	7.8	N.A.	0	no				KSP1_YEAST	P38691	-52.3	0.8	0
+non-amyloid	-52.9	75	106.8	1	non-amyloid	4	6.3	73.6	40.4	NFNYNN.png	1679.61/1643.15	33.3	NFNYNN.pdb		1.35	-3.26	103	5.9		NFNYNN	-41.3	-75.3	98.1	-10.8	N.A.	0	yes	NFNYNN.png			ERF3_YEAST	P05453	-66.1	1.4	0.1
+non-amyloid	-45.3	102.5	92.3	8	non-amyloid	-2.6	-5.2	75.1	11.1			50	NGAAVD.pdb		2.23	1.21	122			NGAAVD	-12	-32.2	57.7	28.7	N.A.	0	no				CSGA_ECOLI	P28307	-28.9	9.3	0
+non-amyloid	-48.2	88.3	91	1	non-amyloid	5.7	10.5	75.4	11.4			33.3	NGADVG.pdb		2.4	2.18	77			NGADVG	-10	-36	49.8	30.4	N.A.	0	no				CSGA_ECOLI	P28307	-28.8	0	0
+non-amyloid	-44.2	105.3	81.8	7	non-amyloid	-3.2	-16.2	72.7	37.5			16.7	NGERIE.pdb		1.93	3.21	62		16537487	NGERIE	-18	-53.5	83.6	13	N.A.	0	N.A.				B2MG_HUMAN	P61769	-47.8	0.4	0
+non-amyloid	-48.5	92	137.3	4	non-amyloid	2.1	4.3	66.5	26.7			66.7	NGIVIV.pdb		-3.64	-7.77	323			NGIVIV	-3.5	-93.2	82.6	-16.8	N.A.	0	no				ALS1_CANAL	Q5A8T4	-61.9	2.5	1.7
+non-amyloid	-50.9	82.5	90	2	non-amyloid	2.6	0.4	79.2	36.9			16.7	NGKSNF.pdb		1.03	0.35	37		16537487	NGKSNF	-35.2	-64.3	87	3.1	N.A.	0	no				B2MG_HUMAN	P61769	-54.1	1.1	0
+non-amyloid	-64.5	76	91.2	1	non-amyloid	3.2	5.1	83.3	32.8			16.7	NGNLSN.pdb		2.59	-0.52	8			NGNLSN	-32.9	-50.5	71.7	9	N.A.	0	no				PUF2_YEAST	Q12221	-41.5	0.3	0
+non-amyloid	-65.4	78.7	96.2	1	non-amyloid	2	4.6	81.3	25.7			16.7	NGNLTS.pdb		0.65	-0.05	246			NGNLTS	-37.5	-53.4	99.2	8.2	N.A.	0	no				SWI1_YEAST	P09547	-50.8	0.8	0
+non-amyloid	-53.9	67	84.3	1	non-amyloid	3.1	4.7	80.2	32.4			0	NGNNSN.pdb		4.05	0.11	521			NGNNSN	-51.5	-37.9	87.3	22.9	N.A.	0	no				NRP1_YEAST	P32770	-43.8	0.6	0
+non-amyloid	-51.6	77.8	90.8	1	non-amyloid	2.1	3.7	77.9	37.3			0	NGNQNR.pdb		3.95	2.6	399			NGNQNR	-44.6	-52.4	96.4	17.2	N.A.	0	no				RNQ1_YEAST	P25367	-53.7	0.6	0
+non-amyloid	-51.9	87.3	97.2	1	non-amyloid	2.6	6	80	45.2	NGNQQQ.png	1678.82/1642.02	0	NGNQQQ.pdb		3.07	3.49	19	0		NGNQQQ	-44.2	-49.5	85.7	26.5	N.A.	0	yes	NGNQQQ.png			ERF3_YEAST	P05453	-47.7	0.1	0
+non-amyloid	-51.4	65.8	79.3	8	non-amyloid	-2.4	-4.5	82.1	11.2			0	NHGGGG.pdb		2.78	4.51	31			NHGGGG	-8.9	-17.1	38.4	32	N.A.	0	no				CSGA_ECOLI	P28307	-18.1	1.4	0
+non-amyloid	-47.7	96.2	104.3	4	non-amyloid	5.1	8.3	72.9	43.3	NIDQSF.png	1678.49/1645.19	33.3	NIDQSF.pdb		-0.53	-1.44	137	0		NIDQSF	-37.6	-81.7	101.5	2	N.A.	0	yes	NIDQSF.png			D3DNN4_HUMAN	D3DNN4	-67	3.5	0
+non-amyloid	-49	73.8	96.2	1	non-amyloid	3.5	5.2	74.1	28.1			16.7	NIGNNS.pdb		1.94	-1.72	77			NIGNNS	-26.1	-55.2	70	12.2	N.A.	0	no				NUP59_YEAST	Q05166	-44.4	0.6	0
+non-amyloid	-47.6	88.8	107.8	1	non-amyloid	3.5	1.6	74.7	38.4			33.3	NIGQSF.pdb	D139G	-0.99	-1.57	0			NIGQSF	-17.4	-72.6	71.7	2.7	N.A.	0	no				D3DNN4_HUMAN	D3DNN4	-54.2	2.8	0
+non-amyloid	-53.1	87.2	126.2	1	non-amyloid	3.1	6.7	72.7	41			50	NININV.pdb		-1.07	-7.64	577			NININV	-34.3	-92.6	92.9	-23.1	N.A.	0	no				SWI1_YEAST	P09547	-66	4.4	0
+non-amyloid	-53.2	73.8	100.8	1	non-amyloid	3.1	4.8	69	39.2			16.7	NINNNN.pdb		3.35	-3.93	492			NINNNN	-62	-62.1	110.1	-10.6	N.A.	0	no				NRP1_YEAST	P32770	-62.1	1.7	0
+non-amyloid	-51.8	82.3	110.3	1	non-amyloid	3.4	6.3	75.9	39			33.3	NINNSI.pdb		0.09	-5.3	150			NINNSI	-29.7	-77.8	98.5	5.1	N.A.	0	no				LSM4_YEAST	P40070	-62.4	3.1	0.1
+non-amyloid	-56.3	78.2	103.5	1	non-amyloid	2.6	4.8	76.2	32.2			16.7	NINNST.pdb		0.26	-3	1213			NINNST	-41.6	-59.4	112.7	13.8	N.A.	0	no				SWI1_YEAST	P09547	-60.6	2.1	0.1
+non-amyloid	-50.8	96.5	125.7	1	non-amyloid	3.2	-4.1	70	48.2			50	NIQYQF.pdb		-2.18	-2.53	0		20154676	NIQYQF	-23.1	-106.6	102.1	-21.1	N.A.	0	N.A.				N.A.	N.A.	-77.3	12.9	0.1
+non-amyloid	-53.3	75.5	98.5	1	non-amyloid	3.5	5.3	70.4	37.6			16.7	NISNNN.pdb		2.2	-3.47	19			NISNNN	-45.5	-60.2	95.7	1.8	N.A.	0	no				MRN1_YEAST	Q08925	-55.2	1.6	0
+non-amyloid	-47.6	109.2	135.7	7	non-amyloid	-2.1	-4.9	65.3	40.9			83.3	NIVLIM.pdb		-4.09	-8.2	0		20154676	NIVLIM	-2	-113.2	81.5	-51.9	N.A.	1.8	N.A.				N.A.	N.A.	-72.7	1.2	598.8
+non-amyloid	-53.1	80.2	121.3	1	non-amyloid	3.5	4.6	72.3	44.9			50	NIYQYG.pdb		-1.4	-0.96	46			NIYQYG	-19.5	-96	85.1	-19.2	N.A.	0	no				CSGA_ECOLI	P28307	-70.4	4.3	0.7
+non-amyloid	-40.8	77.5	84.3	8	non-amyloid	-2.4	-4.2	75.5	21.2			33.3	NKFGGP.pdb		3.69	4.78	263			NKFGGP	-6.6	-57.3	70.1	19.5	N.A.	0	no				FUS_HUMAN	P35637	-45	8.5	0
+non-amyloid	-40	88.2	108.2	1	non-amyloid	3.4	6.2	84.9	27.5			66.7	NLGPVL.pdb		1.74	-0.35	0		16537487	NLGPVL	-10.1	-86.5	65	5.4	N.A.	0	N.A.				IAPP_HUMAN	P10997	-54.8	5.2	0
+non-amyloid	-48	89.3	110.2	1	non-amyloid	3.4	5.9	80.1	49.4			33.3	NLQGYQ.pdb		0.43	1.55	109			NLQGYQ	-32.5	-77.3	76.3	2.3	N.A.	0	no				ERF3_YEAST	P05453	-58.3	3	0.1
+non-amyloid	-45.8	89.8	105.3	7	non-amyloid	-3	-5.5	66	39.9			33.3	NLYTDR.pdb		-0.17	1.26	323			NLYTDR	-28.7	-75.9	96.5	-9.9	N.A.	0	no				FUS_HUMAN	P35637	-61.1	4.3	0
+non-amyloid	-49.1	88	87.3	8	non-amyloid	-2	-4.4	85.2	19.3			33.3	NMGGGM.pdb		1.56	3.29	306			NMGGGM	-5.1	-47.1	56.9	16.7	N.A.	0	no				TADBP_HUMAN	Q13148	-37.3	0.3	0
+non-amyloid	-53.8	102	101.2	1	non-amyloid	3.1	4.7	77	47			50	NMNMNL.pdb		0.88	-2.59	518			NMNMNL	-39.5	-98.4	106.5	-28.3	N.A.	0	no				GLN3_YEAST	P18494	-79.3	2.6	0
+non-amyloid	-54.8	100.2	91.7	1	non-amyloid	2	3	76.5	19.7			33.3	NNATAH.pdb		1.02	-0.46	144			NNATAH	-18.5	-54.9	92.4	19.4	N.A.	0	no				CSGA_ECOLI	P28307	-50.2	0.6	0
+non-amyloid	-52.6	63.7	84.3	8	non-amyloid	-2	-4.4	84	20.9			0	NNGGNN.pdb		4.94	1.4	329			NNGGNN	-22.4	-31.6	69.2	31.6	N.A.	0	no				HRP1_YEAST	Q99383	-33.9	3.1	0
+non-amyloid	-49.1	82	106.7	1	non-amyloid	3.1	2.4	82.4	46.9			33.3	NNLQGY.pdb		1.14	0.27	108			NNLQGY	-42.7	-84.2	87	-19.3	N.A.	0	no				ERF3_YEAST	P05453	-65.6	0.3	0
+non-amyloid	-51.3	72.7	90.2	1	non-amyloid	3.1	4.7	78.9	31.7			0	NNNGNQ.pdb		4.49	0.93	397			NNNGNQ	-48.2	-46.7	94.1	18.5	N.A.	0	no				RNQ1_YEAST	P25367	-50	1.4	0
+non-amyloid	-50	75.5	98.5	1	non-amyloid	2.4	4.9	70.6	33.3			16.7	NNNISN.pdb		2.2	-3.47	17			NNNISN	-30.9	-70.4	103.7	3.5	N.A.	0	no				MRN1_YEAST	Q08925	-61.8	0.4	0
+non-amyloid	-53.1	82	112	1	non-amyloid	3.4	7.4	72	30.1			33.3	NNNISV.pdb		-0.11	-5.35	635			NNNISV	-17.6	-75.2	85.6	-1.6	N.A.	0	no				NRP1_YEAST	P32770	-57	0.7	0
+non-amyloid	-57.4	74.8	86.5	1	non-amyloid	3.1	4.2	74.4	38.8			0	NNNKNN.pdb		4.66	-0.73	1017			NNNKNN	-55.1	-57.4	107.9	2.7	N.A.	0	no				PDR1_YEAST	P12383	-58.7	2.2	0
+non-amyloid	-55.4	81.7	97	1	non-amyloid	1.8	3.7	78.5	34.9			16.7	NNNLQG.pdb		3.03	0.3	107			NNNLQG	-36.1	-72.7	97	-8.7	N.A.	0	no				ERF3_YEAST	P05453	-61.5	0.5	0
+non-amyloid	-55	81	80.3	1	non-amyloid	7.4	10	72.8	38.8			0	NNNNNE.pdb		5.15	-0.24	769			NNNNNE	-62.3	-55.9	113.8	11.7	N.A.	0	no				KSP1_YEAST	P38691	-60.7	1.9	0
+non-amyloid	-53.7	68.7	86.7	1	non-amyloid	3.1	4.7	74.8	39.3	NNNNSN.png	1679.31	0	NNNNSN.pdb		4.31	-1.64	89	0		NNNNSN	-59.3	-44	98.4	15.1	N.A.	0	yes	NNNNSN.png			SWI1_YEAST	P09547	-49.9	0.4	0
+non-amyloid	-54.5	69.7	94	1	non-amyloid	2.6	5.2	75.4	37.8			0	NNNNTN.pdb		3.52	-1.63	23			NNNNTN	-60.8	-57.4	118.8	11.1	N.A.	0	no				SWI1_YEAST	P09547	-60.7	1.2	0
+non-amyloid	-50.1	68.8	85	7	non-amyloid	-1.7	-4.1	78.3	31.4			0	NNNRGG.pdb		4.4	3.07	257			NNNRGG	-37.1	-26.8	54.8	17.6	N.A.	0	no				PUB1_YEAST	P32588	-28.4	0.1	0
+non-amyloid	-65	72	82	1	non-amyloid	2	4.4	77.3	32.4			0	NNNSSS.pdb		2.01	-0.72	48			NNNSSS	-51.9	-35.6	96.5	18.6	N.A.	0	no				URE2_YEAST	P23202	-43.6	0.3	0
+non-amyloid		82	105.7	class1	non-amyloid							16.7	NNQQNY.pdb		2.15	0.43	8			NNQQNY				4.47	N.A.	0	no				ERF3_YEAST	P05453			0
+non-amyloid	-45.3	78.2	100.5	7	non-amyloid	-2.7	-3.4	71.3	43.1			16.7	NNRYQG.pdb		2.06	2.57	26			NNRYQG	-37.9	-64.6	86.1	-8	N.A.	0	no				ERF3_YEAST	P05453	-58.1	1.7	0
+non-amyloid	-63.1	69	91.7	1	non-amyloid	2	4.2	75.9	30.1			16.7	NNSYSG.pdb		1.01	0.54	371			NNSYSG	-42.4	-43.8	86.7	5	N.A.	0	no				TADBP_HUMAN	Q13148	-46.1	0.7	0
+non-amyloid	-50.6	90.7	127.5	1	non-amyloid	3.5	7.3	69.5	38.8			50	NNTIFV.pdb		-3.12	-6.47	284			NNTIFV	-30.3	-95.4	94.6	-24.9	N.A.	0	no				FUS_HUMAN	P35637	-69.4	4.1	1.4
+non-amyloid	-37.3	116.3	86.7	7	non-amyloid	-2.1	-4.4	89.3	27.4			83.3	NPAMMA.pdb		3.25	2.74	319			NPAMMA	-2.8	-78.6	62.4	6.5	N.A.	0	no				TADBP_HUMAN	Q13148	-57.2	7.6	0
+non-amyloid	-41.7	82.2	83.8	1	non-amyloid	4.3	5.9	97.5	17.3			50	NPDAGY.pdb		4.85	5.42	64			NPDAGY	-15.8	-60.8	65.5	33.3	N.A.	0	no				ERF3_YEAST	P05453	-47.4	7.5	0
+non-amyloid	-25.1	74.5	82.8	7	non-amyloid	-1	-1.5	80	22.9			16.7	NPQGGR.pdb		5.46	7.49	93			NPQGGR	-18	-33.4	51.3	54.7	N.A.	0	no				ERF3_YEAST	P05453	-29.6	7.2	0
+non-amyloid	-43.8	69.7	91.8	1	non-amyloid	2.3	3.6	101.5	24.8			33.3	NPQGGY.pdb		4.11	5.79	74			NPQGGY	-22.3	-54.5	63.9	39.2	N.A.	0	no				ERF3_YEAST	P05453	-44.5	7.4	0
+non-amyloid	-53.8	80	93.7	1	non-amyloid	3.5	5.2	78.6	40.3			0	NQGNNQ.pdb		3.78	2.21	5			NQGNNQ	-46.1	-51.6	91.8	17.5	N.A.	0	no				ERF3_YEAST	P05453	-51.4	0.8	0
+non-amyloid	-50.3	75.7	104.8	1	non-amyloid	3.5	4.8	77	38.3			16.7	NQGYNT.pdb		0.66	1.37	441			NQGYNT	-36.6	-57.5	76.8	10.9	N.A.	0	no				KSP1_YEAST	P38691	-49.4	3.9	0
+non-amyloid	-54	87.3	95.2	1	non-amyloid	1.7	6	79.5	43.5	NQNMNN.png	1675.94/1641.29	16.7	NQNMNN.pdb		3.19	-0.75	162	0		NQNMNN	-62.7	-78.9	129.7	-6	N.A.	0	yes	NQNMNN.png			LSM4_YEAST	P40070	-75	0.4	0
+non-amyloid	-55.7	89.3	109.2	1	non-amyloid	3.5	5.4	75.5	60.5	NQQNYQ.png	1677.9/1642.39	16.7	NQQNYQ.pdb		1.44	1.71	9	0		NQQNYQ	-56.5	-78	105.5	-8.4	N.A.	0	yes	NQQNYQ.png			ERF3_YEAST	P05453	-69.6	0.8	539.8
+non-amyloid	-51.3	87.3	97.2	1	non-amyloid	3.1	4.8	79.2	45.8			0	NQQQGN.pdb		3.07	3.49	21			NQQQGN	-47.1	-58.8	98.6	18.1	N.A.	0	no				ERF3_YEAST	P05453	-56.9	0.6	0
+non-amyloid	-32.9	76.5	87.2	7	non-amyloid	-0.7	-1.2	62.5	24.9			33.3	NQSCPS.pdb	G348C	0.74	3.47	0			NQSCPS	-19.2	-30.8	59.7	32.1	N.A.	0	no				TADBP_HUMAN	Q13148	-31.6	1	0
+non-amyloid	-51.7	80.3	93.7	8	non-amyloid	-2	-4.9	70.2	20.6			16.7	NQSGFG.pdb	G287S	0.86	2.01	0			NQSGFG	-8.9	-39.1	58.5	13.3	N.A.	0	no				TADBP_HUMAN	Q13148	-35.3	5.7	0
+non-amyloid	-42.3	78	97.5	5	non-amyloid	-1.1	-1.2	70.8	33.3			16.7	NQYNSS.pdb		0.56	0.07	159			NQYNSS	-32.2	-52.9	77.2	7.7	N.A.	0	no				FUS_HUMAN	P35637	-49.9	5.1	0.2
+non-amyloid	-52.4	78.5	110.2	6	non-amyloid	-3.8	-5	80.6	46.5			33.3	NRYQGY.pdb		0.17	2.54	27			NRYQGY	-33.9	-71.1	89.5	-6.5	N.A.	0	no				ERF3_YEAST	P05453	-60.7	2.3	0
+non-amyloid	-48.2	111.7	98.3	1	non-amyloid	2.3	6	82.4	28.7			66.7	NSALAL.pdb		0.53	-1.34	54			NSALAL	-12.4	-74.8	67.4	2.5	N.A.	0	no				CSGA_ECOLI	P28307	-50.9	1.4	0
+non-amyloid	-41.7	98.5	91.7	5	non-amyloid	-1.8	-4.4	67	19.1			33.3	NSATLD.pdb		0.68	0.86	99			NSATLD	-14.2	-38.4	59.5	14.5	N.A.	0	no				CSGA_ECOLI	P28307	-34	2.8	0
+non-amyloid	-49	98.8	94.2	8	non-amyloid	-2	-4.4	76.3	12.2			50	NSGAAI.pdb		1.08	-0.16	378			NSGAAI	-5.2	-33.9	54.8	25.8	N.A.	0	no				TADBP_HUMAN	Q13148	-28.8	5.5	0
+non-amyloid	-52.7	82.8	102	1	non-amyloid	3.1	4.8	69.5	36.9			16.7	NSNINQ.pdb		1.49	-2.19	191			NSNINQ	-39.8	-64.9	101.5	0.3	N.A.	0	no				GLN3_YEAST	P18494	-60.5	0.8	0
+non-amyloid	-55	92.8	97.5	1	non-amyloid	1.8	3.8	75.6	28.6			33.3	NSNLTA.pdb		0.48	-1.02	150			NSNLTA	-26.8	-67.3	93.5	-0.9	N.A.	0	no				RBS1_YEAST	Q05672	-57.8	1	0
+non-amyloid	-54.7	70.3	84.3	1	non-amyloid	3.1	4.7	74.7	32.8			0	NSNNSN.pdb		3.16	-1.18	1053			NSNNSN	-51.9	-39.8	93.8	17.5	N.A.	0	no				PUF2_YEAST	Q12221	-47.1	0.7	0
+non-amyloid	-68.6	72	82	1	non-amyloid	2	5.3	74.1	29	NSNSSN.png	1676.33/1637.99	0	NSNSSN.pdb		2.01	-0.72	145	0		NSNSSN	-45.9	-33.5	96.7	18.9	N.A.	0	yes	NSNSSN.png			LSM4_YEAST	P40070	-41.2	0.3	0
+non-amyloid	-54.6	74	96.7	1	non-amyloid	4	5.4	70.4	29.7			0	NSNTNT.pdb		0.43	-0.7	602			NSNTNT	-43.2	-40.9	87.8	15.6	N.A.	0	no				GLN3_YEAST	P18494	-44.5	0.7	0
+non-amyloid	-63.6	81.8	94.2	1	non-amyloid	1.2	3.5	69.6	25.1			0	NSNTTK.pdb		-0.37	0.67	134			NSNTTK	-32.5	-51.1	108	11.7	N.A.	0	no				NSP1_YEAST	P14907	-51.4	2	0
+non-amyloid	-66.2	79	104.8	1	non-amyloid	2	5.1	71.6	37.1			16.7	NSNYTQ.pdb		-0.23	0.08	293			NSNYTQ	-45	-62.6	116.1	0.5	N.A.	0	no				RLM1_YEAST	Q12224	-60.4	1.8	0
+non-amyloid	-56.8	76.3	90.2	6	non-amyloid	-1.9	-3.2	72.9	23.5			16.7	NSSFNG.pdb		0.68	-0.56	248			NSSFNG	-17.4	-34	58.1	9.5	N.A.	0	no				RLM1_YEAST	Q12224	-32.7	0.7	0
+non-amyloid	-34.5	70.7	89.3	7	non-amyloid	-0.7	-0.9	61.8	27.3			16.7	NSYSGS.pdb		-0.14	1	372			NSYSGS	-33.7	-33.8	64.2	18.7	N.A.	0	no				TADBP_HUMAN	Q13148	-34.9	3	0
+non-amyloid	-51	98	131	1	non-amyloid	2.6	6.4	63.9	39.3			50	NTIFVQ.pdb		-3.83	-5.19	285			NTIFVQ	-18.1	-95.1	82.1	-31.1	N.A.	0	no				FUS_HUMAN	P35637	-66.1	2.3	0
+non-amyloid	-65.4	74	96.7	1	non-amyloid	2	4.6	71.9	28.2			0	NTNNTS.pdb		0.43	-0.7	775			NTNNTS	-42.1	-48.3	108.2	10.9	N.A.	0	no				CYC8_YEAST	P14922	-51.2	1.5	0
+non-amyloid	-50.9	111	117.3	1	non-amyloid	1.5	4.4	77.6	32.1			66.7	NVAMHV.pdb	V48M	-2.79	-5.4	0			NVAMHV	-11.6	-89.9	78.3	-12	N.A.	0	no				TTHY_HUMAN	P02766	-61.5	2.5	0
+non-amyloid	-55.8	104.5	128.2	1	non-amyloid	2.4	4.7	72.1	23.7	NVAVHV.png	1685/1672/1651/1632.46	66.7	NVAVHV.pdb		-3.54	-7.35	47	44.32		NVAVHV	-14.6	-69.7	78.4	-6.3	N.A.	0	yes	NVAVHV.png			TTHY_HUMAN	P02766	-51.1	0.9	0
+non-amyloid	-64.9	82.8	108.3	1	non-amyloid	3.2	5.7	70.8	35.3			33.3	NVNFSN.pdb		-0.22	-4.65	697			NVNFSN	-33.1	-74.1	88.5	-19.6	N.A.	0	no				NRP1_YEAST	P32770	-59.6	5	0.1
+non-amyloid	-47.8	88.3	122.2	7	non-amyloid	-2.1	-4.2	61	26	NVTQVG.png	1678.63/1646.63	33.3	NVTQVG.pdb		-2.07	-2.36	136	6.3		NVTQVG	-10.8	-54.8	68.1	-6	N.A.	0	yes	NVTQVG.png			CSGA_ECOLI	P28307	-44.7	0.4	0
+non-amyloid	-54.5	99.5	118.3	6	non-amyloid	-1	-1.5	75.4	39.2			66.7	NYFAIR.pdb		-1.73	-2.64	0		20154676	NYFAIR	-15.6	-89.1	81.5	-20.4	N.A.	0	N.A.				N.A.	N.A.	-65.1	5.4	94
+non-amyloid	-47.2	82.8	104.3	7	non-amyloid	-2.6	-4	75.7	44.9			33.3	NYKNFN.pdb		0.55	-1.89	100			NYKNFN	-30	-85.1	108.5	-5.1	N.A.	0	no				ERF3_YEAST	P05453	-71.7	5.1	8.6
+non-amyloid	-54.1	76.3	105.5	1	non-amyloid	3.1	5.2	72.1	39.2	NYNNNL.png	1677/1650/1637	33.3	NYNNNL.pdb		2.11	-2.76	105	5.51		NYNNNL	-41.1	-78.1	117.2	-3.4	N.A.	0	yes	NYNNNL.png			ERF3_YEAST	P05453	-71.7	1.8	0
+non-amyloid	-63.4	67.3	94	1	non-amyloid	2	4.8	77.7	31.9			16.7	NYNNSG.pdb		2.16	0.08	998			NYNNSG	-44.7	-50.2	98.6	6	N.A.	0	no				PUF2_YEAST	Q12221	-52.4	1.3	0
+non-amyloid	-47.4	70.7	94	7	non-amyloid	-2.1	-4.1	77.1	33.1			16.7	NYNNSS.pdb		1.27	-1.21	413			NYNNSS	-33.5	-51.8	87.8	10.1	N.A.	0	no				MOT3_YEAST	P54785	-52.7	2.5	0.1
+non-amyloid	-54.5	75.5	114	1	non-amyloid	3.6	2.8	73.1	41.1			33.3	NYNTYR.pdb		-0.8	-0.02	0		20154676	NYNTYR	-31.4	-78	103.9	-4.4	N.A.	0	N.A.				N.A.	N.A.	-69.5	2.2	4.4
+non-amyloid	-55.5	75	107.2	6	non-amyloid	-1.9	-4.3	81.5	33.3			33.3	NYQGYS.pdb		-0.44	1.33	48			NYQGYS	-23	-53	70.6	4	N.A.	0	no				ERF3_YEAST	P05453	-45.6	1.4	0.2
+non-amyloid	-55.9	84	113	1	non-amyloid	3.3	5.9	73.7	52.9			33.3	NYQQYS.pdb		-0.89	0.86	12			NYQQYS	-35	-90.2	105.9	-11.2	N.A.	0	no				ERF3_YEAST	P05453	-75.7	3.1	3
+non-amyloid	-42.5	107	63	7	non-amyloid	-1.1	-2.5	72.8	16.5			33.3	PAESDK.pdb		4.74	7.39	165			PAESDK	-6.9	-35	70.7	39.9	N.A.	0	no				ERF3_YEAST	P05453	-32.7	0.1	0
+non-amyloid	-48.6	75.2	97	1	non-amyloid	2.3	3.5	87.6	15.8			66.7	PAGGYY.pdb		2.5	5.26	41			PAGGYY	-6.6	-53.4	60.9	20.2	N.A.	0	no				ERF3_YEAST	P05453	-42	0.1	0
+non-amyloid	-39.4	128.8	85.7	6	non-amyloid	-0.9	-1.4	76.4	21.2			100	PAMMAA.pdb		2.82	3.52	320			PAMMAA	0	-71.9	56.7	-9.3	N.A.	0	no				TADBP_HUMAN	Q13148	-50.6	0.5	0
+non-amyloid	-51.8	93.8	124	1	non-amyloid	1.8	4.6	73.7	19.7			83.3	PATVYV.pdb	L38P	-2.47	-4.52	38			PATVYV	-1.7	-83.7	85.9	-1.2	N.A.	0	yes	3_ApoAI_L1P_1mM_05_2000x.jpg		no	APOA1_HUMAN	P02647	-59.5	8.3	0
+non-amyloid	-54.1	89.5	87.3	1	non-amyloid	3.1	4	83.4	18.8			50	PDAGYQ.pdb		4.14	6.7	65			PDAGYQ	-13.4	-58.1	67.9	7.6	N.A.	0	no				ERF3_YEAST	P05453	-45	0.5	0
+non-amyloid	-44.8	68	84.5	8	non-amyloid	-1.8	-4.5	81.4	12.9			33.3	PGGFGN.pdb		4.23	5.16	280			PGGFGN	-1.7	-37.3	52.2	30	N.A.	0	no				TADBP_HUMAN	Q13148	-30.8	4.4	0
+non-amyloid	-49.7	94.2	119.3	1	non-amyloid	4	3.8	73.3	47.9			66.7	PKIQVY.pdb		-0.59	-0.05	25		16537487	PKIQVY	-21.3	-110.3	91.8	-28.2	N.A.	0	N.A.				B2MG_HUMAN	P61769	-76.4	2	0
+non-amyloid	-56.4	100.5	87.7	1	non-amyloid	1.5	1.6	71.3	43.5			33.3	PKKTLK.pdb		1.43	4.99	140			PKKTLK	-13.3	-94.3	101.1	-7.3	N.A.	0	no				ERF3_YEAST	P05453	-67.1	1.6	0
+non-amyloid	-45.9	89.8	75.2	1	non-amyloid	4.5	2.6	89.2	30.3			33.3	PKPKKT.pdb		4.66	8.76	138			PKPKKT	-6.4	-87.8	91.4	28.1	N.A.	0	no				ERF3_YEAST	P05453	-61.5	11.4	0
+non-amyloid	-42.3	108.3	86.7	7	non-amyloid	-2.1	-3.3	69.7	35.8			50	PKVEDL.pdb		2.55	3.64	213			PKVEDL	-4	-80.8	99.2	16.2	N.A.	0	no				ERF3_YEAST	P05453	-58.8	1.6	0
+non-amyloid	-52.9	94.5	114.3	1	non-amyloid	2.5	-0.8	75.7	42.8			83.3	PMINLY.pdb		0.21	-1.38	320			PMINLY	-10.2	-119.7	93.2	-40.2	N.A.	0	no				FUS_HUMAN	P35637	-80.1	3	0
+non-amyloid	-48.9	82.2	104.7	1	non-amyloid	3.4	6.6	72.4	25.7	PNGITL.png	1679/1649/1633	50	PNGITL.pdb		1.46	0.8	563	0		PNGITL	-10	-79.8	82.7	-3.2	N.A.	0	yes	PNGITL.png			LDLR_HUMAN	P01130	-56.9	0.3	0
+non-amyloid	-49.9	81.2	77.7	1	non-amyloid	2.9	5.2	76.2	25.5			33.3	PNSANS.pdb		4.5	2.74	509			PNSANS	-30.8	-46.8	88.5	26	N.A.	0	no				GLN3_YEAST	P18494	-44.9	0.1	0
+non-amyloid	-58.9	90.3	120.5	1	non-amyloid	3.2	5.6	69.2	32.8	PNVITL.png	1679.96/1650/1639	66.7	PNVITL.pdb	G565V	-0.59	-2.83	0	5.68		PNVITL	-18	-90.5	95.9	-23.1	N.A.	0	yes	PNVITL.png			LDLR_HUMAN	P01130	-64.6	0.3	0
+non-amyloid	-44.4	72.8	80.5	8	non-amyloid	-0.6	-5.5	71.5	14.8			16.7	PQGGRG.pdb		5.2	9.24	94			PQGGRG	-4.4	-28.1	52.5	30.9	N.A.	0	no				ERF3_YEAST	P05453	-26.6	1	0
+non-amyloid	-55.3	77	95.3	1	non-amyloid	2.5	5	88	22.3	PQGGYQ.png	1679/1650	33.3	PQGGYQ.pdb		3.4	7.07	75	7.13		PQGGYQ	-13.5	-49.8	62.5	24.7	N.A.	0	yes	PQGGYQ.png			ERF3_YEAST	P05453	-39.8	2.5	0
+non-amyloid	-52.7	94.2	119.3	1	non-amyloid	3.7	5.6	69.3	38.8			66.7	PQIVYK.pdb	V623P	-2.48	-3.07	623			PQIVYK	-8.3	-90.2	76.5	-18.4	N.A.	0	yes	87_wt2_V1P_1mM_03_10000x.jpg		no	TAU_HUMAN	P10636	-62.5	0.3	0
+non-amyloid	-48.3	93	88.3	8	non-amyloid	-1.8	-5.4	76.2	35.2			33.3	PQSQGM.pdb		2.84	5.88	119			PQSQGM	-15.3	-59.4	81.2	20	N.A.	0	no				ERF3_YEAST	P05453	-50.8	7.7	0
+non-amyloid	-45.8	68	89.5	8	non-amyloid	-1.6	-4.6	79.8	17.2			33.3	PQYGGG.pdb		3.85	7.54	24			PQYGGG	-10.7	-43.1	60.5	23.5	N.A.	0	no				CSGA_ECOLI	P28307	-36.6	7.7	0
+non-amyloid	-48.3	100	91.8	1	non-amyloid	8.8	16.3	71.5	19.9			50	PSDIEV.pdb		1.55	1.53	52		16537487	PSDIEV	-4.9	-65.8	76.9	26.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-49.1	0.2	0
+non-amyloid	-48.6	72.7	82.2	1	non-amyloid	2.9	5.1	75.9	22.5			16.7	PSGNNQ.pdb		5.11	4.53	349			PSGNNQ	-22.4	-44.9	78.5	28.7	N.A.	0	no				TADBP_HUMAN	Q13148	-40.5	0.1	0
+non-amyloid	-43	109.5	62.7	7	non-amyloid	-0.5	-6.9	66.6	31.6			16.7	PTEKDE.pdb		4.07	8.48	92		16537487	PTEKDE	-20.1	-54.3	95.9	25.7	N.A.	0	N.A.				B2MG_HUMAN	P61769	-46.2	1.6	0
+non-amyloid	-44.6	110.3	82	7	non-amyloid	-2.8	-7.4	65.6	33.4			33.3	PTKVEE.pdb		1.56	4.72	186			PTKVEE	-20.2	-66	93	1.1	N.A.	0	no				ERF3_YEAST	P05453	-52	0.9	0
+non-amyloid	-38.7	72.5	93.3	6	non-amyloid	-3.2	-5.7	63	24.3			66.7	PTRCCP.pdb		-0.44	1.03			25133634	PTRCCP	-7.6	-47.6	65.2	15.4	N.A.	0	N.A.				N.A.	N.A.	-40.9	5.1	0
+non-amyloid	-41.3	88.2	79.7	6	non-amyloid	-2.3	-12.9	80.3	28.5	PTREPT.png	1676/1646/1634	33.3	PTREPT.pdb		4.27	8.65	0	0		PTREPT	-10.6	-53.5	83.4	32.5	N.A.	0	yes	PTREPT.png			ERF3_YEAST	P05453	-46.4	4.6	0
+non-amyloid	-51	102.2	116.8	1	non-amyloid	6.6	9.4	62.4	25.7			66.7	PTVIIE.pdb		-1.55	-2.17	0		16537487	PTVIIE	0	-92.2	81	-18.2	N.A.	0	N.A.				N.A.	N.A.	-61.3	0.7	1.5
+non-amyloid	-43.9	115.5	74.5	7	non-amyloid	-5.1	-15.1	68.7	37.7			33.3	PVKKEE.pdb		2.7	5.62	192			PVKKEE	-3	-74.4	99.3	9	N.A.	0	no				ERF3_YEAST	P05453	-56.5	0.5	0
+non-amyloid	-44.1	109.8	88	7	non-amyloid	-0.9	-1.3	67.4	30.7	PVQTEE.png	1679/1643	33.3	PVQTEE.pdb		1.65	4.63	199	0		PVQTEE	-19.2	-55.6	86.8	19	N.A.	0	yes	PVQTEE.png			ERF3_YEAST	P05453	-47.3	0.5	0
+non-amyloid	-39.7	80.3	95.3	6	non-amyloid	-1.1	-1.2	72.2	28.6			33.3	PYGQQS.pdb		2.51	5.78	32			PYGQQS	-15.7	-46.3	56.7	17.4	N.A.	0	no				FUS_HUMAN	P35637	-38.6	1	0
+non-amyloid	-50.4	117.3	98.5	1	non-amyloid	1.8	3.7	82.9	26.6			50	QAALQS.pdb		0.57	1.85	327			QAALQS	-11.4	-69	70.5	4.5	N.A.	0	no				TADBP_HUMAN	Q13148	-50.7	0.1	0
+non-amyloid	-30.8	103.8	76.7	1	non-amyloid	1.3	3.3	89.3	14.2			66.7	QAAPKP.pdb		6.63	8.39	135			QAAPKP	-1.9	-75.5	69.2	29.2	N.A.	0	no				ERF3_YEAST	P05453	-51.9	11.9	0
+non-amyloid	-40.9	98.5	95.2	6	non-amyloid	-0.9	-1.6	73.6	26.9			50	QAGFQP.pdb		2.9	5	114			QAGFQP	-7.4	-57	61.4	12.4	N.A.	0	no				ERF3_YEAST	P05453	-44.5	1.2	0
+non-amyloid	-56	108.3	106.5	1	non-amyloid	3.3	7.3	84.2	51			33.3	QAQNQW.pdb		1.41	2.05	0		20154676	QAQNQW	-35	-79.8	109.6	15.4	N.A.	0	N.A.				N.A.	N.A.	-70.7	1.1	0
+non-amyloid	-40.8	103.3	86	1	non-amyloid	2.8	6.9	92.3	15.2			50	QAQPAG.pdb		4.69	6.91	38			QAQPAG	-5.4	-56.3	53.1	37.4	N.A.	0	no				ERF3_YEAST	P05453	-41	10.1	0
+non-amyloid	-38.5	107	103.7	5	non-amyloid	-1.1	-1.3	74.2	25.7	QAYNAQ.png	1679.23/1651.63	50	QAYNAQ.pdb		1.29	1.99	33	5.65		QAYNAQ	-20	-56.8	65.8	3.4	N.A.	0	yes	QAYNAQ.png			ERF3_YEAST	P05453	-47.1	1.6	0
+non-amyloid	-45.3	77	93.7	8	non-amyloid	-1.8	-4.4	82.6	23.1			16.7	QFGGGN.pdb		1.75	3.3	117			QFGGGN	-11.8	-42.1	56	28	N.A.	0	no				CSGA_ECOLI	P28307	-35.6	6.6	0
+non-amyloid	-43.6	86	96.2	1	non-amyloid	3.5	5.2	87	30.8			33.3	QFNPQG.pdb		3.33	4.22	91			QFNPQG	-18.2	-68.2	61.2	20.8	N.A.	0	no				ERF3_YEAST	P05453	-52.2	14.4	0
+non-amyloid	-49.9	87.7	101.8	1	non-amyloid	2.5	5.7	80.6	41.1			16.7	QGFNNQ.pdb		1.56	1.08	43			QGFNNQ	-40.8	-76	95.2	3.9	N.A.	0	no				MED12_HUMAN	Q93074	-63.8	9.2	0
+non-amyloid	-46.6	74.5	86.2	9	non-amyloid	-1.6	-2.9	73	14.9			0	QGGRGN.pdb		3.43	6.1	95			QGGRGN	-11.5	-20.1	48.8	37.7	N.A.	0	no				ERF3_YEAST	P05453	-20.6	3.5	0
+non-amyloid	-47.6	86	104.5	1	non-amyloid	3.5	4.9	82.3	27.2	QGGYQQ.png	1679.13/1649.55	16.7	QGGYQQ.pdb		0.92	5.21	57	5.02		QGGYQQ	-20.6	-46.5	56.5	22.7	N.A.	0	yes	QGGYQQ.png			ERF3_YEAST	P05453	-38	0.5	0
+non-amyloid	-40.5	96.3	97.3	5	non-amyloid	-1.1	-1.5	69.6	35.2			33.3	QGMSLN.pdb		0.32	0.83	122			QGMSLN	-6.4	-69.9	56.4	-6.7	N.A.	0	no				ERF3_YEAST	P05453	-50	0.7	0
+non-amyloid	-49	87.3	97.2	4	non-amyloid	2.4	3.7	79.9	44.2			0	QGNNQQ.pdb		3.07	3.49	6			QGNNQQ	-49.2	-57.1	100.7	23.9	N.A.	0	no				ERF3_YEAST	P05453	-57	4.9	0
+non-amyloid	-46.9	78.2	100.5	1	non-amyloid	2.8	1.8	73.9	35			16.7	QGNNRY.pdb		2.06	2.57	24			QGNNRY	-47.3	-75.8	113.7	-10.6	N.A.	0	no				ERF3_YEAST	P05453	-70.7	0.6	0
+non-amyloid	-43.4	91.2	100	9	non-amyloid	-0.6	-1.9	70.1	19.2	QGYQAG.png	1679.14/1647.21	33.3	QGYQAG.pdb		1.2	4.71	111	0		QGYQAG	-11.8	-44.8	58.1	10.8	N.A.	0	yes	QGYQAG.png			ERF3_YEAST	P05453	-37	1.7	0
+non-amyloid	-54	93.2	112	6	non-amyloid	-1.9	-5.1	81.2	37			50	QGYQAY.pdb		-0.43	2.93	30			QGYQAY	-25.3	-59.9	75.1	-1.3	N.A.	0	no				ERF3_YEAST	P05453	-50.3	0.6	0
+non-amyloid	-39.3	73.3	104.8	5	non-amyloid	-1.1	-3.5	74	27.5			33.3	QGYSGY.pdb		-0.7	3.08	50			QGYSGY	-18.1	-45.4	55.3	15.7	N.A.	0	no				ERF3_YEAST	P05453	-39.2	4	0
+non-amyloid	-51.2	74.8	85.2	8	non-amyloid	-2.4	-4.6	83.4	23			0	QHGGGN.pdb		2.33	4.04	72			QHGGGN	-17.4	-25.2	53.5	36.3	N.A.	0	no				CSGA_ECOLI	P28307	-25.3	1.2	0
+non-amyloid	-50.2	101	123.2	1	non-amyloid	3.3	6	68.1	36.5			50	QIGIIK.pdb		-2.64	-3.19	307			QIGIIK	-4	-102.3	78.6	-25.3	N.A.	0	no				FUS_HUMAN	P35637	-65.6	3	6.7
+non-amyloid	-43.7	112.8	85.8	6	non-amyloid	-0.7	0.4	69.1	29.4			50	QKQAAP.pdb		4.15	6.53	133			QKQAAP	-12.7	-56.7	76.5	18.1	N.A.	0	no				ERF3_YEAST	P05453	-46.7	2.2	0
+non-amyloid	-55.7	112	98	1	non-amyloid	4.2	6.2	74.4	75	QKQQKQ.png	1678.55/1649.24	0	QKQQKQ.pdb		1.02	5.76	130	4.69		QKQQKQ	-53.4	-85.1	113.1	9	N.A.	0	yes	QKQQKQ.png			ERF3_YEAST	P05453	-70.6	0.3	0
+non-amyloid	-49.6	97.8	119.3	1	non-amyloid	3.5	5.2	68.7	48.8			50	QLFINN.pdb		-1.04	-4.41	38			QLFINN	-22.3	-105.7	83.4	-37.6	N.A.	0	no				AL1B1_HUMAN	P30837	-72.8	2.9	0.1
+non-amyloid	-50.7	87.3	97.2	1	non-amyloid	3.5	5.2	75.9	35.2			0	QNGNQQ.pdb		3.07	3.49	18			QNGNQQ	-41.8	-46.8	81.7	19.1	N.A.	0	no				ERF3_YEAST	P05453	-45.7	0.7	0
+non-amyloid	-38.6	82.2	93	7	non-amyloid	-2.1	-4.2	71.5	31.7			33.3	QNQSCP.pdb	G348C	1.18	4.29	0			QNQSCP	-21.3	-49.1	73.2	16.1	N.A.	0	no				TADBP_HUMAN	Q13148	-46.2	0.3	0
+non-amyloid	-42.9	80	85.7	6	non-amyloid	-1.5	-2.7	70.6	25.5			16.7	QNQSGP.pdb		4.4	5.81	344			QNQSGP	-19.5	-31.6	61.3	27.7	N.A.	0	no				TADBP_HUMAN	Q13148	-31.8	0.1	0
+non-amyloid	-45.9	83.7	103.3	7	non-amyloid	-2.1	-4.7	73.8	45.5			16.7	QNQYNS.pdb		1	0.89	158			QNQYNS	-39.7	-63.3	93.5	0.8	N.A.	0	no				FUS_HUMAN	P35637	-59	2	0
+non-amyloid	-52.7	98	99.7	1	non-amyloid	3.4	6	74.6	42.6			33.3	QNSLNM.pdb		0.58	-0.92	457			QNSLNM	-25.1	-88.5	92.4	-13.4	N.A.	0	no				NRP1_YEAST	P32770	-68.1	1.6	0
+non-amyloid	-49.5	80.7	113	1	non-amyloid	3.2	-4.3	78.6	48	QNYQGY.png	1676.54/1644.54	33.3	QNYQGY.pdb		0	2.15	47	0		QNYQGY	-36	-75.4	99.9	1.7	N.A.	0	yes	QNYQGY.png			ERF3_YEAST	P05453	-65.1	0.6	0
+non-amyloid	-45.9	89.7	118.8	6	non-amyloid	-1.7	-5.6	71.7	52.5			33.3	QNYQQY.pdb		-0.45	1.68	11			QNYQQY	-42.9	-81.2	105	-9.1	N.A.	0	no				ERF3_YEAST	P05453	-70	6.8	0
+non-amyloid	-38.9	82.2	90.8	1	non-amyloid	2.3	3.2	105.5	15.7			50	QPAGGY.pdb		3.68	6.57	40			QPAGGY	-8.5	-50.1	52.9	52.7	N.A.	0	no				ERF3_YEAST	P05453	-37.8	8	0
+non-amyloid	-45.5	101.7	107.2	1	non-amyloid	4.4	6.3	83	41.4			50	QPKIVK.pdb		0.5	1.35	109		16537487	QPKIVK	-11	-93.7	81.5	3.7	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.1	1	0
+non-amyloid	-41.8	101.5	108.2	1	non-amyloid	2.3	6.2	89.2	40.9			66.7	QPMINL.pdb		1.39	-0.07	319			QPMINL	-8.5	-114.9	80.1	-9.8	N.A.	0	no				FUS_HUMAN	P35637	-73.9	9.5	0
+non-amyloid	-32.4	87.3	89.2	7	non-amyloid	-2.1	-4.2	74.6	24.9			16.7	QPQSQG.pdb		3.69	7.09	118			QPQSQG	-10.7	-40.1	57.4	38.3	N.A.	0	no				ERF3_YEAST	P05453	-35.7	6.2	0
+non-amyloid	-43.6	95	102	7	non-amyloid	-2.1	-4.1	86.1	46.3			33.3	QQFNPQ.pdb		2.88	3.75	90			QQFNPQ	-28.1	-80.6	82.1	11.6	N.A.	0	no				ERF3_YEAST	P05453	-64.5	18.4	0
+non-amyloid	-52.3	86	104.5	1	non-amyloid	2.5	5.2	87.9	25.6	QQGGYQ.png	1677.94/1651.08	16.7	QQGGYQ.pdb		0.92	5.21	56	0		QQGGYQ	-13.8	-54.9	65.8	23.3	N.A.	0	yes	QQGGYQ.png			ERF3_YEAST	P05453	-43.6	0.7	0
+non-amyloid	-51.2	85.2	94.3	1	non-amyloid	4.1	2.7	78.7	40.2			0	QQGNNR.pdb		3.24	3.88	23			QQGNNR	-36	-53.5	88.6	24.4	N.A.	0	no				ERF3_YEAST	P05453	-51.1	0.8	0
+non-amyloid	-58	121.8	95	6	non-amyloid	-2.7	-3.9	74.6	31.4			33.3	QQKQAA.pdb		1.67	4.67	132			QQKQAA	-17.7	-43.7	69.3	11.9	N.A.	0	no				ERF3_YEAST	P05453	-37.9	0.2	0
+non-amyloid	-60.1	91.2	102.2	6	non-amyloid	-1.9	-3.3	72.6	41			16.7	QQNQSC.pdb	G348C	-1.3	2.43	0			QQNQSC	-29	-37.6	73.8	17.4	N.A.	0	no				TADBP_HUMAN	Q13148	-38.8	0.1	0
+non-amyloid	-48.9	89	94.8	7	non-amyloid	-2.1	-4.2	71.1	36.2			0	QQNQSG.pdb		1.92	3.95	343			QQNQSG	-25.2	-42.3	73	15	N.A.	0	no				TADBP_HUMAN	Q13148	-43	0.1	0
+non-amyloid	-52.6	89.3	109.2	1	non-amyloid	3.3	6.2	70.4	47.4			16.7	QQNQYN.pdb		1.44	1.71	157			QQNQYN	-38.7	-75.4	107.2	4.6	N.A.	0	no				FUS_HUMAN	P35637	-67.3	1.3	6.8
+non-amyloid	-60.4	93.7	106.8	1	non-amyloid	3.2	2.3	71.6	38.5			16.7	QQNTSF.pdb		-1.27	0.26	452			QQNTSF	-19.9	-76.8	98.1	-3.3	N.A.	0	no				RLM1_YEAST	Q12224	-63.9	0.5	0
+non-amyloid	-45.3	96.7	112.7	7	non-amyloid	-2.1	-5.1	74	56.2			16.7	QQNYQQ.pdb		0.73	2.99	10			QQNYQQ	-38.1	-74.7	98.7	0.7	N.A.	0	no				ERF3_YEAST	P05453	-64.9	1.2	0
+non-amyloid	-47	91.5	100.8	7	non-amyloid	-2.1	-4.6	74.5	48.9			16.7	QQNYSK.pdb		0.2	2.26	1226			QQNYSK	-33.3	-64.2	89.1	5.3	N.A.	0	no				SWI1_YEAST	P09547	-57.4	1	0
+non-amyloid	-40.2	95	102	7	non-amyloid	-2.1	-4.9	67.9	41.8			33.3	QQQFNP.pdb		2.88	3.75	89			QQQFNP	-16.6	-80.1	88.2	-9.4	N.A.	0	no				ERF3_YEAST	P05453	-64.4	0.3	0
+non-amyloid	-49.5	87.3	97.2	2	non-amyloid	3.8	5.7	78.4	37.3			0	QQQGNN.pdb		3.07	3.49	22			QQQGNN	-43.1	-47.4	85.3	23.9	N.A.	0	no				ERF3_YEAST	P05453	-46.8	0.1	0
+non-amyloid	-55.2	89.3	104.5	6	non-amyloid	-1.9	-4	72.2	39.5			16.7	QQQSYG.pdb		0.03	3.92	139			QQQSYG	-33.3	-42.6	67.7	4.4	N.A.	0	no				FUS_HUMAN	P35637	-39.3	0.6	3.9
+non-amyloid	-40.4	91	106.8	6	non-amyloid	-1.1	-0.9	64.5	46.6			16.7	QQQSYN.pdb		0.29	2.17	145			QQQSYN	-33.4	-54.9	74	6	N.A.	0	no				FUS_HUMAN	P35637	-49.6	0.7	131.1
+non-amyloid	-39.4	87.7	103.5	7	non-amyloid	-2.1	-4.9	69	45.6			33.3	QQQYNP.pdb		3.21	4.85	70			QQQYNP	-28.4	-78.8	92.8	-6.9	N.A.	0	no				ERF3_YEAST	P05453	-65.5	3.6	0
+non-amyloid	-39.5	89.3	104.5	6	non-amyloid	-1.1	-1.2	71.1	37.3			16.7	QQSYGQ.pdb		0.03	3.92	140			QQSYGQ	-30.3	-41.9	56.9	14.9	N.A.	0	no				FUS_HUMAN	P35637	-37.9	0.6	0
+non-amyloid	-40.2	82	97.7	7	non-amyloid	-2.1	-4.6	70.6	39.4			33.3	QQSYNP.pdb		2.77	4.03	146			QQSYNP	-24.3	-66.1	86.3	2.1	N.A.	0	no				FUS_HUMAN	P35637	-57.7	0.4	0
+non-amyloid	-53.7	83.7	98.7	1	non-amyloid	3.5	5.5	72.3	37.2			16.7	QQSYSG.pdb		-0.41	3.1	35			QQSYSG	-25.6	-59.3	80.8	8.4	N.A.	0	no				FUS_HUMAN	P35637	-54.3	0.7	0
+non-amyloid	-43.6	86	94.2	7	non-amyloid	-2.5	-5.9	87.4	45.3			33.3	QQYNPD.pdb		4.12	5.45	61			QQYNPD	-34.8	-68.9	85.7	16.3	N.A.	0	no				ERF3_YEAST	P05453	-57.6	9.4	0
+non-amyloid	-43.9	87.7	103.5	7	non-amyloid	-2.1	-4.2	87.3	47.8			33.3	QQYNPQ.pdb		3.21	4.85	71			QQYNPQ	-28.8	-71.8	82.3	17	N.A.	0	no				ERF3_YEAST	P05453	-59.7	8.2	0
+non-amyloid	-42.1	91	106.8	5	non-amyloid	-1.1	-1.2	68.3	42.7			16.7	QQYSQN.pdb		0.29	2.17	14			QQYSQN	-31.3	-64	81.1	4.8	N.A.	0	no				ERF3_YEAST	P05453	-56	7.1	0
+non-amyloid	-58.5	83.8	96.7	6	non-amyloid	-3.5	-4.8	90.7	31.6			16.7	QRGFGN.pdb		1.47	3.22	94			QRGFGN	-20.5	-45.1	68.4	22.1	N.A.	0	no				CSGA_ECOLI	P28307	-38.8	1.1	0
+non-amyloid	-38.7	74.8	84.8	1	non-amyloid	3.4	5.8	86.5	16.3			33.3	QSCPSG.pdb	G348C	0.48	5.22	0			QSCPSG	-4.8	-38.5	48.5	41.2	N.A.	0	no				TADBP_HUMAN	Q13148	-33.3	3.2	0
+non-amyloid	-48.6	80.3	93.7	1	non-amyloid	2.3	6.1	88.7	23.7			16.7	QSGFGN.pdb	G287S	0.86	2.01	0			QSGFGN	-25	-54.5	69.3	21.4	N.A.	0	no				TADBP_HUMAN	Q13148	-47.3	6.1	0
+non-amyloid	-56.3	96.3	91.7	6	non-amyloid	-1.9	-3.1	78.6	32.1			16.7	QSQGMS.pdb		-0.08	3.2	120			QSQGMS	-16	-41.5	59	15.6	N.A.	0	no				ERF3_YEAST	P05453	-35.8	0.2	0
+non-amyloid	-48.7	95.8	96.2	1	non-amyloid	2.5	4.3	80	30.3			33.3	QSSWGM.pdb		-0.86	1.45	331			QSSWGM	-12.8	-61.9	73.7	18	N.A.	0	no				TADBP_HUMAN	Q13148	-51.9	2	0
+non-amyloid	-58.9	81.3	92.8	6	non-amyloid	-1.9	-3.1	72.5	28.7			16.7	QSSYSS.pdb		-1.74	0.99	52			QSSYSS	-21.2	-30.6	65.6	19	N.A.	0	no				FUS_HUMAN	P35637	-33.3	1.1	0
+non-amyloid	-39.6	89.3	104.5	5	non-amyloid	-1.1	-1.4	69.1	36			16.7	QSYGQQ.pdb		0.03	3.92	141			QSYGQQ	-27.1	-56.5	71.6	8	N.A.	0	no				FUS_HUMAN	P35637	-49.3	4.4	0
+non-amyloid	-32.8	73	88.5	5	non-amyloid	-1.1	-1.5	82	32			50	QSYNPP.pdb		5.25	5.89	147			QSYNPP	-21.7	-67.9	69.8	22	N.A.	0	no				FUS_HUMAN	P35637	-54.5	17.6	0
+non-amyloid	-56.4	76.7	104.8	6	non-amyloid	-1.9	-5.4	79.5	32.6			33.3	QSYSGY.pdb		-1.59	1.79	36			QSYSGY	-25.9	-45.7	72.4	6.9	N.A.	0	no				FUS_HUMAN	P35637	-43	0.4	0
+non-amyloid	-42.6	100.3	91.3	7	non-amyloid	-2	-11.6	69	31	QTDARN.png	1673.38/1641.3	16.7	QTDARN.pdb		2.04	3.98	60	0		QTDARN	-24.8	-43.9	76.1	13.1	N.A.	0	yes	QTDARN.png			CSGA_ECOLI	P28307	-40.4	0.3	0
+non-amyloid	-45.5	120.7	75.2	7	non-amyloid	0	-10.6	72.8	55.6			0	QTEEKK.pdb		0.59	6.11	0			QTEEKK	-36.6	-65.4	100.2	20.4	N.A.	0	no				ERF3_YEAST	P05453	-54	1.2	0
+non-amyloid	-59.3	101.3	120.7	6	non-amyloid	-1.9	-5.6	78.4	40.1			50	QTFNLF.pdb		-3.09	-3.24	86			QTFNLF	-12.8	-91.1	89.7	-24	N.A.	0	no				IFN10_HUMAN	P01566	-68.3	3.1	0.5
+non-amyloid	-48.9	84.7	111.7	1	non-amyloid	2.4	4.2	70	38.1			33.3	QTNLYG.pdb		-0.8	0.74	0		20154676	QTNLYG	-20.7	-81	77.9	-12.7	N.A.	0	N.A.				N.A.	N.A.	-59.7	3.2	9
+non-amyloid	-54.5	85.2	109.5	1	non-amyloid	3.2	5	84.6	22.5			33.3	QVGFGN.pdb		-0.3	-0.33	139			QVGFGN	-10.8	-68.2	65.2	9.1	N.A.	0	no				CSGA_ECOLI	P28307	-49.6	7.3	0
+non-amyloid	-54.4	98	128.7	1	non-amyloid	2.8	3.2	64.8	31.8	QVVHIG.png	1679.78/1643.15	50	QVVHIG.pdb	P1627H	-3.88	-5.05	0	4.64		QVVHIG	-7.7	-88.9	76.4	-25.1	N.A.	0	yes	QVVHIG.png			VWF_HUMAN	P04275	-61.5	4.4	18.5
+non-amyloid	-45.7	90.8	123.3	1	non-amyloid	2	4.6	78.6	31.3	QVVPIG.png	1675.32/1641.86	66.7	QVVPIG.pdb		-0.47	-1.52	1624	0		QVVPIG	-5.6	-97.6	85.4	2.1	N.A.	0	yes	QVVPIG.png			VWF_HUMAN	P04275	-65.1	13.7	0
+non-amyloid	-45.1	87.3	95.7	7	non-amyloid	-1.4	-4.6	79.7	32.2	QWNGKN.png	1648.9	16.7	QWNGKN.pdb		2.2	1.83	105	4.63		QWNGKN	-11.3	-66.5	77.5	8.9	N.A.	0	yes	QWNGKN.png			CSGA_ECOLI	P28307	-53.7	1.1	0
+non-amyloid	-44.9	68	92.8	8	non-amyloid	-1.8	-3.8	81.7	12.3			16.7	QYGGGG.pdb		1.82	6.15	25			QYGGGG	-3.6	-33.9	43.8	25.6	N.A.	0	no				CSGA_ECOLI	P28307	-29.1	4.9	0
+non-amyloid	-45.4	69.7	95.2	8	non-amyloid	-1.8	-4.5	82.9	23.4			16.7	QYGGGN.pdb		2.08	4.4	49			QYGGGN	-15.3	-40.1	58.2	28.8	N.A.	0	no				CSGA_ECOLI	P28307	-35.3	6.5	0
+non-amyloid	-62.9	76.3	99.8	1	non-amyloid	3.2	5.9	77.8	35.5			16.7	QYNNSN.pdb		1.71	-0.39	142			QYNNSN	-40.5	-62.4	102.7	9.2	N.A.	0	no				LSM4_YEAST	P40070	-59.4	4.4	0.2
+non-amyloid	-32.8	91.2	89.7	6	non-amyloid	-2.1	-2.1	86.4	33.5			50	QYNPDA.pdb		4.4	4.95	62			QYNPDA	-31.2	-56.5	70.3	31.6	N.A.	0	no				ERF3_YEAST	P05453	-47.4	12.9	0
+non-amyloid	-32.7	78.7	97.7	6	non-amyloid	-1.1	-1	81	35.9			33.3	QYNPQG.pdb		3.66	5.32	72			QYNPQG	-25.5	-60.9	66.2	25.1	N.A.	0	no				ERF3_YEAST	P05453	-50.6	13.2	0
+non-amyloid	-46	82	101	7	non-amyloid	-2.1	-4.1	71.6	35.9			16.7	QYSQNG.pdb		0.74	2.64	15			QYSQNG	-28.2	-51.8	74.9	3.2	N.A.	0	no				ERF3_YEAST	P05453	-48.3	1	0
+non-amyloid	-31.9	101.5	91.3	7	non-amyloid	-5.9	-19.3	84.1	42			33.3	REPTKV.pdb		1.33	4.53	0			REPTKV	-18.5	-76.9	100.7	28.5	N.A.	0	no				ERF3_YEAST	P05453	-60.3	11.6	0
+non-amyloid	-52.4	111	110.3	1	non-amyloid	0.9	-13.2	73.6	41.4			50	RETWFF.pdb		-3.26	-0.83	0		20154676	RETWFF	-4	-109.3	117.8	-16.7	N.A.	0	N.A.				N.A.	N.A.	-82.9	2.8	0.8
+non-amyloid	-44	88.8	118.3	7	non-amyloid	-3.8	-6.1	75.8	39.2			50	RGFFYT.pdb		-3.61	-0.5	46		16537487	RGFFYT	-19.5	-85.7	82.8	-21.2	N.A.	0	N.A.				INS_HUMAN	P01308	-65	2.9	25.3
+non-amyloid	-45.3	78.2	90.8	7	non-amyloid	-3.5	-5.4	79.3	23.3			16.7	RGFGNS.pdb		1.03	2.4	95			RGFGNS	-14.8	-37.9	54.2	17.9	N.A.	0	no				CSGA_ECOLI	P28307	-34	0.7	0
+non-amyloid	-48.4	84.3	90.7	1	non-amyloid	7.6	4.5	85.4	24.1			16.7	RGGFNK.pdb		1.38	3.31	259			RGGFNK	-10.1	-61.5	62.6	20.5	N.A.	0	no				FUS_HUMAN	P35637	-47.2	2.6	0
+non-amyloid	-43.8	78.7	94.5	7	non-amyloid	-2.4	-4.9	75.2	38.7	RGNYKN.png	1678.65/1651.8/1637.01	16.7	RGNYKN.pdb		1.97	2.66	98	6.01		RGNYKN	-28.6	-57.9	81.4	9.6	N.A.	0	yes	RGNYKN.png			ERF3_YEAST	P05453	-50.3	0.6	0
+non-amyloid	-49.2	104	113.5	1	non-amyloid	6.6	3	76.3	31.3	RIGIAQ.png	1678.98/1652.63/1642.14	50	RIGIAQ.pdb	V149R	-0.7	-0.28	0	3.05		RIGIAQ	-4.3	-84	70.5	-4.6	N.A.	0	yes	RIGIAQ.png			SODC_HUMAN	P00441	-56.3	0.2	0
+non-amyloid	-49.4	89.7	106	1	non-amyloid	5.4	3.8	77	43.1			33.3	RLSNNI.pdb		0.2	-2.43	122			RLSNNI	-28.8	-89.3	103.6	-1.5	N.A.	0	no				KSP1_YEAST	P38691	-69.2	0.4	0
+non-amyloid	-45.4	107.8	124.2	7	non-amyloid	-8	-17.4	66.1	45.7			66.7	RLVFID.pdb		-2.98	-4.02	0		20154676	RLVFID	-9.3	-107.9	87.7	-54.2	N.A.	0	N.A.				N.A.	N.A.	-74.2	2.2	191.1
+non-amyloid	-51.6	106.5	124.2	6	non-amyloid	-3.7	-6.3	77.2	42.7			66.7	RMFNII.pdb		-3.08	-5.15	0		20154676	RMFNII	-3	-105.8	93.7	-21.3	N.A.	0	N.A.				N.A.	N.A.	-75.2	5.3	28.1
+non-amyloid	-44.8	97.3	93.2	7	non-amyloid	-7.3	-16.7	68.3	46			16.7	RNLTKD.pdb		0.92	2.66	59		20133726	RNLTKD	-27.7	-67.1	94.7	-9	N.A.	0	N.A.				RNAS1_BOVIN	P61823	-56.3	0.2	0
+non-amyloid	-48	97.2	109.8	7	non-amyloid	-3.6	-6	74.6	54.1			16.7	RQFNQT.pdb		-0.66	1.47	181			RQFNQT	-33.9	-77.3	96	-2.3	N.A.	0	no				HNF1B_HUMAN	P35680	-65.7	3.8	0
+non-amyloid	-45.7	101	125.7	7	non-amyloid	-2.2	-5.1	68	46.8			50	RQIVYK.pdb	V623R	-2.48	-3.07	623			RQIVYK	-11.5	-98.2	90.5	-20.7	N.A.	0	yes	92_wt2_V1R_1mM_01_8000x.jpg		no	TAU_HUMAN	P10636	-71.2	4.9	0.2
+non-amyloid	-46	86.8	92	7	non-amyloid	-3.8	-6.1	70.5	36.1			0	RQNQSG.pdb		2.09	4.34	0			RQNQSG	-25.5	-43.5	71.1	11	N.A.	0	no				TADBP_HUMAN	Q13148	-42.9	0.1	0
+non-amyloid	-42.7	95.2	101.8	1	non-amyloid	3.1	3.4	79.7	36.3			33.3	RTPKIQ.pdb		1.13	4	23		16537487	RTPKIQ	-8.4	-87.8	77.8	2.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-60.7	0.5	0
+non-amyloid	-44	120.5	109.8	7	non-amyloid	-7.6	-15.3	74.2	40.9			66.7	RVAFFE.pdb		-2.57	-1.93	0		20154676	RVAFFE	-6.4	-85.5	82	-15.1	N.A.	0	N.A.				N.A.	N.A.	-63	4.4	0.3
+non-amyloid	-46.9	93.3	121.3	7	non-amyloid	-3.8	-6.6	64.9	36.3			33.3	RVNHVT.pdb		-3.28	-4.11	101		16537487	RVNHVT	-18.9	-66.3	91.1	-1.6	N.A.	0	N.A.				B2MG_HUMAN	P61769	-56	0.7	0
+non-amyloid	-47.4	91.2	102.2	7	non-amyloid	-3.4	-5.8	70.6	32.5			33.3	RVNNNA.pdb		2.18	-1.53	581			RVNNNA	-32.5	-53	91.7	3.6	N.A.	0	no				GPR1_YEAST	Q12361	-52.3	0.8	0
+non-amyloid	-53.8	85.8	113.7	1	non-amyloid	3.2	7.5	77.9	45.2			33.3	RYQGYQ.pdb		-0.54	3.82	28			RYQGYQ	-28.8	-85.1	100.1	-1.6	N.A.	0	no				ERF3_YEAST	P05453	-70.8	1.4	0
+non-amyloid	-44.2	119.7	70.8	7	non-amyloid	-0.4	-9.3	71.5	35.2			16.7	SAETKE.pdb		0.52	4.7	176			SAETKE	-29.6	-62.1	102.5	17	N.A.	0	no				ERF3_YEAST	P05453	-53.3	5.1	0
+non-amyloid	-51.4	93.7	80	8	non-amyloid	-2	-4.2	76.7	11.9			33.3	SASNAG.pdb		2.04	2.13	387			SASNAG	-11.1	-24.3	46.8	22.4	N.A.	0	no				TADBP_HUMAN	Q13148	-24.7	4.2	0
+non-amyloid	-50	105.8	95.2	6	non-amyloid	-0.4	1.7	70.8	25.1			33.3	SATLDQ.pdb		-0.03	2.14	100			SATLDQ	-17.4	-46.8	63.9	10.8	N.A.	0	no				CSGA_ECOLI	P28307	-37.2	0.3	0
+non-amyloid	-54	69.2	91.7	1	non-amyloid	3.1	4.7	74.4	33.9			16.7	SCNNNN.pdb		0.83	-1.41	30			SCNNNN	-60.9	-47.9	101.7	2.7	N.A.	0	no				SAP30_YEAST	P38429	-54.9	1.9	0
+non-amyloid	-41.7	67.5	81.3	7	non-amyloid	-1.8	-4	92.5	19.1			33.3	SCPSGN.pdb	G348C	1.19	3.94	0			SCPSGN	-8.8	-34.1	52.3	45.8	N.A.	0	no				TADBP_HUMAN	Q13148	-31.8	4	0
+non-amyloid	-48	118	58.5	7	non-amyloid	-1	-11.4	74.5	34.7			0	SDKKEE.pdb		2.29	6.7	168			SDKKEE	-20.4	-50.3	78.9	17.5	N.A.	0	no				ERF3_YEAST	P05453	-42.6	0.5	0
+non-amyloid	-41.6	94.3	91.2	5	non-amyloid	0.3	-3.1	71.5	28.9			33.3	SDLSFS.pdb		-1.47	-0.6	72		16537487	SDLSFS	-14.4	-60.8	64.3	1.5	N.A.	0	N.A.				B2MG_HUMAN	P61769	-46.3	2.4	0.2
+non-amyloid	-49.2	95.5	109.5	1	non-amyloid	3.2	4.2	63.5	25.6			33.3	SDLTIT.pdb		-2.94	-1.28	66			SDLTIT	-2.6	-78	77.6	-8.8	N.A.	0	no				CSGA_ECOLI	P28307	-55.2	0.8	5.3
+non-amyloid	-52.5	83.8	97.7	1	non-amyloid	3.7	6.2	73	28.7			16.7	SDNNTI.pdb		0.46	-1.12	282			SDNNTI	-36.1	-59	108.6	20.3	N.A.	0	no				FUS_HUMAN	P35637	-56.5	0.7	0
+non-amyloid	-50.6	81.7	79.7	7	non-amyloid	-0.1	-3.7	76	25			0	SDSNQG.pdb		2.39	3.73	2			SDSNQG	-32.9	-22.7	48.4	17.2	N.A.	0	no				ERF3_YEAST	P05453	-24.1	0	0
+non-amyloid	-45	104.3	90.2	2	non-amyloid	2.6	3.1	91.4	30.7			50	SELPKV.pdb		1.2	2.22	210			SELPKV	-6.1	-81.4	71.9	17.7	N.A.	0	no				ERF3_YEAST	P05453	-55.1	4.3	0
+non-amyloid	-52.1	112.7	96.7	1	non-amyloid	3.1	5.4	71	34.1			33.3	SEMTVK.pdb		-2.61	0.25	111			SEMTVK	-11	-83.2	78.5	-10.8	N.A.	0	no				CSGA_ECOLI	P28307	-60.5	2.1	0
+non-amyloid	-49.2	97.2	91.8	8	non-amyloid	-2	-4.2	76.5	7.8			50	SGAAIG.pdb		0.82	1.59	379			SGAAIG	-5.3	-29.8	39.9	15.6	N.A.	0	no				TADBP_HUMAN	Q13148	-24.3	5.9	0
+non-amyloid	-50.8	85.5	95	7	non-amyloid	-2.6	-10.5	76.8	22.2	SGDHCI.png	1679.35/1637.07	33.3	SGDHCI.pdb		-2.98	0	108	0		SGDHCI	-15.1	-36.4	71.9	22.4	N.A.	0	yes	SGDHCI.png			SODC_HUMAN	P00441	-35.3	0	0
+non-amyloid	-41.3	74.7	87.8	5	non-amyloid	-1.1	-0.9	72.7	17.1			16.7	SGFGNS.pdb	G287S	0.42	1.19	0			SGFGNS	-10.5	-36.6	42	18.2	N.A.	0	no				TADBP_HUMAN	Q13148	-30.4	6.4	0
+non-amyloid	-43.5	80.2	84.2	7	non-amyloid	-2.1	-4.2	90.4	26.4			33.3	SGFHPS.pdb		0.81	2.19	48		16537487	SGFHPS	-15.4	-54.1	57.7	12.4	N.A.	0	N.A.				B2MG_HUMAN	P61769	-44.2	0.1	0
+non-amyloid	-49.7	103.2	99.5	1	non-amyloid	2.6	3.9	77.1	27			50	SGIKLA.pdb		-0.75	-0.2	150			SGIKLA	-2	-83	62	-11.3	N.A.	0	no				ERF3_YEAST	P05453	-54.6	3.9	0
+non-amyloid	-41.8	74.7	87.8	5	non-amyloid	-1.1	-0.8	70.7	16.4			16.7	SGSGFN.pdb		0.42	1.19	393			SGSGFN	-8.8	-30.3	41.6	22.6	N.A.	0	no				TADBP_HUMAN	Q13148	-27.6	3.5	0
+non-amyloid	-46.7	68.7	77.3	8	non-amyloid	-1.9	-4	67.7	17.5			0	SGSNSG.pdb		1.49	2.78	375			SGSNSG	-16.5	-17.4	43.7	23.7	N.A.	0	no				TADBP_HUMAN	Q13148	-21.3	2.6	0
+non-amyloid	-51.1	80.3	98.7	6	non-amyloid	-1.9	-2.8	77	28.1			16.7	SGYQQG.pdb		0.48	4.39	53			SGYQQG	-15.3	-44.9	55.5	9	N.A.	0	no				ERF3_YEAST	P05453	-37.9	1.5	0
+non-amyloid	-52.1	116.2	97	6	non-amyloid	-3.9	-8.6	68.9	28.5			50	SHLVEA.pdb		-1.84	-1.9	33		16537487	SHLVEA	-3.6	-67.8	77.6	-7.3	N.A.	0	N.A.				INS_HUMAN	P01308	-50	0.2	0
+non-amyloid	-52.7	108.3	114.8	6	non-amyloid	-2.9	-5.6	64.7	34			50	SHVIIE.pdb		-4.17	-5.71	0		16537487	SHVIIE	-4.2	-82.3	82.9	-20.4	N.A.	0	N.A.				N.A.	N.A.	-58.4	1.2	49.4
+non-amyloid	-63.1	100.2	108	1	non-amyloid	5.3	8.9	68.4	35.8			33.3	SIDLTQ.pdb		-1.71	-0.47	89			SIDLTQ	-14	-83.8	89.5	-10.1	N.A.	0	no				CSGA_ECOLI	P28307	-59.7	0.2	0
+non-amyloid	-37.4	103.3	95.2	6	non-amyloid	1.5	4.2	64.6	16.3			33.3	SIEDSV.pdb		-1.37	-1.15	99			SIEDSV	-6.2	-32.9	56.1	37.1	N.A.	0	no				SODC_HUMAN	P00441	-29.6	0.1	0
+non-amyloid	-40.6	99.3	94.5	1	non-amyloid	2.3	6.3	87.7	30			66.7	SINPAM.pdb		1.98	0.52	317			SINPAM	-8.4	-91.6	68.9	7.9	N.A.	0	no				TADBP_HUMAN	Q13148	-61.1	12.3	0
+non-amyloid	-48.7	110.7	112.7	7	non-amyloid	-3.3	-5.6	64.5	37			50	SKVIIE.pdb		-3.33	-3.95	0		16537487	SKVIIE	-3.9	-90.5	80.1	-29.1	N.A.	0	N.A.				N.A.	N.A.	-61.6	0.5	3
+non-amyloid	-47.7	98.3	99.3	7	non-amyloid	-1	-3	75.5	41.1			33.3	SLNDFQ.pdb		0.12	-0.24	125			SLNDFQ	-32.2	-75.9	97.1	-5.4	N.A.	0	no				ERF3_YEAST	P05453	-60.6	0.5	0
+non-amyloid	-42.7	88.8	82.7	6	non-amyloid	-3	-2.8	70.2	20.6			16.7	SLSGDH.pdb		0	1.43	106			SLSGDH	-17.4	-34.1	57.7	20.4	N.A.	0	no				SODC_HUMAN	P00441	-30.9	0.5	0
+non-amyloid	-47	108.3	104.8	7	non-amyloid	-1.5	-5.2	72.2	47.8			50	SLYQLE.pdb		-1.52	0.21	101		16537487	SLYQLE	-22	-95.3	84.3	-32.2	N.A.	0	N.A.				INS_HUMAN	P01308	-68.2	1	0
+non-amyloid	-50.8	79.5	78.7	8	non-amyloid	-2	-4.2	77.1	12.7			16.7	SNAGSG.pdb		2.21	3.1	389			SNAGSG	-13.6	-19.2	38.8	20.4	N.A.	0	no				TADBP_HUMAN	Q13148	-20.3	1.7	0
+non-amyloid	-49.1	87.2	121.5	1	non-amyloid	3.4	6.7	72.8	25.3			50	SNGIVI.pdb		-2.48	-5.43	322			SNGIVI	-10.1	-77.7	79.4	-1.3	N.A.	0	no				ALS1_CANAL	Q5A8T4	-55	0.4	0
+non-amyloid	-48.8	76.7	82.3	1	non-amyloid	3.1	4.7	87.1	22.2			16.7	SNMGGG.pdb		1.97	3.68	305			SNMGGG	-13.4	-48.4	50	17.5	N.A.	0	no				TADBP_HUMAN	Q13148	-39.4	0.2	0
+non-amyloid	-44.2	87.2	91.5	6	non-amyloid	-1.5	-2.4	74.9	22.6			33.3	SNNFGA.pdb		1.4	-0.24	0		12054816	SNNFGA	-17.6	-42.6	58.3	11.7	N.A.	0	N.A.				N.A.	N.A.	-38.2	0.9	0
+non-amyloid	-51.3	77.2	96.2	1	non-amyloid	2.3	6.4	74.1	33.4			16.7	SNNSNI.pdb		1.05	-3.01	124			SNNSNI	-37.2	-55.1	87.4	12	N.A.	0	no				MOT3_YEAST	P54785	-49.9	0.6	0
+non-amyloid	-57.5	74.3	87.8	1	non-amyloid	3	5.6	85.6	31.6			0	SNQGNN.pdb		3.34	1.39	4			SNQGNN	-38.3	-46	88.5	26.2	N.A.	0	no				ERF3_YEAST	P05453	-46.4	0	0
+non-amyloid	-52.7	93.7	80	8	non-amyloid	-2	-4.2	77.7	11.3			33.3	SNSGAA.pdb		2.04	2.13	377			SNSGAA	-11.4	-22.4	44.6	19.3	N.A.	0	no				TADBP_HUMAN	Q13148	-22.9	1.2	0
+non-amyloid	-55.8	74	96.7	1	non-amyloid	4	5.4	69.6	30.9			0	SNTNNT.pdb		0.43	-0.7	774			SNTNNT	-51.9	-38.4	82.1	11.5	N.A.	0	no				CYC8_YEAST	P14922	-41.8	5.5	0
+non-amyloid	-38	101.2	109.5	7	non-amyloid	-1.7	-4.4	69.4	29.3			66.7	SPVIIE.pdb		-0.76	-2.18	0		16537487	SPVIIE	-6.2	-80.2	69.1	-7.2	N.A.	0	N.A.				N.A.	N.A.	-55.1	7.9	1.9
+non-amyloid	-48	98	95	1	non-amyloid	3.4	5.9	78	34.9			33.3	SQGMSL.pdb		-0.83	1.29	121			SQGMSL	-5.5	-81.4	73.6	3.6	N.A.	0	no				ERF3_YEAST	P05453	-58.8	0.3	0
+non-amyloid	-51.9	81.7	91.3	1	non-amyloid	3.1	4.7	78.6	27			0	SQNGNQ.pdb		2.63	2.67	17			SQNGNQ	-35.5	-41.6	82	24.2	N.A.	0	no				ERF3_YEAST	P05453	-44.2	1.3	0
+non-amyloid	-55.6	92.3	94.8	1	non-amyloid	3.5	5.2	74.1	43.6			0	SQQNQS.pdb		1.03	2.66	342			SQQNQS	-38.6	-54.5	85.3	11.9	N.A.	0	no				TADBP_HUMAN	Q13148	-51.7	0.5	0
+non-amyloid	-46.6	104.2	71.7	7	non-amyloid	-5.5	-8.7	89.6	30.8			33.3	SRHPAE.pdb		3.16	5.42	31		16537487	SRHPAE	-24.4	-46.5	61.7	29.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-39.2	13	0
+non-amyloid	-55.7	90.2	92	7	non-amyloid	-3.1	-4.7	77.1	35.2			0	SRQNQS.pdb	Q343R	1.2	3.05	0			SRQNQS	-32.6	-36.8	63.4	10.4	N.A.	0	no				TADBP_HUMAN	Q13148	-36	0.3	0
+non-amyloid	-54.5	108	115.8	6	non-amyloid	-6.9	-15.7	67.2	50			50	SRVIIE.pdb		-3.07	-3.65	0		16537487	SRVIIE	-13.3	-85.3	88.4	-29.6	N.A.	0	N.A.				N.A.	N.A.	-62.2	0.7	4
+non-amyloid	-49	92.3	98.2	1	non-amyloid	2	4.8	78	27.2			33.3	SSGIKL.pdb		-1.47	-0.52	149			SSGIKL	-2.6	-79	67	-3.2	N.A.	0	no				ERF3_YEAST	P05453	-53.5	1	0
+non-amyloid	-42.1	94.5	102.2	5	non-amyloid	-1.5	-1.5	68.4	27			33.3	SSIDLT.pdb		-2.15	-1.29	88			SSIDLT	-13.5	-59.3	60.1	-4.4	N.A.	0	no				CSGA_ECOLI	P28307	-43.5	1	0
+non-amyloid	-52.7	72	82	1	non-amyloid	3.1	4.7	71.7	28.2			0	SSNNNS.pdb		2.01	-0.72	580			SSNNNS	-45.7	-38.6	90.8	16.8	N.A.	0	no				RLM1_YEAST	Q12224	-47.3	2	0
+non-amyloid	-52.7	85	89	8	non-amyloid	-1.6	-3.7	68.9	22.3	SSSGIK.png	1679.08/1647.04/1637.39	16.7	SSSGIK.pdb		-1.16	0.57	148	0		SSSGIK	-15.4	-35.8	65	16.4	N.A.	0	yes	SSSGIK.png			ERF3_YEAST	P05453	-34.3	3.2	0
+non-amyloid	-50.5	86	116.3	1	non-amyloid	2.5	6.5	68.9	19.9	SSVNVT.png	1679.65/1645.93	33.3	SSVNVT.pdb		-3.4	-4.47	133	5.67		SSVNVT	-12.2	-55.5	68.5	6.3	N.A.	0	yes	SSVNVT.png			CSGA_ECOLI	P28307	-43	0	0
+non-amyloid	-51.9	101.5	95.3	8	non-amyloid	-2	-5.1	78.2	30.3	SSWGMM.png	1681.56/1646.83/1630.66	50	SSWGMM.pdb		-1.71	0.24	332	0		SSWGMM	-6.7	-73.9	84.5	-1.2	N.A.	0	yes	SSWGMM.png			TADBP_HUMAN	Q13148	-60.6	5.2	0
+non-amyloid	-54.4	74.3	99	6	non-amyloid	-1.9	-5.2	70.9	32.8			33.3	SSYSSY.pdb		-2.92	-0.32	53			SSYSSY	-25.8	-45.9	73.1	0	N.A.	0	no				FUS_HUMAN	P35637	-45	1.2	0
+non-amyloid	-35.4	110.3	84.2	6	non-amyloid	-0.6	1.1	64.5	21.8			33.3	STADWE.pdb		0.34	2.88	0		16537487	STADWE	-17.3	-47.7	69.3	19.9	N.A.	0	N.A.				N.A.	N.A.	-41.1	4.6	0
+non-amyloid	-49.5	111.5	105.7	1	non-amyloid	6.1	10	64.4	27.5			50	STAIIE.pdb		-2.59	-2.19	0		16537487	STAIIE	-10.7	-82.7	78.1	-9.5	N.A.	0	N.A.				N.A.	N.A.	-57	3.1	1.2
+non-amyloid	-45.2	104.7	100.8	7	non-amyloid	1.3	-0.8	64.4	29.4			33.3	STDIIE.pdb		-1.96	-1.09	0		16537487	STDIIE	-11.1	-66.6	81.8	2.6	N.A.	0	N.A.				N.A.	N.A.	-51.3	0.1	0
+non-amyloid	-54.2	102.5	108	6	non-amyloid	-1.4	-3.9	67.6	33.9			33.3	STFTIE.pdb		-4.21	-1.8	0		16537487	STFTIE	-14.7	-70.5	78.4	-8.2	N.A.	0	N.A.				N.A.	N.A.	-53.1	3.8	5.2
+non-amyloid	-49.2	97.3	104.3	1	non-amyloid	6.1	10.1	66.3	27.5			33.3	STGIIE.pdb		-2.42	-1.22	0		16537487	STGIIE	-11.7	-77	75.4	-5.5	N.A.	0	N.A.				N.A.	N.A.	-53.7	0.1	0.3
+non-amyloid	-58.3	104.5	106.3	6	non-amyloid	-3.6	-6.8	69.2	35.9			33.3	STHIIE.pdb		-3.8	-3.36	0		16537487	STHIIE	-10.9	-75.7	84.1	-13.5	N.A.	0	N.A.				N.A.	N.A.	-55.7	2.9	0
+non-amyloid	-53.8	105.8	118.5	6	non-amyloid	-1.5	-2.6	67.1	33.2			50	STIIIE.pdb		-4.27	-4.8	0		16537487	STIIIE	-5	-82.3	72.6	-26.2	N.A.	0	N.A.				N.A.	N.A.	-55.2	0.1	4.2
+non-amyloid	-51.9	106.8	104.2	1	non-amyloid	6.5	10.6	65.5	43.7			33.3	STKIIE.pdb		-2.96	-1.6	0		16537487	STKIIE	-18.5	-98.2	86.9	-18.5	N.A.	0	N.A.				N.A.	N.A.	-66.7	2	0
+non-amyloid	-50.6	108.8	109.8	1	non-amyloid	3.7	-10.5	72.6	46.4			50	STLIFE.pdb		-3.73	-2.9	0		16537487	STLIFE	-8.1	-99.9	174.2	-28.6	N.A.	0	N.A.				N.A.	N.A.	-71.8	10.8	3.3
+non-amyloid	-47.5	101.5	111.3	7	non-amyloid	-1.6	-5.6	67.9	39.7			50	STLIYE.pdb		-3.4	-1.8	0		16537487	STLIYE	-14.7	-89.7	85.8	-24.8	N.A.	0	N.A.				N.A.	N.A.	-64.4	2.2	15.2
+non-amyloid	-53.8	110.2	108.5	6	non-amyloid	-1.4	-2.5	70.4	34.2			50	STLLIE.pdb		-2.97	-2.4	0		16537487	STLLIE	-5.2	-86	69	-27.8	N.A.	0	N.A.				N.A.	N.A.	-55.7	1.1	3.4
+non-amyloid	-50.4	103.7	106.3	1	non-amyloid	3.7	-10.7	74.3	47.3			50	STLLYE.pdb		-2.75	-0.6	0		16537487	STLLYE	-7.1	-99.8	177.7	-23.8	N.A.	0	N.A.				N.A.	N.A.	-72.6	11.8	8
+non-amyloid	-54.3	104.7	103	6	non-amyloid	-1.5	-4.4	70	32.5			33.3	STLTFE.pdb		-3.56	-0.6	0		16537487	STLTFE	-9.6	-67.6	73.6	-9.8	N.A.	0	N.A.				N.A.	N.A.	-50.2	0.5	0.1
+non-amyloid	-54.9	103.8	106.7	6	non-amyloid	-1.4	-2.3	67.5	31.9			33.3	STLTIE.pdb		-3.45	-1.3	0		16537487	STLTIE	-9.6	-69.1	71	-13.7	N.A.	0	N.A.				N.A.	N.A.	-48.9	0.6	0.2
+non-amyloid	-53.7	112	109.3	6	non-amyloid	-1.5	-2.6	71.5	37			50	STMIIE.pdb		-3.72	-2.9	0		16537487	STMIIE	-5.1	-87.4	70.1	-27.9	N.A.	0	N.A.				N.A.	N.A.	-58.6	0.6	0.1
+non-amyloid	-50.7	99.8	103	1	non-amyloid	3.7	-10.6	73.4	45.5			33.3	STNIFE.pdb		-2.27	-2.27	0		16537487	STNIFE	-15.1	-84.5	178.6	-9.6	N.A.	0	N.A.				N.A.	N.A.	-65.9	11.1	1.8
+non-amyloid	-45.8	92.5	104.5	7	non-amyloid	-1.9	-4.5	68.6	37.2			33.3	STNIYE.pdb		-1.94	-1.17	0		16537487	STNIYE	-19.3	-76.2	84.6	-11.1	N.A.	0	N.A.				N.A.	N.A.	-60.1	3.1	8.3
+non-amyloid	-61.3	74	96.7	1	non-amyloid	2	4.4	72.2	29.1			0	STNNTN.pdb		0.43	-0.7	565			STNNTN	-37.1	-44	95.3	14.9	N.A.	0	no				RLM1_YEAST	Q12224	-46.1	0	0
+non-amyloid	-47.5	75.7	94.3	7	non-amyloid	-2.1	-4.2	72.3	28.9			0	STNSNT.pdb		-0.72	-0.24	132			STNSNT	-32.6	-33.3	69.4	16.8	N.A.	0	no				NSP1_YEAST	P14907	-35.8	0.3	0
+non-amyloid	-53.9	95.7	96.2	7	non-amyloid	-2.4	-5	71.8	31.8			16.7	STNTFE.pdb		-2.1	0.03	0		16537487	STNTFE	-24.6	-49.4	74.6	4.1	N.A.	0	N.A.				N.A.	N.A.	-44.9	1.8	0.1
+non-amyloid	-46.6	94.8	99.8	7	non-amyloid	-1.7	-3.9	65.8	26.8			16.7	STNTIE.pdb		-1.99	-0.67	0		16537487	STNTIE	-13	-54.9	77.1	4.8	N.A.	0	N.A.				N.A.	N.A.	-46.5	0.2	0.1
+non-amyloid	-40.3	97.3	101	1	non-amyloid	7.8	11.8	77.2	26.4			50	STPIIE.pdb		-0.39	0.17	0		16537487	STPIIE	-1.5	-84.9	68.9	14.4	N.A.	0	N.A.				N.A.	N.A.	-56.5	2	0
+non-amyloid	-50.9	107.2	106.5	1	non-amyloid	6	9.8	69.5	41.7			33.3	STQIFE.pdb		-2.98	-0.99	0		16537487	STQIFE	-19.8	-92.9	83.4	-15.6	N.A.	0	N.A.				N.A.	N.A.	-66.4	2.4	4.5
+non-amyloid	-49.9	99.8	108	1	non-amyloid	5.9	10.4	68.3	45.5			33.3	STQIYE.pdb		-2.65	0.11	0		16537487	STQIYE	-28.1	-93	86.8	-17.4	N.A.	0	N.A.				N.A.	N.A.	-67.7	3.2	20.7
+non-amyloid	-53.8	104.2	107.3	6	non-amyloid	-5.2	-12.7	69.6	42.6			33.3	STRIIE.pdb		-2.7	-1.3	0		16537487	STRIIE	-11.8	-78.2	86.6	-19.2	N.A.	0	N.A.				N.A.	N.A.	-58.9	0.3	0
+non-amyloid	-50.3	101.7	111.7	1	non-amyloid	3.7	-10.1	64.9	41.6			33.3	STTIIE.pdb		-4.1	-2.5	0		16537487	STTIIE	-8.5	-85.2	180.9	-13.7	N.A.	0	N.A.				N.A.	N.A.	-64.5	11.1	0
+non-amyloid	-48.7	89.7	128.7	7	non-amyloid	-2.1	-4.2	61.5	22.8	STTVVT.png	1679.75/1642.29	33.3	STTVVT.pdb		-6.13	-3.99	1036	5.29		STTVVT	-11.1	-51.1	70.8	-1.9	N.A.	0	yes	STTVVT.png			E9P9G2_YEASX	E9P9G2	-42.4	0	0
+non-amyloid	-51.3	111.2	107.3	1	non-amyloid	6.6	10.8	69.2	17.6			50	STVAIE.pdb		-2.79	-2.24	0		16537487	STVAIE	-0.4	-73	66.5	-0.6	N.A.	0	N.A.				N.A.	N.A.	-50	1.3	6.9
+non-amyloid	-36.9	104.3	102.5	6	non-amyloid	-0.8	0.5	59.2	22.9			33.3	STVDIE.pdb		-2.16	-1.14	0		16537487	STVDIE	-19.9	-42.4	58.7	8.2	N.A.	0	N.A.				N.A.	N.A.	-34.9	0.6	0
+non-amyloid	-50.3	97	106	1	non-amyloid	6.7	10.7	71.4	16.7			33.3	STVGIE.pdb		-2.62	-1.27	0		16537487	STVGIE	0	-67.7	60.5	4.1	N.A.	0	N.A.				N.A.	N.A.	-45.8	0.5	0
+non-amyloid	-58.1	104.2	108	1	non-amyloid	4.6	3	67.2	28			33.3	STVHIE.pdb		-4	-3.41	0		16537487	STVHIE	-8.4	-83.1	86.5	-13.8	N.A.	0	N.A.				N.A.	N.A.	-59.6	1.1	1.1
+non-amyloid	-45.8	111.2	107.3	7	non-amyloid	-1.6	-4.8	73	26.3			50	STVIAE.pdb		-2.79	-2.24	0		16537487	STVIAE	-9.1	-76.7	80.5	-4.1	N.A.	0	N.A.				N.A.	N.A.	-55.8	8.1	0
+non-amyloid	-50.3	104.3	102.5	7	non-amyloid	-2	-1.4	68.9	25.1			33.3	STVIDE.pdb		-2.16	-1.14	0		16537487	STVIDE	-20.4	-50	68.2	1.5	N.A.	0	N.A.				N.A.	N.A.	-40.6	0.3	0
+non-amyloid	-51.2	112.7	99.7	7	non-amyloid	-1.7	-2.4	68.2	25.2			33.3	STVIEE.pdb		-2.67	-1.16	0		16537487	STVIEE	-13.4	-54.5	65.2	-3.1	N.A.	0	N.A.				N.A.	N.A.	-42.5	0.2	0
+non-amyloid	-47.8	97	106	6	non-amyloid	-1.5	-2.7	64.1	21.3			33.3	STVIGE.pdb		-2.62	-1.27	0		16537487	STVIGE	-10	-43	56.4	3.2	N.A.	0	N.A.				N.A.	N.A.	-35.1	0.1	0
+non-amyloid	-54.9	104.2	108	6	non-amyloid	-2.4	-8.8	67.1	33.9			33.3	STVIHE.pdb		-4	-3.41	0		16537487	STVIHE	-14.6	-70.6	84.4	-12.5	N.A.	0	N.A.				N.A.	N.A.	-53.6	3.2	0
+non-amyloid	-55.5	97	128.5	1	non-amyloid	1.7	5.3	64	29.2			50	STVIIH.pdb		-5.8	-7.1	0		16537487	STVIIH	-2.3	-93.2	82.8	-27.3	N.A.	1.3	N.A.				N.A.	N.A.	-63.7	0.7	6.6
+non-amyloid	-53.2	99.3	126.3	1	non-amyloid	2.2	6	63.1	27.8			50	STVIIK.pdb		-4.96	-5.34	0		16537487	STVIIK	0	-93.2	73.4	-32.6	N.A.	7.4	N.A.				N.A.	N.A.	-61.2	0.5	25.1
+non-amyloid	-38.8	89.8	123.2	6	non-amyloid	-1.7	-2.5	55	25.5			66.7	STVIIP.pdb		-2.39	-3.57	0		16537487	STVIIP	-0.3	-83.5	66.5	-26.4	N.A.	0	N.A.				N.A.	N.A.	-53.8	4.9	11.3
+non-amyloid	-53.7	96.7	129.5	6	non-amyloid	-1	-2.7	66.2	39.8			50	STVIIR.pdb		-4.7	-5.04	0		16537487	STVIIR	-25.9	-81.3	80	-34.2	N.A.	5.9	N.A.				N.A.	N.A.	-58.1	0.3	13.1
+non-amyloid	-53.6	106.5	105.8	6	non-amyloid	-2.3	-6.1	66	34.1			33.3	STVIKE.pdb		-3.16	-1.65	0		16537487	STVIKE	-9.6	-69.7	74.6	-15.1	N.A.	0	N.A.				N.A.	N.A.	-50	0.3	0
+non-amyloid	-52.3	95.2	119.5	7	non-amyloid	-1.9	-4.7	65.8	29.5			33.3	STVIKT.pdb		-4.79	-3.04	0		16263932	STVIKT	-16.4	-58.6	67.6	-12.9	N.A.	0	N.A.				N.A.	N.A.	-45.1	0.2	0
+non-amyloid	-53.9	107.7	115.2	6	non-amyloid	-1.5	-2.5	67.2	29.5			50	STVILE.pdb		-3.82	-3.65	0		16537487	STVILE	-5.2	-74.8	66.9	-23.7	N.A.	0	N.A.				N.A.	N.A.	-50.7	0.2	0
+non-amyloid	-53.6	111.7	111	6	non-amyloid	-1.5	-2.4	69.6	32.2			50	STVIME.pdb		-3.92	-2.95	0		16537487	STVIME	-5.5	-79.1	66	-25.3	N.A.	0	N.A.				N.A.	N.A.	-53.9	1.3	0
+non-amyloid	-50.3	98.7	108.3	1	non-amyloid	3.7	-10.8	68.9	42.5			33.3	STVINE.pdb		-2.36	-3.02	0		16537487	STVINE	-16.9	-75.7	177.9	-6.2	N.A.	0	N.A.				N.A.	N.A.	-60.7	10.6	0
+non-amyloid	-40.9	97	102.7	7	non-amyloid	-1.6	-3.7	76.8	24.4			50	STVIPE.pdb		-0.59	0.12	0		16537487	STVIPE	-3.9	-69	62.8	3.3	N.A.	0	N.A.				N.A.	N.A.	-49	5.3	0
+non-amyloid	-52.3	106	111.8	7	non-amyloid	-2.5	-5.3	67.1	30.2			33.3	STVIQE.pdb		-3.07	-1.74	0		16537487	STVIQE	-17.4	-56.3	66.8	-10	N.A.	0	N.A.				N.A.	N.A.	-43.9	0.2	0
+non-amyloid	-53.4	103.8	109	6	non-amyloid	-2.6	-14.7	66.4	38			33.3	STVIRE.pdb		-2.9	-1.35	0		16537487	STVIRE	-17.3	-70	85.2	-20.6	N.A.	0	N.A.				N.A.	N.A.	-54.7	0.8	0
+non-amyloid	-47	100.3	106	7	non-amyloid	-1.7	-4.8	68.8	32.8			33.3	STVISE.pdb		-3.51	-2.56	0		16537487	STVISE	-19.6	-75.1	88.8	-5.7	N.A.	0	N.A.				N.A.	N.A.	-58	8.3	0
+non-amyloid	-48.3	101.3	113.3	7	non-amyloid	-1.6	-3.7	61	24.6			33.3	STVITE.pdb		-4.3	-2.55	0		16537487	STVITE	-6.8	-60.8	70.4	-8.1	N.A.	0	N.A.				N.A.	N.A.	-47.2	0.2	0
+non-amyloid	-47	105.2	121.8	7	non-amyloid	-1.7	-4	60.7	25.7			50	STVIVE.pdb		-4.67	-4.9	0		16537487	STVIVE	-5.4	-67.1	74.1	-13.1	N.A.	0.6	N.A.				N.A.	N.A.	-50.6	0.1	0
+non-amyloid	-50.8	105.5	116.3	1	non-amyloid	3.7	-10.8	71.6	43.5			50	STVIWE.pdb		-3.85	-3.49	0		16537487	STVIWE	-6.9	-90.1	178.9	-15.3	N.A.	0	N.A.				N.A.	N.A.	-68.6	10.7	2.9
+non-amyloid	-52.1	106.5	105.8	1	non-amyloid	5.4	6	64.8	27.5			33.3	STVKIE.pdb		-3.16	-1.65	0		16537487	STVKIE	-2.3	-82.1	71.8	-13.7	N.A.	0	N.A.				N.A.	N.A.	-55.7	0.8	0.4
+non-amyloid	-53	111.7	111	6	non-amyloid	-1.6	-2.6	69.1	33.5			50	STVMIE.pdb		-3.92	-2.95	0		16537487	STVMIE	-6.3	-79.2	72.6	-19.8	N.A.	0	N.A.				N.A.	N.A.	-55.3	0.9	0.2
+non-amyloid	-36.4	97	102.7	6	non-amyloid	-1	-1.6	72.6	24.3			50	STVPIE.pdb		-0.59	0.12	0		16537487	STVPIE	-7.7	-63.4	67.8	18	N.A.	0	N.A.				N.A.	N.A.	-44.7	6.2	0
+non-amyloid	-47.5	106	111.8	7	non-amyloid	-1.8	-4.1	65.1	29.7			33.3	STVQIE.pdb		-3.07	-1.74	0		16537487	STVQIE	-7.6	-65.2	73	-6.8	N.A.	0	N.A.				N.A.	N.A.	-50	0.5	0
+non-amyloid	-54.1	103.8	109	1	non-amyloid	4.3	2.4	65.8	30.3			33.3	STVRIE.pdb		-2.9	-1.35	0		16537487	STVRIE	-5.1	-80	76.6	-12.4	N.A.	0	N.A.				N.A.	N.A.	-56.6	1.3	0
+non-amyloid	-49.3	100.3	106	1	non-amyloid	6.6	10.7	64	21.7			33.3	STVSIE.pdb		-3.51	-2.56	0		16537487	STVSIE	-6.7	-69.1	69.6	0	N.A.	0	N.A.				N.A.	N.A.	-49.4	0.2	0.3
+non-amyloid	-51.7	102.2	109.7	7	non-amyloid	-2.4	-5.1	65	26.9			33.3	STVTFE.pdb		-4.41	-1.85	0		16537487	STVTFE	-15.7	-51.8	67	-3.3	N.A.	0	N.A.				N.A.	N.A.	-42.8	2.3	2.6
+non-amyloid	-46.5	105.2	121.8	7	non-amyloid	-1.4	-3.7	61.2	26.2			50	STVVIE.pdb		-4.67	-4.9	0		16537487	STVVIE	-6.1	-68.7	73.1	-15.7	N.A.	0.6	N.A.				N.A.	N.A.	-51.1	0.5	1.3
+non-amyloid	-54.4	102.5	104.2	6	non-amyloid	-1.5	-6	71.2	32.6			33.3	STWTFE.pdb		-3.59	-0.44	0		16537487	STWTFE	-10.5	-75.1	85.9	-6.2	N.A.	0	N.A.				N.A.	N.A.	-58.7	6.1	5.5
+non-amyloid	-45	101.7	107.8	5	non-amyloid	-1.7	-2.9	70.5	28.6			33.3	STWTIE.pdb		-3.48	-1.14	0		16537487	STWTIE	-11.9	-72.8	79.9	-2.6	N.A.	0	N.A.				N.A.	N.A.	-57.7	3.9	10.9
+non-amyloid	-48.6	99.3	116.3	7	non-amyloid	-1.8	-6	67.6	42.4			50	STYIIE.pdb		-4.05	-3	0		16537487	STYIIE	-15.5	-91.3	86.9	-22.4	N.A.	0	N.A.				N.A.	N.A.	-66.4	3.5	6.5
+non-amyloid	-48.8	94.3	114.2	1	non-amyloid	2.5	4.3	67.3	28.8			50	SVISLS.pdb		-3.87	-5.06	103			SVISLS	-7.9	-77.4	70.6	-11.3	N.A.	0	no				SODC_HUMAN	P00441	-54.7	1.5	0
+non-amyloid	-51.7	91.7	122.2	1	non-amyloid	3.1	6.1	65.6	27.3			33.3	SVNVTQ.pdb		-2.96	-3.65	134			SVNVTQ	-17.3	-65.3	73.3	-7.4	N.A.	0	no				CSGA_ECOLI	P28307	-49.5	0.3	0
+non-amyloid	-51.8	98.2	95.3	1	non-amyloid	2.6	4.6	84.1	31.4			50	SWGMMG.pdb		-0.82	1.53	333			SWGMMG	-2.4	-84	70	-6.3	N.A.	0	no				TADBP_HUMAN	Q13148	-62.7	1.3	0
+non-amyloid	-52	109.7	123.2	6	non-amyloid	-1.9	-3	68.2	36.9			66.7	SWVIIE.pdb		-4.02	-5.79	0		16537487	SWVIIE	-3.3	-101.9	82.4	-29.1	N.A.	4.2	N.A.				N.A.	N.A.	-68.4	8.4	48.2
+non-amyloid	-38.3	93.2	109.2	6	non-amyloid	-2	-1	72	31.3	SYLCDL.png	1679.15/1648.49	66.7	SYLCDL.pdb		-3.78	-0.82	1455	7.18		SYLCDL	-21.2	-64.7	62.9	-5.6	N.A.	0	yes	SYLCDL.png			VWF_HUMAN	P04275	-49.1	3.3	0
+non-amyloid	-49.8	93	113.8	7	non-amyloid	-2.5	-3.5	76.1	34.4			66.7	SYLYDL.pdb	C1458Y	-2.19	-1.08	0			SYLYDL	-8.7	-85.5	85.5	-9.2	N.A.	0	no				VWF_HUMAN	P04275	-64.2	3.8	0
+non-amyloid	-56	69	96.3	1	non-amyloid	3.1	5.1	71.9	37.6			16.7	SYNNNN.pdb		2.42	-1.67	4			SYNNNN	-53.5	-58.8	106.2	-1.9	N.A.	0	no				MRN1_YEAST	Q08925	-61.1	2.7	0
+non-amyloid	-43	70.7	89.3	5	non-amyloid	-1.1	-1	65.5	19.7			16.7	SYSGSN.pdb		-0.14	1	373			SYSGSN	-15.8	-26.7	45.4	20.3	N.A.	0	no				TADBP_HUMAN	Q13148	-26.5	2.7	0
+non-amyloid	-47.3	108.3	104.8	4	non-amyloid	2.4	0.2	80.5	23	TAAHCF.png	1678.34/1645.75	66.7	TAAHCF.pdb		-4.68	-1.36	428	5.95		TAAHCF	-7.7	-70.2	82.3	11.6	N.A.	0	yes	TAAHCF.png			FA11_HUMAN	P03951	-56.7	1.1	0
+non-amyloid	-53.1	114.7	108	1	non-amyloid	3.8	6.3	78.9	24.5			50	TAELIT.pdb		-2.73	-0.98	0		20154676	TAELIT	-4.3	-84.9	83.4	-1	N.A.	0	N.A.				N.A.	N.A.	-59	1.2	61.3
+non-amyloid	-49.6	102.3	119.3	1	non-amyloid	3.1	2.2	80.3	29.5	TAVHCF.png	1680.08/1641.16	66.7	TAVHCF.pdb	A430V	-6.56	-4.02	0	0		TAVHCF	-8.7	-86.2	80.4	-6.2	N.A.	0	yes	TAVHCF.png			FA11_HUMAN	P03951	-64.2	1.6	0
+non-amyloid	-56.2	92.3	114.2	1	non-amyloid	2	4	70.1	15			33.3	TAVTTG.pdb		-3.36	-0.04	118			TAVTTG	-10.1	-58.3	72.6	1.1	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-44.8	5.4	0
+non-amyloid	-40.1	115.8	101	5	non-amyloid	-1.5	-3	74.7	21.5			66.7	TAWYAE.pdb		-1.03	1.29	0		20154676	TAWYAE	-7.5	-71.2	70.1	-5.6	N.A.	0	N.A.				N.A.	N.A.	-54.9	3.2	0
+non-amyloid	-49.5	105.3	109.8	1	non-amyloid	5.3	6.8	67.8	24.8			33.3	TDETVI.pdb		-2.95	-1.13	305			TDETVI	-13.7	-59.5	86.6	22.5	N.A.	0	no				FLO1_YEAST	P32768	-47.5	0.1	0
+non-amyloid	-45.8	127.3	63	7	non-amyloid	-0.7	-15.9	74.7	43.1	TEEKKE.png	1680.23/1655.71/1642.02	0	TEEKKE.pdb		0.99	6.69	0	0		TEEKKE	-25.4	-57.3	84.3	13.8	N.A.	0	yes	TEEKKE.png			ERF3_YEAST	P05453	-45.9	0.7	0
+non-amyloid	-43.9	95	97.8	1	non-amyloid	4.2	4.6	74	26.9			33.3	TEFTPT.pdb		-1.12	3.18	88		16537487	TEFTPT	-13	-69.3	70.1	14.2	N.A.	0	N.A.				B2MG_HUMAN	P61769	-51.6	11.5	0
+non-amyloid	-42.5	84.2	106	1	non-amyloid	3.4	7.4	64.6	31.5			50	TFSINP.pdb	A315T	-0.19	-0.99	0			TFSINP	-14.2	-90.7	82.2	-2.4	N.A.	0	no				TADBP_HUMAN	Q13148	-65.5	21.3	0
+non-amyloid	-41.4	106.7	111	5	non-amyloid	-1.3	-4.5	75.1	31.3			50	TFWEIS.pdb		-3.76	-2.74	0		20154676	TFWEIS	-2.7	-95.4	85	-2.9	N.A.	0	N.A.				N.A.	N.A.	-69.8	16.1	527.9
+non-amyloid	-49.9	90.8	133.8	1	non-amyloid	2.6	7.4	71	22.4			50	TGVTII.pdb		-5.21	-4.95	122			TGVTII	0	-88	73.7	-15.3	N.A.	1	no				G1UBC2_CANAL	G1UBC2	-57.2	0.4	13.5
+non-amyloid	-46.6	94	145.7	4	non-amyloid	2.1	4.2	64.6	15			66.7	TGVVVV.pdb		-5.98	-7.4	383			TGVVVV	-1.2	-71.9	74.7	-4.9	N.A.	22	no				B2L5Z5_9ASCO	B2L5Z5	-50.1	0.3	0
+non-amyloid	-48.8	90.3	111.7	7	non-amyloid	-2	-4.4	64.4	31.3			16.7	TITQHG.pdb		-3.14	-0.35	69			TITQHG	-13	-61.2	80.2	2.8	N.A.	0	no				CSGA_ECOLI	P28307	-50.8	2	0
+non-amyloid	-38.8	97.7	82.8	7	non-amyloid	-2.8	-9.7	84.9	36.2			16.7	TKEPTR.pdb		1.7	6.88	0			TKEPTR	-24.4	-55.3	78.1	39.2	N.A.	0	no				ERF3_YEAST	P05453	-45.5	12.3	0
+non-amyloid	-44.7	100.2	101.7	7	non-amyloid	-5.7	-9.4	68.4	35.5			16.7	TKKVDT.pdb		-2.13	1.58	0			TKKVDT	-15.1	-65.7	92.6	6	N.A.	0	no				ERF3_YEAST	P05453	-51.9	0.3	0
+non-amyloid	-44.1	104	73.8	8	non-amyloid	-4.4	-8	87.1	25.2			33.3	TKPAES.pdb		2.6	5.98	163			TKPAES	-13.8	-56.5	71.9	41.4	N.A.	0	no				ERF3_YEAST	P05453	-44.6	27.3	0
+non-amyloid	-39.3	110.3	82	5	non-amyloid	-2	-1.1	63.8	30.4			33.3	TKVEEP.pdb		1.56	4.72	187			TKVEEP	-12.9	-57.5	68.5	7.7	N.A.	0	no				ERF3_YEAST	P05453	-44	1.3	0
+non-amyloid	-53.5	98.5	106.5	1	non-amyloid	3.5	7.4	77.1	44.3			33.3	TLDQWN.pdb		0.06	0.43	102			TLDQWN	-23	-83.9	93	2.4	N.A.	0	no				CSGA_ECOLI	P28307	-64.3	0.6	0
+non-amyloid	-46.7	103.7	116.3	7	non-amyloid	-2.3	-4.3	69.7	39.8	TLKLVS.png	1678.52/1640.32	50	TLKLVS.pdb		-3.66	-2.94	143	0		TLKLVS	-13.1	-90.1	72.7	-29.8	N.A.	0	yes	TLKLVS.png			ERF3_YEAST	P05453	-60.1	0.5	0
+non-amyloid	-54.6	93.7	119.8	1	non-amyloid	4.4	10.6	74.3	47.4			50	TLKNYI.pdb		-2.74	-2.75	0		20154676	TLKNYI	-24.2	-111.8	102.3	-21.8	N.A.	0	N.A.				N.A.	N.A.	-78.3	5.2	0.8
+non-amyloid	-52.4	106	104.5	1	non-amyloid	5.3	7.4	74.9	48			50	TNELYM.pdb		-1.7	-0.36	0		20154676	TNELYM	-20.3	-108.5	91.7	-27.5	N.A.	0	N.A.				N.A.	N.A.	-75.5	1.5	47
+non-amyloid	-56.1	72.3	99	1	non-amyloid	2.6	4.8	75.6	37.1			0	TNNNTN.pdb		1.58	-1.16	54			TNNNTN	-57.6	-60.5	116	12.4	N.A.	0	no				SWI1_YEAST	P09547	-62.1	5.4	0
+non-amyloid	-49.1	77.5	90.2	8	non-amyloid	-2	-4.2	78.6	14.5			0	TQHGGG.pdb		0.39	4.51	71			TQHGGG	-8.4	-30.3	53.8	27.7	N.A.	0	no				CSGA_ECOLI	P28307	-29.3	2.1	0
+non-amyloid	-46.5	86.5	101.7	7	non-amyloid	-2.6	-4.5	80.1	22.2			16.7	TQRGFG.pdb		-0.47	3.69	93			TQRGFG	-12.6	-44.1	51.4	8.7	N.A.	0	no				CSGA_ECOLI	P28307	-36.2	0.4	0
+non-amyloid	-49	87.8	114.5	1	non-amyloid	3.3	5.3	73.2	23.1			33.3	TQVGFG.pdb		-2.24	0.14	138			TQVGFG	-5.7	-70.6	58.2	-5.4	N.A.	0	no				CSGA_ECOLI	P28307	-48.9	2.5	0.1
+non-amyloid	-39.2	97.7	82.8	7	non-amyloid	-4.4	-11.4	84.4	42.7	TREPTK.png	1677.05/1650.35/1637.42	16.7	TREPTK.pdb		1.7	6.88	0	0		TREPTK	-32.4	-54.5	79.3	34.8	N.A.	0	yes	TREPTK.png			ERF3_YEAST	P05453	-45.3	12.9	0
+non-amyloid	-52.9	84	113.2	1	non-amyloid	1.4	5.2	74.4	27.3			16.7	TRNNTV.pdb		-1.27	-1.37	139			TRNNTV	-22.4	-61	96.3	16.7	N.A.	0	no				PUF2_YEAST	Q12221	-54.3	0.4	0
+non-amyloid	-49.8	86.7	127	1	non-amyloid	3.4	7.9	71	21.8			33.3	TTGVTI.pdb		-5.04	-2.65	121			TTGVTI	-4.6	-73.9	72.1	0.6	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-50.3	0.8	0
+non-amyloid	-49.8	90.2	137.2	1	non-amyloid	3.4	8	71.3	16.3			50	TTGVVV.pdb		-5.61	-5.05	382			TTGVVV	-2.4	-66.3	70	7	N.A.	1.1	no				B2L5Z5_9ASCO	B2L5Z5	-46.3	0.2	0
+non-amyloid	-43.4	89.7	128.7	6	non-amyloid	-0.9	-1.2	64.2	19.5			33.3	TTVVST.pdb		-6.13	-3.99	1032			TTVVST	-8.4	-56.5	65.6	2.3	N.A.	0	no				E9P9G2_YEASX	E9P9G2	-44.2	5.5	0
+non-amyloid	-43.8	90.7	136	6	non-amyloid	-0.9	-1.4	63.8	20.6	TTVVTT.png	1678.36/1645.27	33.3	TTVVTT.pdb		-6.92	-3.98	1037	0		TTVVTT	-8.3	-60.5	70.7	0.3	N.A.	0	yes	TTVVTT.png			E9P9G2_YEASX	E9P9G2	-46.6	2.9	0
+non-amyloid	-49.6	94.5	124.8	7	non-amyloid	-2.1	-4.2	68	29.5			50	TVFHIG.pdb	P1824H	-5.02	-5.11	0			TVFHIG	-4.9	-82.6	78	-21.7	N.A.	0	no				VWF_HUMAN	P04275	-61.2	2	20.5
+non-amyloid	-24.5	87.3	119.5	6	non-amyloid	-1.5	-2.1	72.8	22.4	TVFPIG.png	1678.25/1654.75	66.7	TVFPIG.pdb		-1.61	-1.58	1821	4.5		TVFPIG	-1	-77	59	6.8	N.A.	0	yes	TVFPIG.png			VWF_HUMAN	P04275	-52.4	8.6	0
+non-amyloid	-55.3	101.5	145.3	1	non-amyloid	2.2	3.2	65.2	33.1	TVIVIR.png	1679.2/1636.96	66.7	TVIVIR.pdb		-5.86	-7.38	308	14.08		TVIVIR	-1.7	-104.5	86	-36.6	N.A.	10.3	yes	TVIVIR.png			FLO1_YEAST	P32768	-69.3	1.1	0.1
+non-amyloid	-54	97.3	114.3	1	non-amyloid	3.7	7.5	70.3	34.1			33.3	TVKQFG.pdb		-2.78	-0.24	114			TVKQFG	-5.9	-80.7	72.5	-10.9	N.A.	0	no				CSGA_ECOLI	P28307	-59.3	0.8	0
+non-amyloid	-56.7	89.7	128.7	1	non-amyloid	2	4.5	65.2	20.8	TVVSTT.png	1679.06/1646.77	33.3	TVVSTT.pdb		-6.13	-3.99	1033	5.22		TVVSTT	-15.7	-61.8	90.8	6.9	N.A.	0	yes	TVVSTT.png			E9P9G2_YEASX	E9P9G2	-50.1	6.5	0
+non-amyloid	-51.8	96.2	131.5	1	non-amyloid	4.2	9	68.5	51			50	TYQIIR.pdb		-3.84	-2.37	0		20154676	TYQIIR	-17.8	-114.5	101.7	-26.2	N.A.	0	N.A.				N.A.	N.A.	-81.5	2.4	59.5
+non-amyloid	-49.8	118.7	125.5	1	non-amyloid	3.1	2.6	83.7	35.7			83.3	VAMHVF.pdb	V48M	-5.01	-6.53	0			VAMHVF	-4.7	-117.8	87.8	-25.5	N.A.	0	no				TTHY_HUMAN	P02766	-80.8	7.7	0
+non-amyloid	-53	90.3	104.2	1	non-amyloid	4	5.4	79.4	23			33.3	VANNST.pdb		-0.37	-2.27	136			VANNST	-25.1	-46.9	74.5	20	N.A.	0	no				MOT3_YEAST	P54785	-42	0.1	0
+non-amyloid	-41	99.2	117.2	6	non-amyloid	0.9	-0.3	65.3	27.1	VATTRT.png	1678.84/1642.34	33.3	VATTRT.pdb		-3.64	-0.12	328	0		VATTRT	-22.7	-38.1	55.9	16.7	N.A.	0	yes	VATTRT.png			ALS1_CANAL	Q5A8T4	-33.3	0.4	0
+non-amyloid	-50.5	122.7	116.5	1	non-amyloid	1.9	4.5	79.2	35.8			83.3	VAWLKM.pdb		-2.59	-2.86	0		20154676	VAWLKM	0	-112.4	74.7	-37.4	N.A.	0	N.A.				N.A.	N.A.	-73.5	1.9	0
+non-amyloid	-53.9	103.3	101.8	1	non-amyloid	3.5	4	74.5	29			33.3	VDQTAS.pdb		-0.88	0.89	126			VDQTAS	-20.4	-61	91.4	16.4	N.A.	0	no				CSGA_ECOLI	P28307	-53.3	1.1	0
+non-amyloid	-39.5	100.5	92.5	1	non-amyloid	3.3	1.8	71.1	19.1			50	VDTKPA.pdb		1.95	3.66	0			VDTKPA	-2.7	-59.2	65.3	25.7	N.A.	0	no				ERF3_YEAST	P05453	-44	9.8	0
+non-amyloid	-49.8	116.8	104.2	1	non-amyloid	4.6	4.2	73.7	28.7			50	VEDLKI.pdb		-1.33	-1.33	215			VEDLKI	-0.7	-83.9	82.7	2.9	N.A.	0	no				ERF3_YEAST	P05453	-57.5	0.1	0
+non-amyloid	-41	114.2	90.5	1	non-amyloid	4.1	4.3	87.5	22.5	VEEPVK.png	1677.88/1645.1	50	VEEPVK.pdb		1.19	2.37	189	0		VEEPVK	-1.6	-70.1	74.1	39.1	N.A.	0	yes	VEEPVK.png			ERF3_YEAST	P05453	-50.5	9.3	0
+non-amyloid	-53.8	103	134.2	1	non-amyloid	3.2	5.5	71.6	45.1			66.7	VFFINQ.pdb		-4.11	-6.79	987			VFFINQ	-18.5	-106.6	83.3	-40.8	N.A.	0.8	no				OTOF_HUMAN	Q9HC10	-73.5	2.3	0.1
+non-amyloid	-37.7	77.8	106	5	non-amyloid	-1.1	-1.2	73.9	16.4			33.3	VGFGNN.pdb		0.41	-1.61	140			VGFGNN	-1.2	-53.2	48.9	7	N.A.	0	no				CSGA_ECOLI	P28307	-39.2	0.7	0
+non-amyloid	-39.6	84.8	93.2	5	non-amyloid	-1.8	-3.6	68.9	20.8			16.7	VGQGSD.pdb		0.97	3.14	81			VGQGSD	-10.9	-27.7	52	31.6	N.A.	0	no				CSGA_ECOLI	P28307	-27.8	0.1	0
+non-amyloid	-62.6	80.7	99.8	1	non-amyloid	2.3	4.4	77	34.4			16.7	VHNNSN.pdb		0.36	-3.91	117			VHNNSN	-46.5	-53.2	110.6	14.4	N.A.	0	no				MOT3_YEAST	P54785	-55.8	0.3	0
+non-amyloid	-57.5	91	114.2	1	non-amyloid	3.2	4.5	71.8	24			50	VISLSG.pdb		-2.98	-3.77	104			VISLSG	-8.5	-67.7	65	-9	N.A.	0	no				SODC_HUMAN	P00441	-48.4	0.3	0
+non-amyloid	-54.5	101.5	145.3	2	non-amyloid	2.1	1.4	66	35.8	VIVIRT.png	1679.2/1646.15	66.7	VIVIRT.pdb		-5.86	-7.38	309	13.92		VIVIRT	-4.4	-106.4	96.9	-28.5	N.A.	0	yes	VIVIRT.png			FLO1_YEAST	P32768	-71.8	4	0.1
+non-amyloid	-54.6	113.8	136.7	1	non-amyloid	3.1	6.6	76.1	38.8			83.3	VIWIAQ.pdb	G151W	-3.7	-6.05	0			VIWIAQ	-7.1	-108.2	87.3	-23.3	N.A.	5.8	no				SODC_HUMAN	P00441	-72.7	5.1	0.1
+non-amyloid	-42.1	125	77.7	7	non-amyloid	-5.5	-16.1	75.9	41.6			16.7	VKKEEK.pdb		0.13	3.85	193			VKKEEK	-5.6	-73.8	90.4	12.1	N.A.	0	no				ERF3_YEAST	P05453	-54.4	0.4	0
+non-amyloid	-55.2	93	107	1	non-amyloid	3.6	6.7	81.5	33			33.3	VKQFGG.pdb		-1.1	1.04	115			VKQFGG	-13.7	-73.5	74.5	0.8	N.A.	0	no				CSGA_ECOLI	P28307	-57.1	0.9	0
+non-amyloid	-34	104.7	97	6	non-amyloid	-5.3	-18.9	69.7	39.5			33.3	VKWDRD.pdb		0.72	2.35	113		16537487	VKWDRD	-15.5	-77.6	105.2	9.7	N.A.	0	N.A.				B2MG_HUMAN	P61769	-63.5	8.1	0
+non-amyloid	-51.6	80.3	114.3	1	non-amyloid	4	5.6	73.5	33.5			33.3	VNNNNI.pdb		1.04	-5.81	582			VNNNNI	-45.5	-67	96.8	-1.2	N.A.	0	no				SWI1_YEAST	P09547	-57.6	6.2	0
+non-amyloid	-54.9	73.5	102.5	1	non-amyloid	3.1	4.8	73.6	37.4			16.7	VNNNNN.pdb		3.15	-3.98	43			VNNNNN	-63.9	-61.6	112	2.9	N.A.	0	no				URE2_YEAST	P23202	-62.1	13.4	0
+non-amyloid	-52	100	107.5	1	non-amyloid	7.4	6.5	76.1	38.5			50	VNWCER.pdb		-2.67	-0.69	664			VNWCER	-24.4	-79.3	96.9	8.2	N.A.	0	no				LDLR_HUMAN	P01130	-66.6	2.4	0
+non-amyloid	-53.6	99.8	112.2	1	non-amyloid	6	8.6	78	41.7	VNWYER.png	1679.08/1643.06	50	VNWYER.pdb	C667Y	-1.08	-0.95	0	0		VNWYER	-20.2	-96.8	97.6	-6.4	N.A.	0	yes	VNWYER.png			LDLR_HUMAN	P01130	-73.5	2.8	0
+non-amyloid	-42.2	96.8	108.8	1	non-amyloid	3.5	5.6	94.3	19.3			66.7	VPGIAQ.pdb	I150P	1.41	1.14	0			VPGIAQ	-4.2	-64.5	61.6	31.1	N.A.	0	no				SODC_HUMAN	P00441	-44.1	0.8	0
+non-amyloid	-34.8	93.3	129.3	7	non-amyloid	-2.1	-5	72.7	31.2			83.3	VPIVYK.pdb	Q624P	-1.64	-3.07	623			VPIVYK	-1.3	-95	76.6	-9.9	N.A.	0	yes	88_TauWT2_Q2P_1mM_02_5000x.jpg		no	TAU_HUMAN	P10636	-64.8	12.4	0
+non-amyloid	-40.1	76.2	105.3	1	non-amyloid	3.5	5.8	92.2	19.7			50	VPQYGG.pdb		1.8	3.91	23			VPQYGG	-2.2	-59.3	51.9	29.6	N.A.	0	no				CSGA_ECOLI	P28307	-42.4	0.4	0
+non-amyloid	-49.7	108	125.7	1	non-amyloid	2.1	4.3	72.2	27.1			66.7	VQAVYK.pdb	I625A	-1.1	-2.51	623			VQAVYK	-11.6	-89.2	77.4	-30	N.A.	0	yes	49_wt2_I3A_1mM_04_15000x.jpg		no	TAU_HUMAN	P10636	-63.4	0.7	1
+non-amyloid	-50	101.2	120.8	1	non-amyloid	3.5	2.5	70.4	38.5			50	VQDVYK.pdb	I625D	-1.08	-1.52	623			VQDVYK	-16	-79.3	84.6	-2.8	N.A.	0	yes	58_wt2_I3D_1mM_07_6000x.jpg		no	TAU_HUMAN	P10636	-58.5	0.2	0
+non-amyloid	-51.6	109.5	118	1	non-amyloid	2.7	1.6	74.3	41.7			50	VQEVYK.pdb	I625E	-2.13	-0.39	623			VQEVYK	-17.8	-85.9	83.3	-11.8	N.A.	0	yes	33_wt2_I3E_1mM_05_3000x.jpg		no	TAU_HUMAN	P10636	-62	0.4	1.4
+non-amyloid	-50.1	93.8	124.3	1	non-amyloid	2.2	4.6	75.2	27			50	VQGVYK.pdb	I625G	-0.8	-1.67	623			VQGVYK	-10.2	-76.9	70.4	-10.1	N.A.	0	yes	45_wt2_I3G_1mM_01_5000x.jpg		no	TAU_HUMAN	P10636	-55.6	2.3	0.3
+non-amyloid	-58.5	101	126.3	1	non-amyloid	2.6	4.3	77.9	39.7			50	VQHVYK.pdb	I625H	-2.42	-2.93	623			VQHVYK	-11.1	-107.1	110.6	-9.2	N.A.	0	yes	9_wt2_I3H_1mM_03_8000x.jpg	VQIVYK_ 9.jpg	yes	TAU_HUMAN	P10636	-79.1	9	0
+non-amyloid	-50.7	108.3	124	1	non-amyloid	3.6	5.4	76.7	30.3			66.7	VQIAYK.pdb	V626A	-0.94	-2.48	623			VQIAYK	-3.2	-91.1	71.7	-18.3	N.A.	0	yes	50_TauWT2_V4A_1mM_06_8000x.jpg	VQIVYK_ 50.jpg	yes	TAU_HUMAN	P10636	-61.5	0.3	18.6
+non-amyloid	-50.4	109.8	116.3	1	non-amyloid	4.5	3.4	73.5	41.3			50	VQIEYK.pdb	V626E	-1.48	-1.16	623			VQIEYK	-9.2	-97.2	84	-15.3	N.A.	0	yes	34_wt2_V4E_1mM_07_15000x.jpg		no	TAU_HUMAN	P10636	-66.4	0.6	3.9
+non-amyloid	-49.6	94.2	122.7	1	non-amyloid	3.5	5.3	79.2	27.9			50	VQIGYK.pdb	V626G	-1.04	-1.64	623			VQIGYK	-2.2	-84.5	65.9	-8.6	N.A.	0	yes	46_wt2_V4G_1mM_01_5000x.jpg		no	TAU_HUMAN	P10636	-56.7	0.6	0
+non-amyloid	-55.7	101.3	124.7	1	non-amyloid	3.4	5.6	73.1	45.7			50	VQIHYK.pdb	V626H	-2.1	-2.89	623			VQIHYK	-19.4	-102.3	93.4	-25.7	N.A.	0	yes	10_wt2_V4H_1mM_01_2500x.jpg		no	TAU_HUMAN	P10636	-72.9	1.5	3.1
+non-amyloid	-41.8	94.2	119.3	1	non-amyloid	3.6	5.4	85.9	37.5			66.7	VQIPYK.pdb	V626P	0.21	1.29	623			VQIPYK	-6	-102.8	73.1	0.4	N.A.	0	yes	90_wt2_V4P_1mM_01_3000x.jpg		no	TAU_HUMAN	P10636	-67.4	11.6	0
+non-amyloid	-45.1	103.3	124.2	7	non-amyloid	-1.4	-2.9	69.2	45.7			50	VQKVYK.pdb	I625K	-1.91	-1.67	623			VQKVYK	-16.3	-90.9	92.1	-12.6	N.A.	0	yes	37_wt2_I3K_1mM_02_4000x.jpg		no	TAU_HUMAN	P10636	-67.9	2.5	0
+non-amyloid	-44.5	93.8	121	1	non-amyloid	2.1	4.4	84.2	31.9			66.7	VQPVYK.pdb	I625P	0.05	1.25	623			VQPVYK	-11	-102.4	81	-12.7	N.A.	0	yes	89_TauWT2_I3P_1mM_07_3000x.jpg		no	TAU_HUMAN	P10636	-71.9	13	0
+non-amyloid	-53.7	100.7	127.3	1	non-amyloid	6.2	10.4	72	50.8			50	VQRVYK.pdb	I625R	-2.21	-1.76	623			VQRVYK	-23.6	-94.3	99.5	-3.4	N.A.	0	yes	94_wt2_I3R_1mM_02_5000x.jpg		no	TAU_HUMAN	P10636	-73.8	1.7	0
+non-amyloid	-49.9	97.2	124.3	1	non-amyloid	2.2	4.4	68.9	31.7			50	VQSVYK.pdb	I625S	-2.02	-2.34	623			VQSVYK	-17	-83.1	85	-20.7	N.A.	0	yes	41_wt2_I3S_1mM_01_2500x.jpg	VQIVYK_ 41.jpg	yes	TAU_HUMAN	P10636	-64.4	1.5	2.3
+non-amyloid	-44.2	119.3	91.2	7	non-amyloid	-1.3	-4.2	71.8	33.6			16.7	VQTEEK.pdb		-0.92	2.86	200			VQTEEK	-15.5	-57.8	80.5	18.9	N.A.	0	no				ERF3_YEAST	P05453	-46	0.6	0
+non-amyloid	-52.1	102.3	134.7	1	non-amyloid	3.7	5.9	74.4	41.9			66.7	VQWVYK.pdb	I625W	-2.9	-3.91	623			VQWVYK	-9.1	-107	92.5	-23.8	N.A.	0.9	yes	78_wt2_I3W_1mM_03_6000x.jpg		no	TAU_HUMAN	P10636	-75.9	0.4	187
+non-amyloid	-51.7	95.8	136.3	1	non-amyloid	3.6	6.1	72.1	37.7			66.7	VQYVYK.pdb	I625Y	-2.6	-3.44	623			VQYVYK	-7.2	-99.9	84.9	-19.2	N.A.	0	yes	2_wt2_I3Y_1mM_05_20000x.jpg		no	TAU_HUMAN	P10636	-70.8	4.8	5.4
+non-amyloid	-38.5	103.3	95.2	5	non-amyloid	-0.4	3.4	65.3	21.6			33.3	VSIEDS.pdb		-1.37	-1.15	98			VSIEDS	-5.2	-51.2	60.7	17.2	N.A.	0	no				SODC_HUMAN	P00441	-39.4	0.2	0
+non-amyloid	-63.3	85.8	104.7	1	non-amyloid	3.2	5.1	74.4	31.1	VSNLSN.png	1679.54/1650/1635.89	33.3	VSNLSN.pdb		-0.61	-3.69	9	0		VSNLSN	-28	-54.8	80.4	4	N.A.	0	yes	VSNLSN.png			URE2_YEAST	P23202	-46.2	0.3	0
+non-amyloid	-43.6	83.7	105	7	non-amyloid	-1.9	-5.7	69.3	23.7			33.3	VSSSGI.pdb		-2.67	-2.68	147			VSSSGI	-12.5	-45.3	77.7	24.1	N.A.	0	no				ERF3_YEAST	P05453	-41.2	2.9	0
+non-amyloid	-58.7	99	149.7	1	non-amyloid	3.2	5.2	64.5	30.6			66.7	VTIITV.pdb		-7.26	-8.58	124			VTIITV	-8.9	-91.8	92.1	-21.3	N.A.	25.4	no				G1UBC2_CANAL	G1UBC2	-63.7	2.7	0.1
+non-amyloid	-41.5	92.5	109.8	1	non-amyloid	3.4	6.8	64.3	27			50	VTLSQP.pdb		-0.34	0.74	105		16537487	VTLSQP	-3	-84.5	78.7	-7.4	N.A.	0	N.A.				B2MG_HUMAN	P61769	-59.1	0.5	0
+non-amyloid	-51	112	118.5	1	non-amyloid	6.4	9.2	73.6	41.5			50	VTQEFW.pdb		-3.52	-1.97	91		20154676	VTQEFW	-14	-90	88.6	-1.7	N.A.	0	N.A.				APOA1_HUMAN	P02647	-66.9	0.4	0.1
+non-amyloid	-41.2	86.3	128.7	6	non-amyloid	-0.9	-1.5	66.8	15.9			33.3	VTTGVT.pdb		-5.24	-2.7	120			VTTGVT	-8.2	-43.8	59.1	16.9	N.A.	0	no				G1UBC2_CANAL	G1UBC2	-35.4	2.1	0
+non-amyloid	-40.8	90.2	137.2	6	non-amyloid	-0.9	-1.5	67.2	15.7			50	VTTGVV.pdb		-5.61	-5.05	381			VTTGVV	-7.7	-46	60.8	17.9	N.A.	0	no				B2L5Z5_9ASCO	B2L5Z5	-36.5	2.4	0
+non-amyloid	-52.5	93.5	137.2	1	non-amyloid	1.8	4	62.4	20.1			50	VTTVVS.pdb		-6.5	-6.34	1031			VTTVVS	-8.4	-70	91.4	-2.8	N.A.	0	no				E9P9G2_YEASX	E9P9G2	-55.9	2.8	0
+non-amyloid	-41	84.3	121.2	1	non-amyloid	2.5	4.7	84	23.1			66.7	VVPQYG.pdb		-0.25	0.28	22			VVPQYG	-7.9	-87.5	66.5	-3.6	N.A.	0	no				CSGA_ECOLI	P28307	-60.7	12.5	0
+non-amyloid	-43.4	112.3	101.3	7	non-amyloid	-0.9	-1.5	66.2	23.7			33.3	VVTSEE.pdb		-2.87	-1.21	387			VVTSEE	-11.8	-46.1	69.8	19	N.A.	0	no				B2L5Z5_9ASCO	B2L5Z5	-39.5	0.3	0
+non-amyloid	-41.5	104.8	123.5	6	non-amyloid	-0.4	-1.4	63.2	19			50	VVVTSE.pdb		-4.87	-4.95	386			VVVTSE	-2.6	-60.6	69.6	5.1	N.A.	0	no				B2L5Z5_9ASCO	B2L5Z5	-46.7	3.9	0
+non-amyloid	-55.9	97.3	145.7	1	non-amyloid	2.9	6	60.6	21.5			66.7	VVVVTS.pdb		-6.87	-8.69	385			VVVVTS	-9.9	-62.6	68.4	-11.9	N.A.	16.5	no				B2L5Z5_9ASCO	B2L5Z5	-47.1	1.6	0.1
+non-amyloid	-48.3	96.8	114.2	1	non-amyloid	3.3	5.4	76.3	35.7	VYSCEW.png	1678.44/1643.03	66.7	VYSCEW.pdb		-5.17	-1.93	199	0		VYSCEW	-5.2	-85.8	97	5.2	N.A.	0	yes	VYSCEW.png			AGAL_HUMAN	P06280	-68.6	1.9	0
+non-amyloid	-43	84.5	104.5	7	non-amyloid	-1.5	-4.9	71.5	38.5			50	VYSRHP.pdb		-0.3	0.87	29		16537487	VYSRHP	-22.5	-75.3	94.8	-4.3	N.A.	0	N.A.				B2MG_HUMAN	P61769	-64.5	0.7	0
+non-amyloid	-49.8	103.2	117.2	1	non-amyloid	2.5	-1	75.3	36.3	VYSWEW.png	1678.68/1644.51/1630.73	66.7	VYSWEW.pdb	C202W	-3.18	-2.63	0	5.56		VYSWEW	-5.6	-100.5	116.5	6.1	N.A.	0	yes	VYSWEW.png			AGAL_HUMAN	P06280	-78.2	9.3	0
+non-amyloid	-50.9	109.5	100.3	1	non-amyloid	3.4	7.4	94.1	41.4			66.7	WGMMGM.pdb		-1.23	1.14	334			WGMMGM	0	-110.3	73.3	-13.1	N.A.	0	no				TADBP_HUMAN	Q13148	-75	2.6	0
+non-amyloid	-40.9	88	89	5	non-amyloid	-1.1	-1.5	67.3	17.7			33.3	WGSASN.pdb		0.98	0.88	385			WGSASN	-7.9	-38.5	56.8	19.2	N.A.	0	no				TADBP_HUMAN	Q13148	-36.6	3.2	0
+non-amyloid	-47.3	89.8	111.3	7	non-amyloid	-2	-4.9	79	31			33.3	WNFGTQ.pdb		-1.16	-0.2	99			WNFGTQ	-10.4	-71.7	84.1	5.3	N.A.	0	no				CHIT1_HUMAN	Q13231	-58.2	4.7	0
+non-amyloid	-48.1	93.2	111.3	7	non-amyloid	-2	-4.9	69.3	35.6	WNFSTQ.png	1678.37/1644.98	33.3	WNFSTQ.pdb	G102S	-2.05	-1.49	0	5.16		WNFSTQ	-13.5	-74.7	92.9	-1.1	N.A.	0	yes	WNFSTQ.png			CHIT1_HUMAN	Q13231	-63	3.7	0
+non-amyloid	-33	80	105.8	7	non-amyloid	-2.1	-5	81.4	23.6	WPNGIT.png	1679.21/1641.21	50	WPNGIT.pdb		1.43	0.96	562	0		WPNGIT	-2.1	-68	73.8	32	N.A.	0	yes	WPNGIT.png			LDLR_HUMAN	P01130	-52.3	15.3	0
+non-amyloid	-50.9	101.5	126.2	2	non-amyloid	4.2	9.8	73.8	38.7			83.3	WSFYLL.pdb		-4.21	-4.53	80		16537487	WSFYLL	-6.6	-116.4	94.8	-24.3	N.A.	8	N.A.				B2MG_HUMAN	P61769	-81.7	4.8	0.3
+non-amyloid	-39.7	93	105.8	7	non-amyloid	-0.6	-6.2	70.7	42.4			66.7	WVENYP.pdb		1.23	0.52	0		20154676	WVENYP	-31.6	-92	105.2	-11.8	N.A.	0	N.A.				N.A.	N.A.	-73	10.7	3.5
+non-amyloid	-51.7	96.3	139.8	1	non-amyloid	3.3	8.6	72.1	48.2			83.3	WYFYIQ.pdb		-4.85	-4.31	0		20154676	WYFYIQ	-10.6	-133.9	95.4	-34.7	N.A.	339.2	N.A.				N.A.	N.A.	-93.5	15.6	581
+non-amyloid	-42.9	116.3	89.8	7	non-amyloid	0.2	-2.1	77.4	29.8			50	YASEIE.pdb		-0.74	1	0		20154676	YASEIE	-24.2	-61.1	81.3	10.9	N.A.	0	N.A.				N.A.	N.A.	-50.4	1.6	1.2
+non-amyloid	-55.7	81.5	95.3	1	non-amyloid	3.4	9.2	78.6	30.9			33.3	YASNNN.pdb		1.99	-0.89	23			YASNNN	-43.2	-51.7	93.7	16.4	N.A.	0	no				SAP30_YEAST	P38429	-52.4	3.3	0
+non-amyloid	-43.9	60.7	89.3	8	non-amyloid	-2	-1.9	85.8	9.5			16.7	YGGGGN.pdb		2.53	4.87	26			YGGGGN	-3.1	-26.6	43.6	38.7	N.A.	0	no				CSGA_ECOLI	P28307	-23.8	0.8	0
+non-amyloid	-37	64	89.3	5	non-amyloid	-1.1	1.3	75.1	11.5			16.7	YGGGNS.pdb		1.64	3.58	50			YGGGNS	-8.1	-27.6	42.5	33	N.A.	0	no				CSGA_ECOLI	P28307	-25.2	1.3	0
+non-amyloid	-45.5	87.7	106.8	7	non-amyloid	-2.1	-2.4	77.8	42.7			16.7	YGQQNQ.pdb		1.18	3.46	155			YGQQNQ	-31	-57.4	76.5	10.2	N.A.	0	no				FUS_HUMAN	P35637	-49.8	0.5	0
+non-amyloid	-48.1	89.3	104.5	7	non-amyloid	-2	-2.4	84.2	42.5			16.7	YGQQQS.pdb		0.03	3.92	143			YGQQQS	-30.1	-55.8	77	16.6	N.A.	0	no				FUS_HUMAN	P35637	-50	1.1	0
+non-amyloid	-48.9	82.3	110.7	6	non-amyloid	-1.9	-6.6	80	46.8			33.3	YGQQSY.pdb		-1.15	2.61	33			YGQQSY	-35.5	-61.9	94	10.7	N.A.	0	no				FUS_HUMAN	P35637	-57.2	1.2	0
+non-amyloid	-49.7	76.7	104.8	6	non-amyloid	-1.9	-6.4	80.5	38.5			33.3	YGQSSY.pdb		-1.59	1.79	50			YGQSSY	-35.1	-49.3	84	13.9	N.A.	0	no				FUS_HUMAN	P35637	-48.1	1	0
+non-amyloid	-52.5	94.8	121.3	1	non-amyloid	3.2	8	73.5	46.4			66.7	YIFNNM.pdb		-2.32	-5.02	194			YIFNNM	-18.6	-105.1	90.3	-30.8	N.A.	0	no				MA2A1_HUMAN	Q16706	-77.6	0.6	0.1
+non-amyloid	-52.6	83.2	114	1	non-amyloid	4.1	10.3	72.4	41.1			50	YKNFNY.pdb		-1.34	-1.92	101			YKNFNY	-27.6	-101.1	108.2	-14.8	N.A.	0	no				ERF3_YEAST	P05453	-81.5	10.7	0
+non-amyloid	-51.9	110.8	132.3	1	non-amyloid	3.9	9.7	71.1	50.3			83.3	YLEIII.pdb		-4.53	-6.39	0		20154676	YLEIII	-13.5	-133.3	92.1	-40.7	N.A.	0	N.A.				N.A.	N.A.	-83.5	12.2	219
+non-amyloid	-50.5	76.3	100.8	1	non-amyloid	3.1	10.1	80.8	29.8			33.3	YLGNNS.pdb		0.7	-0.55	335			YLGNNS	-24.1	-65.6	75.2	8	N.A.	0	no				RNQ1_YEAST	P25367	-51.8	0.2	0
+non-amyloid	-63.6	107	103.7	1	non-amyloid	3	6.5	85.2	34.9			50	YNAQAQ.pdb		1.29	1.99	35			YNAQAQ	-30.5	-58.7	83.3	12.7	N.A.	0	no				ERF3_YEAST	P05453	-48.6	0	0
+non-amyloid	-46.3	83.7	109	7	non-amyloid	-2.1	-2.5	76.6	41.8			33.3	YNNNLQ.pdb		1.4	-1.48	106			YNNNLQ	-31.9	-74.9	100.7	1	N.A.	0	no				ERF3_YEAST	P05453	-65.3	2.5	0
+non-amyloid	-52.6	70	99	1	non-amyloid	1.8	7.8	80.9	29.4			16.7	YNNTGS.pdb		0.22	0.55	58			YNNTGS	-39.8	-59.8	101.7	17.5	N.A.	0	no				YBI1_YEAST	P38180	-58.4	1.7	0
+non-amyloid	-31.1	82.2	83.8	9	non-amyloid	-0.6	0.3	87.8	19.2			50	YNPDAG.pdb		4.85	5.42	63			YNPDAG	-23	-49.5	69.8	38.7	N.A.	0	no				ERF3_YEAST	P05453	-41.5	7	0
+non-amyloid	-32.6	69.7	91.8	9	non-amyloid	-2.1	-1.1	86.4	27.3			33.3	YNPQGG.pdb		4.11	5.79	73			YNPQGG	-17.8	-49.6	61.6	38.8	N.A.	0	no				ERF3_YEAST	P05453	-41.6	7.2	0
+non-amyloid	-57.2	100.5	110.5	1	non-amyloid	3.5	9.4	88.5	34.7			50	YQAGFQ.pdb		-0.76	1.83	113			YQAGFQ	-17.2	-76.1	85.4	12.7	N.A.	0	no				ERF3_YEAST	P05453	-61.2	2.7	0
+non-amyloid	-59.5	100	109.8	1	non-amyloid	3	5.5	80.7	30.9	YQAYNA.png	1678.82/1647/1634	66.7	YQAYNA.pdb		0.11	0.68	32	7.32		YQAYNA	-27.8	-74.1	97	-4.6	N.A.	0	yes	YQAYNA.png			ERF3_YEAST	P05453	-63.1	1.9	0
+non-amyloid	-35.6	93.2	112	6	non-amyloid	-1.1	1.7	72.3	30.6			50	YQGYQA.pdb		-0.43	2.93	29			YQGYQA	-15.9	-59.1	61.9	12.9	N.A.	0	no				ERF3_YEAST	P05453	-47.5	3.8	0
+non-amyloid	-53.7	73.3	104.8	1	non-amyloid	3.5	9.4	79.8	32.4			33.3	YQGYSG.pdb		-0.7	3.08	49			YQGYSG	-15.4	-70.1	80.8	11.2	N.A.	0	no				ERF3_YEAST	P05453	-59.3	0.8	0
+non-amyloid	-50.7	98	110	1	non-amyloid	5.5	11.7	75.1	54.8			50	YQLENY.pdb		-0.8	0.35	103		16537487	YQLENY	-37.8	-107.8	110.4	-8.2	N.A.	0	N.A.				INS_HUMAN	P01308	-81.6	9.2	0
+non-amyloid	-44.3	80.7	113	7	non-amyloid	-2	-2.2	75.4	40.5			33.3	YQNYQG.pdb		0	2.15	46			YQNYQG	-29.2	-67	80.1	0.8	N.A.	0	no				ERF3_YEAST	P05453	-57.2	4.7	0
+non-amyloid	-48.7	79	110.7	6	non-amyloid	-1.9	-6.5	87.7	33.9			33.3	YQQGGY.pdb		-0.26	3.9	55			YQQGGY	-23.1	-54.8	75.4	16.9	N.A.	0	no				ERF3_YEAST	P05453	-46.4	1	0
+non-amyloid	-43.8	97	117.3	7	non-amyloid	-2	-3.1	76.7	51.4			33.3	YQQQFN.pdb		-0.78	0.58	88			YQQQFN	-29.9	-81.4	95.7	-1.5	N.A.	0	no				ERF3_YEAST	P05453	-67.5	1.3	7.2
+non-amyloid	-59.9	89.7	118.8	1	non-amyloid	3.5	10.8	76.9	61	YQQQYN.png	1679.18/1643.86	33.3	YQQQYN.pdb		-0.45	1.68	69	0		YQQQYN	-38.7	-92.5	112.9	-0.3	N.A.	0	yes	YQQQYN.png			ERF3_YEAST	P05453	-78.5	3.7	32.8
+non-amyloid		89.7	118.8	class7	non-amyloid					YQQQYN.png	1679.18/1643.86	33.3	YQQQYN.pdb		-0.45	1.68	69	0		YQQQYN				4.28	N.A.	0	yes	YQQQYN.png			ERF3_YEAST	P05453			32.8
+non-amyloid	-42.9	80.7	109.7	7	non-amyloid	-2.1	-2.3	70.7	50	YQQYNP.png	1678/1641/1613	50	YQQYNP.pdb		2.03	3.54	60	5.54		YQQYNP	-28.4	-91.6	105.3	-7.8	N.A.	0	yes	YQQYNP.png			ERF3_YEAST	P05453	-75.6	6.3	0
+non-amyloid	-38.5	91.3	116.5	6	non-amyloid	-1.1	1.6	66	50.4			33.3	YQQYSQ.pdb		-1.6	2.14	13			YQQYSQ	-34.7	-70.5	83.3	1.1	N.A.	0	no				ERF3_YEAST	P05453	-61	3.9	0.7
+non-amyloid	-41.8	70	104.8	7	non-amyloid	-2	-2.4	84	21.6			33.3	YQYGGG.pdb		0.19	4.37	48			YQYGGG	-12.6	-45.1	52.7	17.7	N.A.	0	no				CSGA_ECOLI	P28307	-37.5	0.4	0
+non-amyloid	-40.2	70.7	89.3	5	non-amyloid	-1.1	1.4	70.1	20.4			16.7	YSGSNS.pdb		-0.14	1	374			YSGSNS	-19.8	-29	54.4	28.1	N.A.	0	no				TADBP_HUMAN	Q13148	-29.8	1.6	0
+non-amyloid	-44.8	82.3	110.7	7	non-amyloid	-2	-1.8	80.7	37.4			33.3	YSGYQQ.pdb		-1.15	2.61	52			YSGYQQ	-22	-60.7	76.7	15.9	N.A.	0	no				ERF3_YEAST	P05453	-51.4	2.9	0
+non-amyloid	-45.5	74.7	97.5	7	non-amyloid	-2	-2.4	80.2	31.9	YSQNGN.png	1679.68/1640.5	16.7	YSQNGN.pdb		1.45	1.36	16	5.09		YSQNGN	-29.6	-49.9	74.1	12.2	N.A.	0	yes	YSQNGN.png			ERF3_YEAST	P05453	-45.6	0.6	0
+non-amyloid		74.7	97.5	class7	non-amyloid					YSQNGN.png	1679.68/1640.5	16.7	YSQNGN.pdb		1.45	1.36	16	5.09		YSQNGN				16.89	N.A.	0	yes	YSQNGN.png			ERF3_YEAST	P05453			0
+non-amyloid	-52.7	88.8	126.3	1	non-amyloid	1.8	8	66.1	36.3			50	YTFTIS.pdb		-5.79	-3.69	0		20154676	YTFTIS	-16	-98	105.3	-13.4	N.A.	3.1	N.A.				N.A.	N.A.	-76	7.2	100.4
+non-amyloid	-63.3	78.5	113.2	1	non-amyloid	3.2	7.9	69.7	36			33.3	YTNISN.pdb		-1.63	-3.03	573			YTNISN	-25.9	-74	89.8	-8.7	N.A.	0	no				MRN1_YEAST	Q08925	-58.9	2.3	0.1
+non-amyloid	-49.1	87	115.3	1	non-amyloid	2	9.4	74.5	25.3			50	YVSGFH.pdb		-4.01	-3.32	46		16537487	YVSGFH	-3.9	-72.3	80.9	12.4	N.A.	0	N.A.				B2MG_HUMAN	P61769	-56.8	0.2	0
+non-amyloid	-52.5	68	118	1	non-amyloid	3.5	10.2	76.4	42.9			50	YYNYNN.pdb		-0.21	-2.19	509			YYNYNN	-35.9	-91.3	107.6	-2.1	N.A.	0	no				NGR1_YEAST	P32831	-77.2	9.4	0
+non-amyloid		82.7	125	class7	non-amyloid							50	YYQNYQ.pdb		-1.63	0.37	45			YYQNYQ				0.27	N.A.	0	no				ERF3_YEAST	P05453			483.6
+non-amyloid	-39.6	94.7	117.8	6	non-amyloid	-0.8	-1.7	65.4	38.7			50	YYTEFT.pdb		-4.73	-0.49	86		16537487	YYTEFT	-19.6	-81.6	84.7	-7.8	N.A.	0	N.A.				B2MG_HUMAN	P61769	-63.3	6.4	0.1

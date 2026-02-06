@@ -1,0 +1,161 @@
+Protein name 	Protein ID 	Start 	Stop 	Organism 	Mutation type 	Position	Mutation 	pH 	protein_concentration(uM)	Ionic strength (M) 	TFE % 	added_cofactor	Temperature (Kelvin Degrees) 	end_product	Experimental value	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	30	A30G	5.5	36	0.05	25	na	298	fibrils	0.0008145	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	47	V47A	5.5	36	0.05	25	na	298	fibrils	0.0000884	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	20	V20I	5.5	36	0.05	25	na	298	fibrils	0.0000341	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	83	E83D	5.5	36	0.05	25	na	298	fibrils	0.000084	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	64	W64F	5.5	36	0.05	25	na	298	fibrils	0.0000798	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	87	S87T	5.5	36	0.05	25	na	298	fibrils	0.0001671	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	92	S92T	5.5	36	0.05	25	na	298	fibrils	0.0002265	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	22	F22L	5.5	36	0.05	25	na	298	fibrils	0.0000673	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	91	Y91Q	5.5	36	0.05	25	na	298	fibrils	0.0000033	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	54	P54A	5.5	36	0.05	25	na	298	fibrils	0.0001084	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	78	T78S	5.5	36	0.05	25	na	298	fibrils	0.0000798	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	42	T42A	5.5	36	0.05	25	na	298	fibrils	0.0000854	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	89	L89T	5.5	36	0.05	25	na	298	fibrils	0.0000837	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	34	G34A	5.5	36	0.05	25	na	298	fibrils	0.0000746	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	9	V9A	5.5	36	0.05	25	na	298	fibrils	0.0001084	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	98	Y98Q	5.5	36	0.05	25	na	298	fibrils	0.0000089	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	25	Y25A	5.5	36	0.05	25	na	298	fibrils	0.0000544	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	11	Y11F	5.5	36	0.05	25	na	298	fibrils	0.0000979	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	67	K67A	5.5	36	0.05	25	na	298	fibrils	0.0000899	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	na	na	na	5.5	36	0.05	25	na	298	fibrils	0.000093	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	20	V20A	5.5	36	0.05	25	na	298	fibrils	0.0000259	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	20	V20L	5.5	36	0.05	25	na	298	fibrils	0.0000232	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	61	M61A	5.5	36	0.05	25	na	298	fibrils	0.0000962	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	17	V17A	5.5	36	0.05	25	na	298	fibrils	0.0000703	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	94	F94L	5.5	36	0.05	25	na	298	fibrils	0.0000831	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	13	V13A	5.5	36	0.05	25	na	298	fibrils	0.0000812	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	36	V36A	5.5	36	0.05	25	na	298	fibrils	0.0000854	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	75	I75V	5.5	36	0.05	25	na	298	fibrils	0.0000826	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	89	L89A	5.5	36	0.05	25	na	298	fibrils	0.0000148	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	71	P71A	5.5	36	0.05	25	na	298	fibrils	0.0000979	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	39	V39A	5.5	36	0.05	25	na	298	fibrils	0.0000734	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	86	I86V	5.5	36	0.05	25	na	298	fibrils	0.0000979	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	20	V20S	5.5	36	0.05	25	na	298	fibrils	0.0000577	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	51	V51A	5.5	36	0.05	25	na	298	fibrils	0.000084	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	29	E29D	5.5	36	0.05	25	na	298	fibrils	0.0001546	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	65	L65V	5.5	36	0.05	25	na	298	fibrils	0.0000899	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	89	L89V	5.5	36	0.05	25	na	298	fibrils	0.00008	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	33	I33V	5.5	36	0.05	25	na	298	fibrils	0.0000979	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	5	S5T	5.5	36	0.05	25	na	298	fibrils	0.0000798	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	20	V20N	5.5	36	0.05	25	na	298	fibrils	0.0000703	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	43	S43E	5.5	36	0.05	25	na	298	fibrils	0.0017815	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	88	K88Q	5.5	36	0.05	25	na	298	fibrils	0.0007498	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	8	S8H	5.5	36	0.05	25	na	298	fibrils	0.0010176	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	92	S92H	5.5	36	0.05	25	na	298	fibrils	0.0006598	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	97	R97Q	5.5	36	0.05	25	na	298	fibrils	0.0009297	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	77	R77E	5.5	36	0.05	25	na	298	fibrils	0.0021116	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	23	R23Q	5.5	36	0.05	25	na	298	fibrils	0.0018194	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	29	E29K	5.5	36	0.05	25	na	298	fibrils	0.0004998	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	90	E90H	5.5	36	0.05	25	na	298	fibrils	0.000075	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	29	E29Q	5.5	36	0.05	25	na	298	fibrils	0.0006198	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	21	S21R	5.5	36	0.05	25	na	298	fibrils	0.000118	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	97	R97E	5.5	36	0.05	25	na	298	fibrils	0.0013995	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	29	E29R	5.5	36	0.05	25	na	298	fibrils	0.0001999	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	na	na	na	5.5	36	0.05	25	na	298	fibrils	0.00093	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	88	K88N	5.5	36	0.05	25	na	298	fibrils	0.0007298	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	55	E55Q	5.5	36	0.05	25	na	298	fibrils	0.0010591	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19L	7.5	na	0.01	0	na	277		1.39	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19V	7.5	na	0.01	0	na	277		1.244	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19Y	7.5	na	0.01	0	na	277		1.61	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19S	7.5	na	0.01	0	na	277		2.863	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19M	7.5	na	0.01	0	na	277		1.85	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19T	7.5	na	0.01	0	na	277		3.303	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19I	7.5	na	0.01	0	na	277		0.941	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19A	7.5	na	0.01	0	na	277		2.822	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19N	7.5	na	0.01	0	na	277		4.05	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19E	7.5	na	0.01	0	na	277		4.171	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19C	7.5	na	0.01	0	na	277		2.185	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19R	7.5	na	0.01	0	na	277		4	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19G	7.5	na	0.01	0	na	277		3.293	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19P	7.5	na	0.01	0	na	277		2.9	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19H	7.5	na	0.01	0	na	277		3.794	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19K	7.5	na	0.01	0	na	277		3.29	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19W	7.5	na	0.01	0	na	277		1.725	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19D	7.5	na	0.01	0	na	277		4.9	
+A-beta 42	P05067	672	713	Homo sapiens	1sub	19	F19Q	7.5	na	0.01	0	na	277		3.993	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I V18F F20V I32L I32M M35F V40L I41M	7.4	na	0.15	8	na	310		1.7	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19L I31L I32L L34V M35L V36M V39L V40I	7.4	na	0.15	5	na	310		1.6	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V18L F19L F20M I32F L34I V36M V39L V40F I41V	7.4	na	0.15	11	na	310		2.2	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19S L34P	7.4	na	0.15	19	na	310		16.958	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17M V18F F20L I31F I32M L34F V39M I41M	7.4	na	0.15	16	na	310		3.85	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F V18M F19V F20L I31F I32L L34M M35F V36M V39M V40L I41V 	7.4	na	0.15	14	na	310		3.2	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I I31F I32L L34F M35L V36L V39I V40M I41F	7.4	na	0.15	3	na	310		0.6	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I V18M F19M F20I I31F I32M L34M M35L V36L V39F I41L	7.4	na	0.15	12	na	310		2.35	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F V18M F19L F20M I31M I32F L34M M35V V36L V39L I41V	7.4	na	0.15	18	na	310		5.05	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V18L I31F I32V L34I M35L V36F V39I V40L I41V	7.4	na	0.15	4	na	310		0.7	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17V V18F F19I I32V L34V V36L V40M I41M	7.4	na	0.15	6	na	310		1.6	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F V18I F19M F20V I31F I32M L34V M35F V36I V39L V40F I41M	7.4	na	0.15	7	na	310		1.7	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F F19I F20M I31M L34F V36M V39M V40M I41V	7.4	na	0.15	17	na	310		4	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F F19V I31V L34I M35I V36I V39M V40L I41F	7.4	na	0.15	2	na	310		0.6	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17F V18F F19L I31M I32V L34F V36M V39M V40F I41L	7.4	na	0.15	13	na	310		2.55	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I F19I F20L I31M I32M L34V M35V V36M V39L V40M I41V	7.4	na	0.15	15	na	310		3.75	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I F19M I31F I32F L34M M35I V36M V39M V40F I41V	7.4	na	0.15	9	na	310		2	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17I F20L I31M I32M L34F M35I V36M V39L I41M	7.4	na	0.15	10	na	310		2	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V18L F20L I31F L34F M35I V36F V39M V40F I41M	7.4	na	0.15	1	na	310		0.25	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	69	G69A	5.5	36	0.05	25	na	298	fibrils	0.00149	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	na	na	na	5.5	36	0.05	25	na	298	fibrils	0.00073	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	45	G45S	5.5	36	0.05	25	na	298	fibrils	0.00216	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	19	G19A	5.5	36	0.05	25	na	298	fibrils	0.00105	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	45	G45E	5.5	36	0.05	25	na	298	fibrils	0.00218	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	45	G45R	5.5	36	0.05	25	na	298	fibrils	0.00121	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	15	G15A	5.5	36	0.05	25	na	298	fibrils	0.00077	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	53	G53A	5.5	36	0.05	25	na	298	fibrils	0.00239	
+Acylphosphatase MT	P14620	2	99	Homo sapiens	1sub	45	G45A	5.5	36	0.05	25	na	298	fibrils	0.00305	
+HypF-N	P30145	1	87	Escherichia coli (strain K12)	1sub	65	C65A	7.2	na	0.3	0	na	310		0.599	
+HypF-N	P30138	1	87	Escherichia coli (strain K12)	1sub	38	D38A	7.2	na	0.3	0	na	310		0.466	
+HypF-N	P30150	1	87	Escherichia coli (strain K12)	1sub	83	Q83A	7.2	na	0.3	0	na	310		0.463	
+HypF-N	P30141	1	87	Escherichia coli (strain K12)	1sub	49	R49K	7.2	na	0.3	0	na	310		0.5	
+HypF-N	P30132	1	87	Escherichia coli (strain K12)	1sub	10	Q10A	7.2	na	0.3	0	na	310		0.493	
+HypF-N	P30144	1	87	Escherichia coli (strain K12)	1sub	59	V59A	7.2	na	0.3	0	na	310		0.88	
+HypF-N	P30149	1	87	Escherichia coli (strain K12)	1sub	77	E77A	7.2	na	0.3	0	na	310		0.324	
+HypF-N	P30137	1	87	Escherichia coli (strain K12)	1sub	34	N34A	7.2	na	0.3	0	na	310		0.443	
+HypF-N	P30143	1	87	Escherichia coli (strain K12)	1sub	55	E55A	7.2	na	0.3	0	na	310		0.351	
+HypF-N	P30146	1	87	Escherichia coli (strain K12)	1sub	68	L68A	7.2	na	0.3	0	na	310		0.496	
+HypF-N	P30135	1	87	Escherichia coli (strain K12)	1sub	23	R23K	7.2	na	0.3	0	na	310		0.679	
+HypF-N	P30142	1	87	Escherichia coli (strain K12)	1sub	53	D53A	7.2	na	0.3	0	na	310		0.423	
+HypF-N	P30131	1	87	Escherichia coli (strain K12)	1sub	4	N4T	7.2	na	0.3	0	na	310		0.448	
+HypF-N	P30134	1	87	Escherichia coli (strain K12)	1sub	18	Q18A	7.2	na	0.3	0	na	310		0.444	
+HypF-N	P30148	1	87	Escherichia coli (strain K12)	1sub	75	E75A	7.2	na	0.3	0	na	310		0.334	
+HypF-N	P30147	1	87	Escherichia coli (strain K12)	1sub	72	D72A	7.2	na	0.3	0	na	310		0.307	
+HypF-N	P30140	1	87	Escherichia coli (strain K12)	1sub	47	E47A	7.2	na	0.3	0	na	310		0.641	
+HypF-N	P30139	1	87	Escherichia coli (strain K12)	1sub	41	N41A	7.2	na	0.3	0	na	310		0.423	
+HypF-N	P30133	1	87	Escherichia coli (strain K12)	1sub	14	R14K	7.2	na	0.3	0	na	310		0.524	
+HypF-N	P30136	1	87	Escherichia coli (strain K12)	1sub	28	Q28A	7.2	na	0.3	0	na	310		0.574	
+HypF-N	P30151	1	87	Escherichia coli (strain K12)	1sub	87	E87A	7.2	na	0.3	0	na	310		0.247	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		L17E 	7.5	na	0.01	0	na	298		4.7	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V36E 	7.5	na	0.01	0	na	298		4.56	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V12E V18E M35T I41N	7.5	na	0.01	0	na	298		17.48	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L34P A42S 	7.5	na	0.01	0	na	298		8.92	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L17P F19L V39A	7.5	na	0.01	0	na	298		15.02	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19V L34Q I41V 	7.5	na	0.01	0	na	298		6.8	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		I32V L34P 	7.5	na	0.01	0	na	298		7.74	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		D1V I31T V36E 	7.5	na	0.01	0	na	298		6.86	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		E3A F4L F19L I32T M35R 	7.5	na	0.01	0	na	298		4.62	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		I32N V36A 	7.5	na	0.01	0	na	298		8.52	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F4I S8P V24A L34P	7.5	na	0.01	0	na	298		10.04	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F4C H6Q L34P	7.5	na	0.01	0	na	298		15.52	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		M35R V36E 	7.5	na	0.01	0	na	298		8.12	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19L L34R V40E I41T	7.5	na	0.01	0	na	298		13.66	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		H6R F19S S26P V39E	7.5	na	0.01	0	na	298		10.36	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		L17Q 	7.5	na	0.01	0	na	298		5	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V12A I32T L34P	7.5	na	0.01	0	na	298		15.86	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V12E F19T A42E 	7.5	na	0.01	0	na	298		2.76	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		H13R L34P V36P 	7.5	na	0.01	0	na	298		10.74	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19S I32T G37S 	7.5	na	0.01	0	na	298		8.04	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		L34P 	7.5	na	0.01	0	na	298		6.66	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		F19S L34P	7.5	na	0.01	0	na	298		20	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		S8Y V18P E22Q A30P I31L  	7.5	na	0.01	0	na	298		5.72	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		A2S 	7.5	na	0.01	0	na	298		4.46	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		H6Q V12A V24A I32M V36G	7.5	na	0.01	0	na	298		12.64	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V18A F19L 	7.5	na	0.01	0	na	298		3.06	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		R5S L17P 	7.5	na	0.01	0	na	298		4	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		I31N 	7.5	na	0.01	0	na	298		4.58	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		I32V 	7.5	na	0.01	0	na	298		6.56	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		L34P M35K I41V	7.5	na	0.01	0	na	298		14	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		V12L F19S S26F V40L 	7.5	na	0.01	0	na	298		7.16	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		I32S 	7.5	na	0.01	0	na	298		3.28	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		D1E V24G L34P 	7.5	na	0.01	0	na	298		7.22	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		H6L G38D 	7.5	na	0.01	0	na	298		5.78	
+A-beta 42	P05067	672	713	Homo sapiens	1sub		F19S 	7.5	na	0.01	0	na	298		4.88	
+A-beta 42	P05067	672	713	Homo sapiens	multi sub		H13Q L34P M35I I41T	7.5	na	0.01	0	na	298		10.28	
