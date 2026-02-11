@@ -1,0 +1,67 @@
+name: amyloid-pipeline
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python
+  - python=3.11
+  
+  # Core dependencies
+  - requests>=2.28
+  - pandas>=2.0
+  - tqdm>=4.65
+  
+  # NLP / NER
+  - spacy>=3.5
+  
+  # Database
+  - sqlite
+  
+  # Testing
+  - pytest>=7.0
+  
+  # Development
+  - ipython
+  - black
+  - flake8
+  
+  # Optional: visualization
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  
+  # Optional: Jupyter
+  - jupyter
+  - jupyterlab
+  
+  # pip-only packages
+  - pip
+  - pip:
+    # LLM providers
+    - anthropic>=0.18.0
+    - openai>=1.0.0
+    # scispaCy (biomedical NER - fast)
+    - scispacy>=0.5.4
+    - https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+    # PubMedBERT (biomedical NER - quality, optional)
+    - transformers>=4.30.0
+
+# =============================================================================
+# INSTALLATION
+# =============================================================================
+# Create environment:
+#   conda env create -f environment.yaml
+#
+# Activate:
+#   conda activate amyloid-pipeline
+#
+# For PubMedBERT (higher quality NER, +2GB):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#
+# For Ollama (free local LLM):
+#   1. Install from https://ollama.ai/download
+#   2. ollama pull qwen2.5:7b
+#
+# Update environment:
+#   conda env update -f environment.yaml --prune
+
