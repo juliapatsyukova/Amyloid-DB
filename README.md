@@ -1,25 +1,25 @@
 # Amyloid Aggregation Database Pipeline
 
-Автоматизированный пайплайн для создания базы данных белков, способных образовывать агрегаты, с использованием LLM для извлечения информации из научных статей.
+Automated pipeline for DB creation of proteins capable to aggregate, using LLM for information mining from published data.
 
-## Расширенное определение
+## Defyning therminology
 
-Мы используем **широкое определение** амилоидогенного белка:
-- Любой белок, способный образовывать агрегаты
-- Включает β-складчатые, α-спиральные и смешанные структуры
-- **Исключены:** прионы и прион-подобные белки
+We use **broad therminology** of amyloidogenic protein:
+- Any protein able to form aggregates
+- Includes β-sheets, α-helix и mixed cross-structures
+- **Exclusions:** prion and prion-like proteins
 
-### Типы агрегации
+### Types of aggregation
 
-1. **Обратимая (функциональные амилоиды)**
-   - Автокаталитическая сборка/разборка
-   - С участием кофакторов (шапероны, РНК и др.)
+1. **Reversible (functional amyloids)**
+   - Self-induced assembly/disassembly
+   - Using cofactors (chaperons, RNA, etc.)
 
-2. **Необратимая (патологические амилоиды)**
-   - Автокаталитическая сборка → стабилизация
-   - Сборка с кофакторами → стабилизация другими агентами
+2. **Irreversible (pathological amyloids)**
+   - Autocatalysed assembly → stabilisation
+   - Assembly with cofactors → stabilised by other agents
 
-## Архитектура
+## Architecture
 
 ```
                     ┌─────────────────────────────────────┐
@@ -46,31 +46,31 @@ PubMed Search ──────┼─▶│scispaCy │───▶│ Pattern 
                               └─────────────────┘
 ```
 
-### Режимы извлечения
+### Mode of extraction
 
-| Режим | Описание | GPU | Скорость | Точность |
+| Mode | Description | GPU | Speed | Accuracy |
 |-------|----------|-----|----------|----------|
-| `hybrid` | NER + Patterns + LLM при необходимости | No | ⚡⚡ | High |
-| `ner_only` | Только NER + patterns | No | ⚡⚡⚡ | Moderate |
-| `llm_only` | Только LLM (старый режим) | No | ⚡ | High |
+| `hybrid` | NER + Patterns + LLM if necessary | No | ⚡⚡ | High |
+| `ner_only` | Only NER + patterns | No | ⚡⚡⚡ | Moderate |
+| `llm_only` | Only LLM (old mode) | No | ⚡ | High |
 
-### NER модели
+### NER models
 
-| Модель | Скорость (CPU) | RAM | Качество | Когда использовать |
+| Model | Speed (CPU) | RAM | Quality | When to use |
 |--------|----------------|-----|----------|-------------------|
-| `scispacy` | ~0.1 сек/абстракт | ~200MB | Moderate | Большие датасеты (>500 статей) |
-| `pubmedbert` | ~3-5 сек/абстракт | ~2-4GB | High | Качественная обработка (<200 статей) |
+| `scispacy` | ~0.1 sec/abstract | ~200MB | Moderate | Big datasets (>500 статей) |
+| `pubmedbert` | ~3-5 sec/abstract | ~2-4GB | High | High-quality processing (<200 статей) |
 
-## Установка
+## Installation
 
 ```bash
 cd amyloid_pipeline
 pip install -r requirements.txt
 ```
 
-## Использование
+## Usage
 
-### Получение API ключей
+### Get API keys
 
 **Anthropic (Claude):**
 1. https://console.anthropic.com → Sign up
@@ -80,35 +80,35 @@ pip install -r requirements.txt
 1. https://platform.openai.com → Sign up
 2. API Keys → Create new secret key
 
-**Ollama (бесплатно, локально):**
-- API ключ не нужен!
-- Установка: https://ollama.ai/download
+**Ollama (free, locally):**
+- API key not needed!
+- Installation: https://ollama.ai/download
 
-### Запуск полного пайплайна
+### Launch full pipeline
 
 ```bash
-# РЕКОМЕНДУЕМЫЙ: Гибридный режим с scispaCy (быстро)
+# RECOMMENDED: Hybrid mode with scispaCy (fast)
 python src/pipeline.py \
     --email your@email.com \
     --mode hybrid \
     --ner-model scispacy \
     --max-papers 500
 
-# Качественная обработка с PubMedBERT (медленнее, точнее)
+# High-quality processing with PubMedBERT (slower, more accurate)
 python src/pipeline.py \
     --email your@email.com \
     --mode hybrid \
     --ner-model pubmedbert \
     --max-papers 100
 
-# Только NER без LLM (самый быстрый)
+# Only NER without LLM (the fastest)
 python src/pipeline.py \
     --email your@email.com \
     --mode ner_only \
     --ner-model scispacy \
     --max-papers 2000
 
-# С Anthropic API для LLM
+# With Anthropic API for LLM
 python src/pipeline.py \
     --email your@email.com \
     --mode hybrid \
@@ -118,70 +118,70 @@ python src/pipeline.py \
     --profile quality
 ```
 
-### Опции
+### Options
 
-| Флаг | Описание | По умолчанию |
+| Flag | Description | Default |
 |------|----------|--------------|
-| `--email` | Email для PubMed API (обязателен) | - |
+| `--email` | Email for PubMed API (required) | - |
 | `--mode` | `hybrid`, `ner_only`, `llm_only` | `hybrid` |
-| `--ner-model` | `scispacy` (быстро) или `pubmedbert` (качественно) | `scispacy` |
+| `--ner-model` | `scispacy` (fast) или `pubmedbert` (high-quality) | `scispacy` |
 | `--profile` | `fast`, `balanced`, `quality` | `balanced` |
 | `--llm-provider` | `anthropic`, `openai`, `ollama` | `ollama` |
-| `--llm-key` | API ключ (не нужен для ollama) | - |
-| `--llm-model` | Модель (например, `qwen2.5:7b`) | auto |
-| `--max-papers` | Максимум статей | 100 |
-| `--date-from` | Начальная дата поиска | 2020/01/01 |
-| `--dry-run` | Только поиск, без извлечения | False |
+| `--llm-key` | API key (optional for ollama) | - |
+| `--llm-model` | Model (e.g. `qwen2.5:7b`) | auto |
+| `--max-papers` | Max articles | 100 |
+| `--date-from` | Starting data of search | 2020/01/01 |
+| `--dry-run` | Only search, without extraction | False |
 
-### Рекомендуемые модели Ollama (CPU)
+### Recommended models Ollama (CPU)
 
-| Модель | RAM | Для чего |
+| Model | RAM | Purpose |
 |--------|-----|----------|
-| `qwen2.5:3b` | ~4GB | Быстрое тестирование |
-| `qwen2.5:7b` | ~8GB | **Рекомендуется** |
-| `qwen2.5:14b` | ~16GB | Максимальное качество |
-| `llama3.2:3b` | ~4GB | Альтернатива Qwen |
+| `qwen2.5:3b` | ~4GB | Fast testing |
+| `qwen2.5:7b` | ~8GB | **Recommended** |
+| `qwen2.5:14b` | ~16GB | Maximum of quality |
+| `llama3.2:3b` | ~4GB | Qwen alternative |
 
-### Dry run (тестирование запроса)
+### Dry run (test request)
 
 ```bash
 python src/pipeline.py --email your@email.com --dry-run --max-papers 10
 ```
 
-## Структура проекта
+## Project structure
 
 ```
 amyloid_pipeline/
 ├── config/
-│   └── settings.py          # Конфигурация, поисковые термины
+│   └── settings.py          # Configuration, search patterns
 ├── src/
 │   ├── pubmed/
-│   │   └── searcher.py      # PubMed API клиент
+│   │   └── searcher.py      # PubMed API client
 │   ├── llm/
-│   │   └── extractor.py     # LLM экстракция сущностей
+│   │   └── extractor.py     # LLM term mining
 │   ├── string_db/
-│   │   └── client.py        # STRING DB интеграция
+│   │   └── client.py        # STRING DB integration
 │   ├── database/
-│   │   └── storage.py       # SQLite хранилище
-│   └── pipeline.py          # Главный оркестратор
+│   │   └── storage.py       # SQLite storage
+│   └── pipeline.py          # Main orchestrator
 ├── data/
-│   ├── raw/                 # Сырые данные
-│   └── processed/           # Обработанные данные
+│   ├── raw/                 # Raw data
+│   └── processed/           # Processed data
 └── tests/
 ```
 
-## База данных
+## Database
 
-SQLite схема:
+SQLite scheme:
 
-- `proteins` — основная информация о белках
-- `papers` — метаданные статей
-- `protein_papers` — связь белок-статья
-- `experimental_methods` — экспериментальные методы
-- `cofactors` — кофакторы сборки/разборки
-- `string_interactions` — взаимодействия из STRING
+- `proteins` — proteins' main information
+- `papers` — articles metadata
+- `protein_papers` — protein-article linkage
+- `experimental_methods` — experimental methods
+- `cofactors` — assembly/disassembly cofactors
+- `string_interactions` — interactions from STRING
 
-### Экспорт в CSV
+### CSV export
 
 ```python
 from src.database.storage import AmyloidDatabase
@@ -189,9 +189,9 @@ db = AmyloidDatabase("data/amyloid_aggregation.db")
 db.export_to_csv("proteins_export.csv")
 ```
 
-## Конфигурация поисковых терминов
+## Search patterns configuration
 
-Редактируйте `config/settings.py`:
+Edit `config/settings.py`:
 
 ```python
 AGGREGATION_TERMS = [
@@ -208,9 +208,9 @@ EXCLUSION_TERMS = [
 ]
 ```
 
-## Примеры использования
+## Example of usage
 
-### Поиск функциональных амилоидов
+### Search for functional amyloids
 
 ```python
 from src.pubmed.searcher import search_functional_amyloids
@@ -219,7 +219,7 @@ for article in search_functional_amyloids(max_results=100):
     print(f"{article.pmid}: {article.title}")
 ```
 
-### Анализ кофакторов
+### Cofactors' analysis
 
 ```python
 from src.pipeline import AmyloidPipeline
@@ -232,14 +232,14 @@ print("Functional only:", cofactor_analysis['functional_only'])
 print("Pathological only:", cofactor_analysis['pathological_only'])
 ```
 
-## Следующие шаги
+## TODO:
 
-- [ ] Добавить поддержку full-text извлечения (PubMed Central)
-- [ ] Интеграция с UniProt для валидации ID
-- [ ] Веб-интерфейс для просмотра базы
-- [ ] Экспорт в формат для AmyloidBench
-- [ ] Анализ пересечения кофакторов между функциональными/патологическими
+- [ ] Add full-text extraction support (PubMed Central)
+- [ ] Integration with UniProt for ID validation
+- [ ] Web-interface for DB search
+- [ ] Export into the format for AmyloidBench
+- [ ] Analysis of cofactors' intersection between functional/pathological amyloids
 
-## Лицензия
+## License
 
 MIT
