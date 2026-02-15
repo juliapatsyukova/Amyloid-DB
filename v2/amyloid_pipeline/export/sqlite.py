@@ -153,7 +153,7 @@ def create_sqlite_database(entries: List[AmyloidEntry], db_path: str,
                 comp = entry._composition
                 cursor.execute('''
                     INSERT OR REPLACE INTO sequence_composition VALUES (
-                        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+                        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
                     )
                 ''', (
                     entry_id,

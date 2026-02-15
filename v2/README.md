@@ -156,9 +156,13 @@ When the same entry appears with conflicting labels:
 | `conflicts.json` | Unresolved conflicts |
 
 ## 5. Installation
-
+### Install with pip
 ```bash
 pip install pandas openpyxl beautifulsoup4
+```
+### Install with conda
+```bash
+conda create -y -n amyloid_db -c conda-forge -c defaults pandas openpyxl beautifulsoup4
 ```
 
 ## 6. Usage
